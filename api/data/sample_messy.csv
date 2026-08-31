@@ -1,769 +1,803 @@
 Order No., DATE ,Customer,Item Name,Dept,QTY,Price,Total
+INV-10111,01-13-2024,Aisha Rahman,Espresso Machine,APPLIANCES,3,1538.90,4616.70
+INV-11179,10/08/2024,Chloe Lim,Filter Papers,Consumables,10,7.61,76.10
 INV-10140,2024-01-21,Aisha Rahman,Travel Tumbler,Drinkware,11,29.57,325.27
-INV-10194,2024-11-02,Aisha Rahman,Bean Sampler Box,Consumables,2,61.92,123.84
-INV-11000,2024-10-08,Kevin Tan,Milk Frother,Appliances,10,88.83,888.30
-INV-10451,20 Jul 2024,Chloe Lim,Milk Frother,Appliances,2,,177.90
-INV-10631,2024-11-27,Farid Hassan,Filter Papers,Consumables,3,$7.49,22.47
-INV-10452,2024-10-25,Kevin Tan,Cotton Tote,  Apparel ,4,19.68,78.72
-INV-10696,27 Jan 2024,Grace Wong,Filter Papers,Consumables,3,7.84,23.52
-INV-10532,2024-03-01,Priya Nair,Glass Carafe,Drinkware,6,35.97,215.82
-INV-11174,2024-05-25,Arjun Menon,Milk Frother,Appliances,12,84.18,1010.16
-INV-10509,2024-08-16,Siti Nurhaliza,  Blue Mug ,Drinkware,4,11.90,47.60
-INV-10000,2024-05-20,Marcus Lee,  Filter Papers ,Consumables,12,6.69,80.28
-INV-10434,2024-09-14,Nadia Ismail,Milk Frother,Appliances,2,$91.04,182.08
-INV-10157,2024/11/08,Nadia Ismail,Espresso Machine,Appliances,10,1522.64,15226.40
-INV-10705,2024-01-05,Farid Hassan,Glass Carafe,Drinkware,10,31.89,318.90
-INV-10423,2024-07-07,Arjun Menon,Blue Mug,DRINKWARE,10,$ 12.15,121.50
-INV-10807,2024-03-13,Kevin Tan,FILTER PAPERS,Consumables,8,,58.80
-INV-10542,2024/10/21,Kevin Tan,Milk Frother,Appliances,12,84.27,1011.24
-INV-10549,2024-04-04,Chloe Lim,Linen Apron,Apparel,7,41.84,292.88
-INV-10471,2024-09-02,Priya Nair,Espresso Machine,Appliances,10,1514.21,15142.10
-INV-10104,2024-11-11,Farid Hassan,Linen Apron,Apparel,3,46.60,139.80
-INV-11056,2024-03-12,Arjun Menon,House Blend 1kg,Consumables,9,43.03,387.27
+INV-10700,2024-12-22,Kevin Tan,Filter Papers,Consumables,1,7.17,7.17
+INV-10765,2024-03-16,Daniel Ong,Blue Mug,DRINKWARE,6,11.79,70.74
+,2024-01-28,Priya Nair,Travel Tumbler,Drinkware,11,$28.43,312.73
+INV-10099,2024-12-09,Marcus Lee,Filter Papers,Consumables,12,7.57,45.42
+INV-10592,24 Mar 2024,Farid Hassan,Linen Apron,Apparel,5,48.86,244.30
+INV-10374,2024-11-28,Kevin Tan,Blue Mug,Drinkware,2,12.05,24.10
+INV-10668,2024-10-05,Kevin Tan,Travel Tumbler,Drinkware,5,,142.05
+INV-10997,2024-06-18,Arjun Menon,House Blend 1kg,Consumables,1,44.37,44.37
+INV-10905,2024-03-26,Daniel Ong,Linen Apron,Apparel,5,45.03,225.15
+INV-10524,2024-10-15,  Aisha Rahman ,Glass Carafe,Drinkware,8,34.99,279.92
+INV-10833,2024-12-08,Kevin Tan,Wooden Tray,Homeware,2,78.55,157.10
 INV-10490,2024-10-27,Marcus Lee,Glass Carafe,Drinkware,12,32.17,386.04
-INV-10696,27 Jan 2024,Grace Wong,Filter Papers,Consumables,3,7.84,23.52
-INV-11109,2024-12-30,Farid Hassan,  House Blend 1kg ,Consumables,5,42.80,214.00
-INV-10333,2024-10-23,Arjun Menon,Filter Papers,Consumables,10,7.24,72.40
-INV-10081,2024-03-17,Chloe Lim,Travel Tumbler,DRINKWARE,12,25.62,307.44
-INV-10356,2024-04-19,Kevin Tan,Blue Mug,Drinkware,3,12.16,36.48
-INV-10352,07 Jun 2024,Chloe Lim,Glass Carafe,Drinkware,2,35.56,71.12
-INV-10263,2024-06-03,Nadia Ismail,Filter Papers,Consumables,12,7.72,92.64
-INV-10556,2024-12-09,Chloe Lim,Travel Tumbler,Drinkware,10,26.25,262.50
-INV-10681,2024/12/12,Grace Wong,Wooden Tray,Homeware,4,73.30,293.20
-INV-10015,2024-11-21,Priya Nair,Filter Papers,Consumables,10,7.46,74.60
-INV-10857,2024-09-05,Chloe Lim,Espresso Machine,Appliances,7,1433.10,10031.70
+INV-10359,04 Dec 2024,Kevin Tan,Wooden Tray,Homeware,1,81.83,81.83
 INV-10063,2024-05-06,Farid Hassan,Travel Tumbler,Drinkware,10,$30.47,304.70
-INV-10071,31/02/2024,Siti Nurhaliza,Glass Carafe,Drinkware,9,34.47,310.23
-INV-10396,2024-05-26,Kevin Tan,Blue Mug,Drinkware,4,13.13,52.52
-INV-10797,2024-02-26,Chloe Lim,Glass Carafe,Drinkware,3,35.50,106.50
-INV-10459,2024-02-19,Grace Wong,Filter Papers,Consumables,-,7.41,22.23
-INV-10339,2024-11-10,Farid Hassan,Milk Frother,Appliances,2,$ 81.47,162.94
-INV-11189,2024-11-16,Marcus Lee,ESPRESSO MACHINE,Appliances,7,1381.26,9668.82
-INV-10852,2024-08-31,Siti Nurhaliza,Wooden Tray,Homeware,12,72.01,864.12
-INV-10846,2024-10-28,Farid Hassan,linen apron,Apparel,10,41.85,418.50
-INV-11007,11-24-2024,Farid Hassan,Filter Papers,Consumables,two,7.03,28.12
-INV-10521,2024-06-16,Chloe Lim,House Blend 1kg,Consumables,3,$ 41.80,125.40
-INV-10105,2024/06/04,Siti Nurhaliza,Milk Frother,Appliances,1,87.33,87.33
-INV-10922,2024-05-31,Priya Nair,Espresso Machine,Appliances,7,1408.80,9861.60
-INV-10713,2024-09-17,Marcus Lee,Milk Frother,Appliances,10,$ 83.76,837.60
-INV-10171,2024-04-09,Siti Nurhaliza,House Blend 1kg,Consumables,,39.70,79.40
-INV-10400,2024-05-16,Daniel Ong,,Appliances,9,347.16,3124.44
-INV-10395,08-30-2024,Siti Nurhaliza,MILK FROTHER,  Appliances ,9,89.27,803.43
-INV-11041,2024-12-03,Siti Nurhaliza,Cotton Tote,Apparel,10,17.82,178.20
-INV-10286,02-07-2024,Daniel Ong,Travel Tumbler,Drinkware,8,27.95,223.60
-INV-10735,29 Jan 2024,Arjun Menon,cotton tote,Apparel,6,17.84,107.04
-INV-10330,2024-03-16,Marcus Lee,Wooden Tray,Homeware,11,82.96,912.56
-INV-10247,09-11-2024,Siti Nurhaliza,Blue Mug,Drinkware,12,13.53,162.36
-INV-10455,2024-07-06,Grace Wong,LINEN APRON,Apparel,5,41.71,208.55
-INV-10348,2024-12-13,Grace Wong,Travel Tumbler,Drinkware,9,27.05,243.45
-INV-10544,2024-09-23,Marcus Lee,  Milk Frother ,Appliances,11,95.70,1052.70
-INV-10141,2024-11-14,  Priya Nair ,Espresso Machine,Appliances,1,1362.81,1362.81
-INV-10928,01-21-2024,Siti Nurhaliza,Blue Mug,Drinkware,3,11.50,34.50
-INV-10265,2024-10-02,Priya Nair,Cotton Tote,  Apparel ,4,16.62,66.48
-INV-10708,2024-02-21,Priya Nair,Cotton Tote,Apparel,2,19.30,38.60
-INV-10313,2024-04-20,Chloe Lim,House Blend 1kg,Consumables,5,41.02,205.10
-INV-10209,2024-11-18,Farid Hassan,Wooden Tray,Homeware,1,$ 75.77,75.77
-INV-10098,2024-09-23,Chloe Lim,Blue Mug,Drinkware,1,13.02,13.02
-INV-11123,2024-10-15,Arjun Menon,Milk Frother,Appliances,7,92.46,647.22
-INV-10805,2024-07-19,Farid Hassan,blue mug,Drinkware,10,13.62,136.20
-INV-10419,2024-10-08,Chloe Lim,Filter Papers,Consumables,2,7.03,14.06
-INV-10505,2024-10-17,Nadia Ismail,WOODEN TRAY,Homeware,5,73.52,367.60
 INV-11142,2024-06-10,Ryan Cheah,travel tumbler,  Drinkware ,8,29.11,232.88
-INV-10599,2024-08-09,Priya Nair,Burr Grinder,Appliances,7,323.39,2263.73
+INV-10071,31/02/2024,Siti Nurhaliza,Glass Carafe,Drinkware,9,34.47,310.23
 INV-10634,2024-09-18,Ryan Cheah,Blue Mug,Drinkware,4,11.50,46.00
-INV-11027,2024-09-30,Marcus Lee,Filter Papers,Consumables,3,6.57,19.71
-INV-10427,2024-08-26,Nadia Ismail,Burr Grinder,  Appliances ,8,329.11,2632.88
-INV-10733,2024-09-25,Daniel Ong,  Burr Grinder ,Appliances,5,339.65,1698.25
+INV-10081,2024-03-17,Chloe Lim,Travel Tumbler,DRINKWARE,12,25.62,307.44
+INV-10192,2024-03-04,  Arjun Menon ,House Blend 1kg,Consumables,8,45.00,360.00
+INV-10425,2024-09-02,Chloe Lim,Linen Apron,Apparel,12,49.50,594.00
+INV-10943,2024-06-22,Chloe Lim,House Blend 1kg,  Consumables ,11,39.21,431.31
+INV-10100,2024-06-18,  Farid Hassan ,Burr Grinder,APPLIANCES,11,315.60,3471.60
+INV-10398,2024-08-13,Grace Wong,,Appliances,7,315.96,2211.72
+INV-10388,2024/07/01,  Daniel Ong ,Burr Grinder,APPLIANCES,1,304.23,304.23
+INV-10550,2024-06-02,Ryan Cheah,Cotton Tote,Apparel,4,17.07,68.28
+INV-10144,28 Feb 2024,Priya Nair,  House Blend 1kg ,Consumables,12,42.39,508.68
+INV-10285,2024-08-06,Nadia Ismail,Blue Mug,Drinkware,7,13.75,96.25
+INV-10798,12-26-2024,Nadia Ismail,Burr Grinder,Appliances,6,349.48,2096.88
+INV-10681,2024/12/12,Grace Wong,Wooden Tray,Homeware,4,73.30,293.20
+INV-10247,09-11-2024,Siti Nurhaliza,Blue Mug,Drinkware,12,13.53,162.36
+INV-10209,2024-11-18,Farid Hassan,Wooden Tray,Homeware,1,$ 75.77,75.77
+INV-10952,09-11-2024,Ryan Cheah,Cotton Tote,Apparel,2,17.81,35.62
+INV-10000,2024-05-20,Marcus Lee,  Filter Papers ,Consumables,12,6.69,80.28
+INV-10276,2024-06-17,  Priya Nair ,Espresso Machine,APPLIANCES,4,1540.79,6163.16
+INV-10189,2024-08-05,Daniel Ong,House Blend 1kg,Consumables,4,,171.36
+INV-11040,2024-04-09,Kevin Tan,Travel Tumbler,Drinkware,2,$26.80,53.60
+INV-10994,2024-02-08,  Priya Nair ,Cotton Tote,Apparel,11,16.84,185.24
+INV-10989,2024-06-09,Chloe Lim,Linen Apron,Apparel,11,44.25,486.75
+INV-10622,04-02-2024,Nadia Ismail,  House Blend 1kg ,Consumables,unknown,39.01,351.09
+INV-11144,2024-05-12,  Priya Nair ,Travel Tumbler,Drinkware,10,27.02,270.20
+INV-10807,2024-03-13,Kevin Tan,FILTER PAPERS,Consumables,8,,58.80
+INV-10854,2024-02-20,Marcus Lee,cotton tote,Apparel,-,19.29,212.19
+INV-10458,2024-05-23,Farid Hassan,Bean Sampler Box,Consumables,9,61.38,552.42
+INV-10742,2024-09-14,Nadia Ismail,Travel Tumbler,Drinkware,2,28.40,56.80
+INV-10162,2024-12-19,Arjun Menon,linen apron,Apparel,4,44.90,179.60
+INV-10146,2024-07-22,Ryan Cheah,  Filter Papers ,Consumables,7,7.84,54.88
+INV-10456,2024-10-18,Chloe Lim,Burr Grinder,Appliances,1,290.90,290.90
+INV-11073,2024-03-23,Priya Nair,Blue Mug,  Drinkware ,10,11.57,115.70
+INV-10459,2024-02-19,Grace Wong,Filter Papers,Consumables,-,7.41,22.23
+INV-10927,2024-05-15,Arjun Menon,Filter Papers,Consumables,5,6.86,34.30
+INV-10756,2024-07-20,Daniel Ong,Travel Tumbler,Drinkware,11,28.03,308.33
+INV-10836,2024-10-20,Marcus Lee,FILTER PAPERS,Consumables,8,7.78,62.24
+INV-10015,2024-11-21,Priya Nair,Filter Papers,Consumables,10,7.46,74.60
+INV-10542,2024/10/21,Kevin Tan,Milk Frother,Appliances,12,84.27,1011.24
+INV-10566,31/05/2024,Priya Nair,House Blend 1kg,Consumables,7,$ 42.16,295.12
+INV-10776,2024-03-29,Kevin Tan,Blue Mug,  Drinkware ,7,12.21,85.47
+INV-11016,2024-08-10,Nadia Ismail,Bean Sampler Box,Consumables,12,66.08,792.96
+INV-10088,2024-05-16,Priya Nair,Filter Papers,Consumables,4,7.78,31.12
+INV-10295,2024-02-17,Grace Wong,Cotton Tote,Apparel,2,16.44,32.88
+INV-10556,2024-12-09,Chloe Lim,Travel Tumbler,Drinkware,10,26.25,262.50
+INV-10448,2024-08-02,Marcus Lee,Milk Frother,Appliances,10,96.93,969.30
+INV-10292,2024-06-22,Arjun Menon,Cotton Tote,Apparel,7,19.40,135.80
+INV-10169,2024-04-04,Marcus Lee,Wooden Tray,Homeware,12,76.55,918.60
+INV-10088,2024-05-16,PRIYA NAIR,Filter Papers,Consumables,4,7.78,31.12
+INV-10553,10 Feb 2024,Arjun Menon,Milk Frother,Appliances,11,83.72,920.92
+INV-10455,2024-07-06,Grace Wong,LINEN APRON,Apparel,5,41.71,208.55
+INV-10917,2024-06-03,Grace Wong,Wooden Tray,Homeware,1,78.82,78.82
+INV-10549,2024-04-04,Chloe Lim,Linen Apron,Apparel,7,41.84,292.88
+INV-10884,09 Dec 2024,Kevin Tan,Bean Sampler Box,Consumables,8,63.72,509.76
+INV-10419,2024-10-08,Chloe Lim,Filter Papers,Consumables,2,7.03,14.06
+INV-10697,2024-04-29,Grace Wong,Filter Papers,Consumables,12,6.97,83.64
+INV-10578,2024-01-09,Chloe Lim,Milk Frother,Appliances,5,89.64,448.20
+INV-10831,2024-08-26,Siti Nurhaliza,Cotton Tote,Apparel,8,16.36,130.88
+INV-10599,2024-08-09,Priya Nair,Burr Grinder,Appliances,7,323.39,2263.73
+INV-10919,02-23-2024,Chloe Lim,HOUSE BLEND 1KG,Consumables,7,43.17,302.19
+INV-10101,2024-06-02,Chloe Lim,Burr Grinder,Appliances,2,330.46,660.92
+INV-10306,2024-03-14,Farid Hassan,Burr Grinder,Appliances,3,310.47,931.41
+INV-10978,2024-09-14,Chloe Lim,Wooden Tray,Homeware,3,78.28,234.84
+INV-10682,17 May 2024,Nadia Ismail,Cotton Tote,Apparel,11,$ 16.71,183.81
+INV-10514,2024-07-07,Farid Hassan,Travel Tumbler,Drinkware,5,28.78,143.90
+INV-10498,2024-01-19,Grace Wong,Linen Apron,Apparel,3,48.44,145.32
+INV-10166,2024-10-08,Kevin Tan,Burr Grinder,Appliances,12,315.23,3782.76
+INV-10690,06-24-2024,Nadia Ismail,Glass Carafe,Drinkware,8,35.36,282.88
+INV-10474,2024-08-02,Priya Nair,Espresso Machine,Appliances,6,$ 1310.49,7862.94
+INV-10401,2024-11-04,Priya Nair,Wooden Tray,Homeware,7,74.85,523.95
+INV-10743,2024-01-24,Grace Wong,Blue Mug,Drinkware,9,11.70,105.30
+INV-10210,2024-10-09,Aisha Rahman,Espresso Machine,Appliances,5,1510.84,"7,554.20"
+INV-10141,2024-11-14,  Priya Nair ,Espresso Machine,Appliances,1,1362.81,1362.81
+INV-11012,2024-06-13,Chloe Lim,Milk Frother,Appliances,4,96.09,384.36
+INV-10385,2024-02-04,Chloe Lim,Travel Tumbler,Drinkware,6,28.13,168.78
+INV-10348,2024-12-13,Grace Wong,Travel Tumbler,Drinkware,9,27.05,243.45
+INV-10209,2024-11-18,Farid Hassan,Wooden Tray,Homeware,1,$ 75.77,75.77
+INV-10396,2024-05-26,Kevin Tan,Blue Mug,Drinkware,4,13.13,78.78
+INV-11170,22/02/2024,Daniel Ong,Travel Tumbler,  Drinkware ,7,26.38,184.66
+INV-10725,2024-12-14,Nadia Ismail,Linen Apron,Apparel,11,45.78,503.58
+INV-10175,2024-05-25,Arjun Menon,Travel Tumbler,Drinkware,10,30.09,300.90
+INV-10778,2024-11-11,Marcus Lee,Glass Carafe,Drinkware,10,31.65,316.50
+INV-10839,2024-03-29,Priya Nair,  Glass Carafe ,Drinkware,8,32.25,258.00
+INV-10271,02/07/2024,Aisha Rahman,Burr Grinder,Appliances,11,$322.85,3551.35
 INV-10070,2024-07-08,Siti Nurhaliza,Burr Grinder,  Appliances ,4,344.38,1377.52
 INV-10089,2024-08-28,Marcus Lee,  Wooden Tray ,Homeware,1,70.04,70.04
-INV-11042,2024-10-17,Kevin Tan,Wooden Tray,Homeware,10,77.28,772.80
-INV-11183,25 Jun 2024,Siti Nurhaliza,Blue Mug,Drinkware,3,12.56,37.68
+INV-10531,2024-12-04,Chloe Lim,Linen Apron,Apparel,11,43.88,482.68
+INV-10911,2024-03-04,Kevin Tan,Blue Mug,Drinkware,3,12.72,38.16
+INV-10824,2024-03-19,Aisha Rahman,Linen Apron,Apparel,8,45.65,365.20
 INV-11068,2024-05-23,Marcus Lee,Espresso Machine,Appliances,11,1327.36,14600.96
-INV-11078,09-03-2024,Priya Nair,Cotton Tote,Apparel,8,,147.04
-INV-11130,2024-06-09,Kevin Tan,Bean Sampler Box,Consumables,8,67.35,538.80
-INV-10937,2024-12-13,Arjun Menon,House Blend 1kg,CONSUMABLES,10,41.36,413.60
-INV-10838,2024-12-12,Farid Hassan,House Blend 1kg,Consumables,10,44.82,448.20
-INV-10189,2024-08-05,Daniel Ong,House Blend 1kg,Consumables,4,,171.36
-INV-10666,2024-03-27,Arjun Menon,Milk Frother,Appliances,5,84.10,420.50
-INV-10311,2024-01-26,Nadia Ismail,Blue Mug,DRINKWARE,10,11.64,116.40
-INV-10914,11/01/2024,Aisha Rahman,Blue Mug,Drinkware,11,12.90,141.90
-INV-10775,2024-07-21,Arjun Menon,House Blend 1kg,Consumables,12,40.95,491.40
-INV-10342,03-18-2024,  Aisha Rahman ,Burr Grinder,Appliances,9,326.72,2940.48
-INV-10146,2024-07-22,Ryan Cheah,  Filter Papers ,Consumables,7,7.84,54.88
-INV-11021,2024-01-09,Grace Wong,Filter Papers,Consumables,6,7.11,42.66
-INV-11069,2024-11-04,Ryan Cheah,Glass Carafe,Drinkware,6,$32.71,196.26
-INV-10364,07/06/2024,Arjun Menon,Cotton Tote,Apparel,4,17.04,68.16
-INV-10377,2024/05/11,Marcus Lee,blue mug,Drinkware,1,13.51,13.51
-INV-10637,2024-01-13,Arjun Menon,Wooden Tray,Homeware,6,$ 76.01,456.06
-INV-10493,2024-01-03,Chloe Lim,Cotton Tote,Apparel,3,16.56,49.68
-INV-10352,07 Jun 2024,CHLOE LIM,Glass Carafe,Drinkware,2,35.56,71.12
-INV-10296,2024-03-07,Chloe Lim,Travel Tumbler,Drinkware,6,29.37,176.22
-INV-10993,2024/04/09,  Siti Nurhaliza ,House Blend 1kg,Consumables,12,38.98,467.76
-INV-10967,09-12-2024,Aisha Rahman,House Blend 1kg,Consumables,-,45.29,135.87
-INV-10162,2024-12-19,Arjun Menon,linen apron,Apparel,4,44.90,179.60
-INV-10101,2024-06-02,Chloe Lim,Burr Grinder,Appliances,2,330.46,660.92
-INV-10915,2024-07-13,Daniel Ong,Wooden Tray,Homeware,8,70.16,561.28
-INV-10672,2024-08-12,Daniel Ong,Burr Grinder,Appliances,2,343.18,686.36
-INV-10841,2024-04-13,Nadia Ismail,Travel Tumbler,Drinkware,7,30.73,215.11
-INV-10795,13/04/2024,  Priya Nair ,Blue Mug,Drinkware,10,12.08,120.80
-INV-10448,2024-08-02,Marcus Lee,Milk Frother,Appliances,10,96.93,969.30
-INV-10464,2024-03-24,GRACE WONG,Burr Grinder,Appliances,6,347.61,2085.66
-INV-10017,12-18-2024,Chloe Lim,Milk Frother,Appliances,11,97.71,1074.81
-INV-11124,2024-12-14,Arjun Menon,Espresso Machine,Appliances,8,1524.67,12197.36
-INV-10100,2024-06-18,  Farid Hassan ,Burr Grinder,APPLIANCES,11,315.60,3471.60
-INV-10363,2024-05-25,Ryan Cheah,Espresso Machine,Appliances,10,1586.18,15861.80
-INV-10457,2024-02-07,Grace Wong,Espresso Machine,Appliances,5,1410.13,7050.65
-INV-10826,2024-02-19,Aisha Rahman,Filter Papers,Consumables,4,7.40,29.60
-INV-10463,2024-09-20,Priya Nair,Bean Sampler Box,CONSUMABLES,10,61.47,614.70
-INV-11089,2024-07-14,Kevin Tan,Linen Apron,Apparel,8,42.57,340.56
-INV-10618,2024-04-12,Arjun Menon,  Milk Frother ,Appliances,-,85.81,1029.72
-INV-10138,2024-01-10,Ryan Cheah,Milk Frother,APPLIANCES,8,94.96,759.68
+INV-10554,2024-04-07,Aisha Rahman,Burr Grinder,Appliances,12,293.92,3527.04
+INV-10718,2024-02-07,Aisha Rahman,Bean Sampler Box,Consumables,8,64.27,514.16
+INV-11108,2024-07-15,Grace Wong,BURR GRINDER,Appliances,1,293.12,293.12
+INV-10727,2024-02-29,Arjun Menon,espresso machine,Appliances,7,1330.00,9310.00
+INV-10381,2024-11-01,Chloe Lim,COTTON TOTE,Apparel,8,16.43,131.44
+INV-11072,2024-01-12,Marcus Lee,House Blend 1kg,CONSUMABLES,7,$38.69,270.83
+INV-10710,2024-05-21,Nadia Ismail,Burr Grinder,APPLIANCES,4,338.63,1354.52
+INV-11023,2024/10/26,Aisha Rahman,House Blend 1kg,  Consumables ,12,37.87,454.44
+INV-10990,2024-04-13,Farid Hassan,Blue Mug,Drinkware,5,$ 11.28,56.40
+INV-10817,2024-02-07,Kevin Tan,Blue Mug,Drinkware,2,12.05,24.10
+INV-10735,29 Jan 2024,Arjun Menon,cotton tote,Apparel,6,17.84,107.04
+INV-10713,2024-09-17,Marcus Lee,Milk Frother,Appliances,10,$ 83.76,837.60
+INV-10947,2024-09-15,Arjun Menon,Blue Mug,Drinkware,3,11.28,33.84
+INV-11175,2024/03/28,Aisha Rahman,Filter Papers,Consumables,9,6.71,60.39
+INV-11118,2024-06-27,Kevin Tan,Wooden Tray,Homeware,10,81.01,810.10
+INV-11161,16/08/2024,Daniel Ong,filter papers,Consumables,12,7.27,87.24
+INV-10400,2024-05-16,Daniel Ong,,Appliances,9,347.16,3124.44
+INV-10286,02-07-2024,Daniel Ong,Travel Tumbler,Drinkware,8,27.95,223.60
+INV-10256,2024-04-25,Nadia Ismail,Cotton Tote,Apparel,3,19.67,59.01
+INV-11052,2024-08-29,Nadia Ismail,Bean Sampler Box,Consumables,9,$ 59.03,265.63
 INV-10080,10-14-2024,  Aisha Rahman ,Cotton Tote,APPAREL,7,18.19,127.33
-INV-10697,2024-04-29,Grace Wong,Filter Papers,Consumables,12,6.97,83.64
-INV-10192,2024-03-04,  Arjun Menon ,House Blend 1kg,Consumables,8,45.00,360.00
-INV-10738,2024-05-05,Aisha Rahman,  Bean Sampler Box ,Consumables,1,55.83,55.83
-INV-11179,10/08/2024,Chloe Lim,Filter Papers,Consumables,10,7.61,76.10
-INV-10859,2024-03-10,Chloe Lim,Milk Frother,Appliances,7,92.73,649.11
-INV-10743,2024-01-24,Grace Wong,Blue Mug,Drinkware,9,11.70,105.30
-INV-10384,2024-12-06,Nadia Ismail,Espresso Machine,APPLIANCES,3,1470.49,4411.47
-INV-10855,2024-08-14,Kevin Tan,Glass Carafe,Drinkware,12,33.51,402.12
-INV-10725,2024-12-14,Nadia Ismail,Linen Apron,Apparel,11,45.78,503.58
-INV-10169,2024-04-04,Marcus Lee,Wooden Tray,Homeware,12,76.55,918.60
+INV-10409,2024-11-26,Kevin Tan,Blue Mug,Drinkware,4,11.57,46.28
+INV-11117,08/10/2024,Siti Nurhaliza,  Wooden Tray ,Homeware,2,69.44,138.88
+INV-10017,12-18-2024,Chloe Lim,Milk Frother,Appliances,11,97.71,1074.81
+INV-10138,2024-01-10,Ryan Cheah,Milk Frother,APPLIANCES,8,94.96,759.68
+INV-10628,2024-08-02,Chloe Lim,Linen Apron,Apparel,12,45.31,543.72
+INV-10913,2024/01/25,Farid Hassan,,Appliances,10,$93.83,938.30
+INV-10226,2024-03-20,Daniel Ong,  Glass Carafe ,Drinkware,11,34.27,376.97
+INV-10339,2024-11-10,Farid Hassan,Milk Frother,Appliances,2,$ 81.47,162.94
+INV-10658,11-21-2024,Chloe Lim,Linen Apron,Apparel,8,44.31,354.48
+INV-10619,2024-06-12,Siti Nurhaliza,burr grinder,Appliances,7,$ 299.37,2095.59
+INV-10190,2024-05-16,Priya Nair,Bean Sampler Box,Consumables,3,$58.59,175.77
+INV-10104,2024-11-11,Farid Hassan,Linen Apron,Apparel,3,46.60,139.80
+INV-10105,2024/06/04,Siti Nurhaliza,Milk Frother,Appliances,1,87.33,87.33
+INV-10842,12/06/2024,Ryan Cheah,GLASS CARAFE,Drinkware,5,37.23,186.15
+INV-10585,2024-11-22,Aisha Rahman,Linen Apron,APPAREL,1,45.47,45.47
+INV-10258,2024-05-15,Chloe Lim,Travel Tumbler,Drinkware,1,29.63,29.63
+INV-10333,2024-10-23,Arjun Menon,Filter Papers,Consumables,10,7.24,72.40
+INV-10375,2024-08-29,Ryan Cheah,Glass Carafe,Drinkware,5,$ 32.37,242.77
+INV-10265,2024-10-02,Priya Nair,Cotton Tote,  Apparel ,4,16.62,66.48
+INV-10651,2024-09-27,Nadia Ismail,Travel Tumbler,Drinkware,8,26.67,213.36
+INV-10465,2024-10-30,Kevin Tan,HOUSE BLEND 1KG,Consumables,5,43.49,217.45
+INV-10841,2024-04-13,Nadia Ismail,Travel Tumbler,Drinkware,7,30.73,215.11
+INV-10975,30/12/2024,Ryan Cheah,Wooden Tray,Homeware,6,76.73,460.38
+INV-10840,2024-01-22,Grace Wong,Espresso Machine,Appliances,3,1539.45,4618.35
+INV-10705,2024-01-05,Farid Hassan,Glass Carafe,Drinkware,10,31.89,318.90
 INV-10898,2024-03-27,Farid Hassan,Blue Mug,  Drinkware ,4,12.38,49.52
+INV-10551,2024-10-14,Grace Wong,Glass Carafe,Drinkware,1,37.03,37.03
+INV-11114,2024-03-21,Daniel Ong,Burr Grinder,Appliances,1,303.31,303.31
+INV-10353,2024-03-06,Nadia Ismail,Linen Apron,Apparel,6,46.29,277.74
+INV-10981,2024-05-26,Grace Wong,Linen Apron,Apparel,9,$ 46.57,419.13
 INV-10062,2024-04-30,Grace Wong,Travel Tumbler,Drinkware,11,28.53,313.83
 INV-10001,12 Dec 2024,  Ryan Cheah ,Espresso Machine,Appliances,2,1345.47,2690.94
-INV-11096,26/10/2024,Siti Nurhaliza,Travel Tumbler,Drinkware,11,26.07,286.77
-INV-10099,2024-12-09,Marcus Lee,Filter Papers,Consumables,12,7.57,90.84
-INV-10353,2024-03-06,Nadia Ismail,Linen Apron,Apparel,6,46.29,277.74
-INV-10863,2024-01-16,Marcus Lee,Filter Papers,Consumables,11,7.86,86.46
-INV-11199,2024-06-18,Daniel Ong,Cotton Tote,Apparel,1,18.71,18.71
-INV-10531,2024-12-04,Chloe Lim,Linen Apron,Apparel,11,43.88,482.68
-INV-10354,2024-12-16,Chloe Lim,Wooden Tray,Homeware,12,81.00,972.00
-INV-10619,2024-06-12,Siti Nurhaliza,burr grinder,Appliances,7,$ 299.37,2095.59
-INV-11110,2024-11-23,Arjun Menon,blue mug,Drinkware,3,13.61,40.83
-INV-11079,2024-03-14,Farid Hassan,Espresso Machine,Appliances,10,1545.81,15458.10
-INV-10349,04 Nov 2024,Priya Nair,Milk Frother,Appliances,11,$84.59,930.49
-INV-10704,0000-00-00,Nadia Ismail,Linen Apron,Apparel,3,47.46,142.38
-INV-10303,2024-11-10,Nadia Ismail,Linen Apron,Apparel,10,48.11,481.10
-INV-11196,12 Aug 2024,Ryan Cheah,Travel Tumbler,Drinkware,3,26.78,80.34
-INV-11126,2024-12-12,  Ryan Cheah ,Travel Tumbler,Drinkware,4,$27.34,109.36
-INV-10276,2024-06-17,  Priya Nair ,Espresso Machine,APPLIANCES,4,1540.79,6163.16
-INV-10341,2024-11-29,Marcus Lee,Blue Mug,  Drinkware ,10,12.37,123.70
-INV-10682,17 May 2024,Nadia Ismail,Cotton Tote,Apparel,11,$ 16.71,183.81
-INV-11054,2024-09-18,Daniel Ong,Milk Frother,Appliances,9,82.48,742.32
 INV-10238,2024-03-14,Marcus Lee,Espresso Machine,Appliances,10,1449.32,14493.20
-INV-10285,2024-08-06,Nadia Ismail,Blue Mug,Drinkware,7,13.75,96.25
-INV-11077,2024-02-13,Marcus Lee,Wooden Tray,  Homeware ,5,78.46,392.30
-INV-10893,30/07/2024,Aisha Rahman,Filter Papers,Consumables,5,7.08,35.40
-INV-10027,2024-12-14,Ryan Cheah,Milk Frother,Appliances,1,97.39,97.39
-INV-10670,2024-11-30,Marcus Lee,Espresso Machine,Appliances,2,$1592.03,3184.06
-INV-10117,2024-08-21,Priya Nair,Blue Mug,Drinkware,2,12.64,25.28
-INV-10702,15/02/2024,Ryan Cheah,Cotton Tote,Apparel,7,16.45,115.15
-INV-10190,2024-05-16,Priya Nair,Bean Sampler Box,Consumables,3,$58.59,175.77
-INV-10948,2024-09-08,Kevin Tan,Cotton Tote,Apparel,2,19.33,38.66
-INV-10581,2024-07-22,Daniel Ong,Milk Frother,Appliances,5,94.61,473.05
-INV-10131,2024-09-05,Aisha Rahman,Cotton Tote,Apparel,7,16.99,118.93
-INV-10623,2024-08-24,RYAN CHEAH,BEAN SAMPLER BOX,Consumables,12,56.13,673.56
-INV-10973,2024-08-19,  Priya Nair ,Linen Apron,Apparel,5,$49.17,245.85
 INV-10561,2024-11-28,Kevin Tan,Milk Frother,Appliances,9,86.88,781.92
-INV-10292,2024-06-22,Arjun Menon,Cotton Tote,Apparel,7,19.40,135.80
-INV-10090,2024-06-28,Siti Nurhaliza,Espresso Machine,Appliances,8,$ 1541.81,12334.48
-INV-10942,2024-10-22,Ryan Cheah,Filter Papers,Consumables,12,7.29,87.48
-INV-10955,2024-10-14,Marcus Lee,Filter Papers,Consumables,9,6.97,62.73
-INV-10283,2024-01-23,Ryan Cheah,Cotton Tote,APPAREL,10,18.01,180.10
-INV-10853,2024-06-08,Siti Nurhaliza,Burr Grinder,Appliances,5,289.29,1446.45
-INV-10837,2024-01-18,Chloe Lim,Cotton Tote,Apparel,7,17.28,120.96
-INV-10030,2024-05-14,  Chloe Lim ,blue mug,Drinkware,12,13.63,163.56
-INV-10358,2024-09-16,Chloe Lim,Milk Frother,Appliances,2,$ 95.13,190.26
-INV-10663,2024-09-08,Grace Wong,Filter Papers,CONSUMABLES,11,7.24,79.64
-,25 Feb 2024,Marcus Lee,House Blend 1kg,Consumables,2,$ 42.65,85.30
-INV-10110,2024-12-10,Siti Nurhaliza,Burr Grinder,Appliances,4,$ 293.98,1175.92
-INV-10233,06-02-2024,Aisha Rahman,travel tumbler,Drinkware,12,$ 27.68,332.16
-INV-10016,2024-08-24,Grace Wong,Bean Sampler Box,Consumables,3,64.84,194.52
-INV-10758,2024-07-20,Ryan Cheah,Espresso Machine,Appliances,6,1389.59,8337.54
-INV-10128,2024-07-13,Arjun Menon,Blue Mug,Drinkware,10,13.39,133.90
-INV-11150,2024-04-10,Priya Nair,Bean Sampler Box,Consumables,7,61.16,428.12
-INV-10470,2024-10-23,Farid Hassan,Cotton Tote,Apparel,11,17.16,188.76
-INV-10588,2024-10-17,Arjun Menon,Espresso Machine,Appliances,12,1366.31,16395.72
-INV-11173,01 Dec 2024,Grace Wong,MILK FROTHER,Appliances,2,91.10,182.20
-INV-10800,2024-08-11,Nadia Ismail,Glass Carafe,Drinkware,12,38.22,458.64
-INV-10966,2024-08-22,Nadia Ismail,Travel Tumbler,Drinkware,8,29.52,236.16
-INV-10277,2024-03-07,Chloe Lim,HOUSE BLEND 1KG,Consumables,3,37.37,112.11
-INV-10012,2024-04-29,Daniel Ong,Espresso Machine,Appliances,2,$1529.19,3058.38
-INV-11166,2024-07-21,Siti Nurhaliza,Wooden Tray,Homeware,11,72.47,797.17
-INV-11017,2024-01-13,Arjun Menon,Travel Tumbler,Drinkware,3,$29.38,88.14
-INV-10690,06-24-2024,Nadia Ismail,Glass Carafe,Drinkware,8,35.36,282.88
-INV-10999,2024-11-11,Nadia Ismail,House Blend 1kg,  Consumables ,11,37.77,415.47
-INV-11113,2024-12-11,Aisha Rahman,  Wooden Tray ,Homeware,3,71.92,215.76
-INV-10585,2024-11-22,Aisha Rahman,Linen Apron,APPAREL,1,45.47,45.47
-INV-10025,2024-08-04,  Farid Hassan ,Filter Papers,Consumables,11,6.76,74.36
-INV-10971,15/09/2024,Grace Wong,Filter Papers,Consumables,6,7.40,44.40
-INV-10564,2024-01-24,Farid Hassan,Espresso Machine,APPLIANCES,7,1412.50,9887.50
-INV-10927,2024-05-15,Arjun Menon,Filter Papers,Consumables,5,6.86,34.30
-INV-10051,n/a,Priya Nair,Espresso Machine,APPLIANCES,9,$ 1360.56,12245.04
-INV-10333,2024-10-23,Arjun Menon,Filter Papers,Consumables,10,7.24,72.40
-INV-10226,2024-03-20,Daniel Ong,  Glass Carafe ,Drinkware,11,34.27,376.97
-INV-10302,n/a,Marcus Lee,Burr Grinder,Appliances,,295.35,1476.75
-INV-10843,2024-07-22,Chloe Lim,Travel Tumbler,Drinkware,9,25.69,231.21
-INV-10494,2024-09-01,Nadia Ismail,Glass Carafe,Drinkware,8,34.25,274.00
-INV-10936,2024-02-23,Grace Wong,Wooden Tray,Homeware,3,79.44,238.32
-INV-10176,27/01/2024,Siti Nurhaliza,Cotton Tote,Apparel,3,17.79,53.37
-INV-10072,2024/09/27,Aisha Rahman,House Blend 1kg,Consumables,11,45.52,500.72
-INV-10976,2024-04-17,Farid Hassan,Bean Sampler Box,CONSUMABLES,4,63.64,254.56
-INV-10625,2024-11-20,Siti Nurhaliza,Linen Apron,Apparel,3,46.56,139.68
-INV-10498,2024-01-19,Grace Wong,Linen Apron,Apparel,3,48.44,145.32
-INV-10398,2024-08-13,Grace Wong,,Appliances,7,315.96,2211.72
-INV-10728,2024-12-07,Ryan Cheah,House Blend 1kg,  Consumables ,5,$ 42.40,212.00
-INV-11113,2024-12-11,Aisha Rahman,  Wooden Tray ,Homeware,3,71.92,215.76
-INV-10753,2024-12-30,Siti Nurhaliza,Blue Mug,Drinkware,3,13.68,41.04
-INV-10919,02-23-2024,Chloe Lim,HOUSE BLEND 1KG,Consumables,7,43.17,302.19
-INV-10994,2024-02-08,  Priya Nair ,Cotton Tote,Apparel,11,16.84,185.24
-INV-10769,2024/03/03,Aisha Rahman,Travel Tumbler,Drinkware,3,27.79,83.37
-INV-10258,2024-05-15,Chloe Lim,Travel Tumbler,Drinkware,1,29.63,29.63
-INV-10456,2024-10-18,Chloe Lim,Burr Grinder,Appliances,1,290.90,290.90
-INV-10099,2024-12-09,Marcus Lee,Filter Papers,Consumables,12,7.57,90.84
+INV-10356,2024-04-19,Kevin Tan,Blue Mug,Drinkware,3,12.16,36.48
+INV-10665,2024-05-29,Aisha Rahman,house blend 1kg,Consumables,4,$ 37.61,150.44
+INV-11188,2024-07-18,Grace Wong,Glass Carafe,Drinkware,11,36.40,400.40
+INV-10920,28/02/2024,Daniel Ong,Wooden Tray,  HOMEWARE ,5,77.79,388.95
+INV-10389,2024-11-17,Daniel Ong,Burr Grinder,Appliances,11,$ 303.43,3337.73
+INV-10165,2024-10-10,Chloe Lim,Filter Papers,Consumables,8,7.37,58.96
+INV-10414,2024-07-17,Chloe Lim,WOODEN TRAY,Homeware,9,71.23,641.07
+INV-11035,04-09-2024,Daniel Ong,Espresso Machine,Appliances,5,1483.90,7419.50
+INV-11045,2024-12-13,Ryan Cheah,Milk Frother,Appliances,3,95.05,285.15
 INV-10182,2024-08-07,Siti Nurhaliza,Cotton Tote,Apparel,10,17.27,172.70
-INV-10325,2024-02-15,Grace Wong,Cotton Tote,Apparel,6,19.20,115.20
-INV-10295,2024-02-17,Grace Wong,Cotton Tote,Apparel,2,16.44,32.88
-INV-10033,01 Jan 2024,Farid Hassan,  Glass Carafe ,Drinkware,9,35.17,316.53
-INV-10576,2024-01-04,Chloe Lim,Cotton Tote,Apparel,1,$ 18.57,18.57
-INV-10280,2024-03-05,Ryan Cheah,Blue Mug,Drinkware,1,11.69,11.69
-INV-10435,2024-03-19,Priya Nair,Glass Carafe,Drinkware,10,35.54,355.40
-INV-11059,2024-07-08,Marcus Lee,Cotton Tote,Apparel,5,17.03,85.15
-INV-10381,2024-11-01,Chloe Lim,COTTON TOTE,Apparel,8,16.43,131.44
-INV-10924,2024-12-09,Daniel Ong,burr grinder,Appliances,1,303.01,303.01
-INV-10686,11-21-2024,Nadia Ismail,Wooden Tray,Homeware,8,69.82,558.56
-INV-10175,2024-05-25,Arjun Menon,Travel Tumbler,Drinkware,10,30.09,300.90
-INV-10405,2024-11-10,Grace Wong,Blue Mug,Drinkware,6,$ 13.07,78.42
-INV-10804,03-31-2024,Ryan Cheah,wooden tray,Homeware,3,78.87,236.61
-INV-10385,2024-02-04,Chloe Lim,Travel Tumbler,Drinkware,6,28.13,168.78
-INV-10401,2024-11-04,Priya Nair,Wooden Tray,Homeware,7,74.85,523.95
-INV-10629,12-25-2024,CHLOE LIM,Blue Mug,Drinkware,6,13.23,79.38
-INV-10112,2024-02-07,Arjun Menon,Espresso Machine,Appliances,10,,15903.40
-INV-11093,2024/01/04,  Farid Hassan ,Espresso Machine,Appliances,12,1306.59,15679.08
-INV-10655,2024-03-01,Marcus Lee,Travel Tumbler,Drinkware,6,28.96,173.76
-INV-10613,2024-05-08,Marcus Lee,Cotton Tote,Apparel,6,$19.02,114.12
-INV-10209,2024-11-18,Farid Hassan,Wooden Tray,Homeware,1,$ 75.77,75.77
-INV-11088,2024/12/23,  Chloe Lim ,Bean Sampler Box,Consumables,1,61.02,61.02
-INV-10361,25/03/2024,Ryan Cheah,Glass Carafe,Drinkware,10,37.21,372.10
-INV-10600,2024-02-13,Farid Hassan,Filter Papers,Consumables,7,7.37,51.59
-INV-10111,01-13-2024,Aisha Rahman,Espresso Machine,APPLIANCES,3,1538.90,4616.70
-,2024-01-28,Priya Nair,Travel Tumbler,Drinkware,11,$28.43,312.73
-INV-11169,2024-12-24,Ryan Cheah,Wooden Tray,  Homeware ,5,$ 71.97,359.85
-INV-10156,2024-05-22,ARJUN MENON,Espresso Machine,Appliances,2,1545.91,3091.82
-INV-10875,2024-10-14,Nadia Ismail,FILTER PAPERS,Consumables,,7.93,47.58
-INV-10604,2024-07-03,Siti Nurhaliza,Blue Mug,Drinkware,8,13.61,108.88
-INV-10058,2024-05-31,MARCUS LEE,Wooden Tray,Homeware,-,75.80,303.20
-INV-10332,0000-00-00,Priya Nair,Glass Carafe,Drinkware,11,36.72,403.92
-INV-11115,2024-12-08,Grace Wong,Milk Frother,Appliances,6,93.98,563.88
-INV-11092,Feb 30 2024,Siti Nurhaliza,Milk Frother,Appliances,9,90.75,816.75
-INV-10748,18 Mar 2024,Aisha Rahman,Bean Sampler Box,Consumables,4,65.23,260.92
-INV-10685,2024-10-24,Aisha Rahman,Cotton Tote,Apparel,6,19.62,117.72
-INV-10032,2024-03-19,Kevin Tan,Filter Papers,Consumables,4,7.26,29.04
-INV-10888,2024-06-30,Marcus Lee,Burr Grinder,Appliances,4,329.88,1319.52
-INV-10892,2024-09-13,Daniel Ong,Travel Tumbler,Drinkware,4,27.84,111.36
-INV-10396,2024-05-26,Kevin Tan,Blue Mug,Drinkware,4,13.13,52.52
-INV-10031,2024-11-16,Siti Nurhaliza,Glass Carafe,Drinkware,2,$34.95,69.90
-INV-10926,2024-02-21,  Siti Nurhaliza ,Travel Tumbler,Drinkware,2,29.57,59.14
-INV-10566,31/05/2024,Priya Nair,House Blend 1kg,Consumables,7,$ 42.16,295.12
-INV-10487,26/06/2024,Arjun Menon,Milk Frother,Appliances,2,97.10,194.20
-INV-10932,2024-02-17,Kevin Tan,House Blend 1kg,Consumables,12,39.58,474.96
-INV-10460,2024-10-12,Kevin Tan,Burr Grinder,Appliances,6,338.87,2033.22
-INV-10501,2024-10-05,Chloe Lim,Milk Frother,Appliances,-,$88.19,970.09
-INV-10018,2024-04-27,Aisha Rahman,Espresso Machine,  Appliances ,1,1503.54,1503.54
 INV-10768,2024-10-08,Marcus Lee,  Linen Apron ,Apparel,9,48.19,433.71
-INV-10759,2024-05-19,Marcus Lee,Wooden Tray,Homeware,8,73.36,586.88
+INV-10435,2024-03-19,Priya Nair,Glass Carafe,Drinkware,10,35.54,355.40
+INV-10724,10-01-2024,Kevin Tan,Espresso Machine,Appliances,3,$ 1587.55,4762.65
+INV-10969,2024/12/20,Farid Hassan,Cotton Tote,Apparel,3,19.53,58.59
+INV-11159,28/11/2024,Chloe Lim,Espresso Machine,Appliances,11,1472.29,16195.19
+INV-10310,01 Nov 2024,Daniel Ong,Burr Grinder,APPLIANCES,10,337.72,3377.20
+INV-10964,2024-06-22,Daniel Ong,Espresso Machine,Appliances,4,$1437.54,5750.16
+INV-10708,2024-02-21,Priya Nair,Cotton Tote,Apparel,2,19.30,38.60
+INV-10197,2024-05-17,FARID HASSAN,  Blue Mug ,Drinkware,11,13.75,151.25
+INV-10709,2024-06-28,Grace Wong,Travel Tumbler,Drinkware,7,28.50,199.50
+INV-10364,07/06/2024,Arjun Menon,Cotton Tote,Apparel,4,17.04,68.16
+INV-10976,2024-04-17,Farid Hassan,Bean Sampler Box,CONSUMABLES,4,63.64,254.56
+INV-10960,05-29-2024,CHLOE LIM,Burr Grinder,APPLIANCES,11,310.73,3418.03
+INV-10574,2024-09-15,Arjun Menon,Wooden Tray,Homeware,4,70.70,282.80
+INV-11138,2024-05-23,Grace Wong,Milk Frother,Appliances,9,88.84,799.56
+INV-10027,2024-12-14,Ryan Cheah,Milk Frother,Appliances,1,97.39,97.39
+INV-10751,2024-06-06,Daniel Ong,Linen Apron,  Apparel ,12,48.14,577.68
+INV-10117,2024-08-21,Priya Nair,Blue Mug,Drinkware,2,12.64,25.28
+INV-10907,2024-08-10,Nadia Ismail,bean sampler box,  Consumables ,6,63.19,379.14
+INV-10792,2024-09-09,Chloe Lim,HOUSE BLEND 1KG,Consumables,4,38.53,154.12
+INV-10901,12/04/2024,Ryan Cheah,Linen Apron,Apparel,9,40.54,364.86
+INV-10784,2024/01/14,Kevin Tan,Burr Grinder,Appliances,3,312.86,938.58
+INV-10171,2024-04-09,Siti Nurhaliza,House Blend 1kg,Consumables,,39.70,79.40
+INV-10604,2024-07-03,Siti Nurhaliza,Blue Mug,Drinkware,8,13.61,108.88
+INV-10131,2024-09-05,Aisha Rahman,Cotton Tote,Apparel,7,16.99,118.93
+INV-10818,2024-02-08,Chloe Lim,Glass Carafe,Drinkware,3,37.61,112.83
+INV-10038,18/04/2024,Chloe Lim,Bean Sampler Box,  Consumables ,7,66.62,466.34
+INV-11169,2024-12-24,Ryan Cheah,Wooden Tray,  Homeware ,5,$ 71.97,359.85
+INV-10233,06-02-2024,Aisha Rahman,travel tumbler,Drinkware,12,$ 27.68,332.16
+INV-11139,2024-01-28,Chloe Lim,  Espresso Machine ,Appliances,3,1522.55,4567.65
+INV-10483,06-11-2024,Arjun Menon,  espresso machine ,Appliances,8,1505.17,12041.36
+INV-10925,2024-09-09,Priya Nair,Travel Tumbler,DRINKWARE,11,$29.88,328.68
+INV-10090,2024-06-28,Siti Nurhaliza,Espresso Machine,Appliances,8,$ 1541.81,12334.48
+INV-10888,2024-06-30,Marcus Lee,Burr Grinder,Appliances,4,329.88,1319.52
+INV-10358,2024-09-16,Chloe Lim,Milk Frother,Appliances,2,$ 95.13,190.26
+INV-10467,2024-07-07,Kevin Tan,House Blend 1kg,Consumables,1,39.84,39.84
+INV-10593,2024/12/12,Chloe Lim,Espresso Machine,Appliances,7,1469.34,5142.69
+INV-10523,2024-01-29,Arjun Menon,Travel Tumbler,Drinkware,8,30.23,241.84
+INV-11079,2024-03-14,Farid Hassan,Espresso Machine,Appliances,10,1545.81,15458.10
+INV-10030,2024-05-14,  Chloe Lim ,blue mug,Drinkware,12,13.63,163.56
+INV-10505,2024-10-17,Nadia Ismail,WOODEN TRAY,Homeware,5,73.52,367.60
+INV-10810,2024-08-16,  Aisha Rahman ,Filter Papers,CONSUMABLES,6,7.58,45.48
+INV-10530,2024/07/14,Arjun Menon,Filter Papers,Consumables,6,7.92,47.52
+INV-10110,2024-12-10,Siti Nurhaliza,Burr Grinder,Appliances,4,$ 293.98,1175.92
+INV-10713,2024-09-17,Marcus Lee,Milk Frother,Appliances,10,$ 83.76,837.60
+INV-10016,2024-08-24,Grace Wong,Bean Sampler Box,Consumables,3,64.84,194.52
+INV-10121,2024-05-21,CHLOE LIM,Milk Frother,Appliances,11,93.48,1028.28
+INV-10352,07 Jun 2024,Chloe Lim,Glass Carafe,Drinkware,2,35.56,71.12
+INV-10128,2024-07-13,Arjun Menon,Blue Mug,Drinkware,10,13.39,133.90
+INV-11165,2024-11-30,Siti Nurhaliza,Burr Grinder,Appliances,6,$302.61,1815.66
+INV-10408,2024-12-13,Arjun Menon,Blue Mug,Drinkware,10,11.61,116.10
+INV-10805,2024-07-19,Farid Hassan,blue mug,Drinkware,10,13.62,136.20
+INV-10526,04-21-2024,Farid Hassan,Milk Frother,Appliances,12,94.63,1135.56
+INV-10263,2024-06-03,Nadia Ismail,Filter Papers,Consumables,12,7.72,92.64
+INV-10311,2024-01-26,Nadia Ismail,Blue Mug,DRINKWARE,10,11.64,116.40
+INV-10066,2024-05-15,Grace Wong,Filter Papers,CONSUMABLES,4,7.56,30.24
+INV-10238,2024-03-14,Marcus Lee,Espresso Machine,Appliances,10,1449.32,14493.20
+INV-10871,2024-12-30,Ryan Cheah,Milk Frother,Appliances,5,90.93,454.65
+INV-10302,n/a,Marcus Lee,Burr Grinder,Appliances,,295.35,1476.75
+INV-10012,2024-04-29,Daniel Ong,Espresso Machine,Appliances,2,$1529.19,3058.38
+INV-11195,2024-01-12,Priya Nair,Blue Mug,Drinkware,9,11.63,104.67
+INV-10277,2024-03-07,Chloe Lim,HOUSE BLEND 1KG,Consumables,3,37.37,112.11
+INV-10633,2024-08-08,Daniel Ong,Linen Apron,Apparel,6,49.20,295.20
+INV-10077,2024/02/17,Nadia Ismail,Milk Frother,Appliances,1,96.21,96.21
+INV-10557,2024-06-04,Aisha Rahman,Espresso Machine,Appliances,6,1444.02,8664.12
+INV-10499,2024-05-28,Aisha Rahman,Cotton Tote,Apparel,12,16.87,202.44
+INV-10696,27 Jan 2024,Grace Wong,Filter Papers,Consumables,3,7.84,23.52
+INV-10025,2024-08-04,  Farid Hassan ,Filter Papers,Consumables,11,6.76,74.36
+INV-10858,2024-03-22,Daniel Ong,Burr Grinder,Appliances,9,340.55,3064.95
+INV-10349,04 Nov 2024,Priya Nair,Milk Frother,Appliances,11,$84.59,930.49
+INV-10380,2024-11-23,Farid Hassan,Travel Tumbler,Drinkware,7,25.47,178.29
+INV-10051,n/a,Priya Nair,Espresso Machine,APPLIANCES,9,$ 1360.56,12245.04
+INV-10325,2024-02-15,Grace Wong,Cotton Tote,Apparel,6,19.20,115.20
+INV-10033,01 Jan 2024,Farid Hassan,  Glass Carafe ,Drinkware,9,35.17,316.53
+INV-10610,2024-07-13,Priya Nair,House Blend 1kg,Consumables,11,41.68,458.48
+INV-10303,2024-11-10,Nadia Ismail,Linen Apron,Apparel,10,48.11,481.10
+INV-10022,26/10/2024,Grace Wong,Wooden Tray,Homeware,5,76.93,384.65
+INV-10985,2024-01-17,  Kevin Tan ,Milk Frother,Appliances,9,83.73,753.57
+INV-10434,2024-09-14,Nadia Ismail,Milk Frother,Appliances,2,$91.04,182.08
+INV-11155,2024-05-10,Arjun Menon,Wooden Tray,Homeware,4,70.88,283.52
+INV-10160,10-11-2024,AISHA RAHMAN,House Blend 1kg,Consumables,5,$ 43.17,215.85
+INV-10159,23/06/2024,Siti Nurhaliza,  Cotton Tote ,Apparel,5,16.96,84.80
+INV-10672,2024-08-12,Daniel Ong,Burr Grinder,Appliances,2,343.18,686.36
+INV-10313,2024-04-20,Chloe Lim,House Blend 1kg,Consumables,5,41.02,205.10
+INV-10967,09-12-2024,Aisha Rahman,House Blend 1kg,Consumables,-,45.29,135.87
+INV-10775,2024-07-21,Arjun Menon,House Blend 1kg,Consumables,12,40.95,491.40
+INV-11080,15 May 2024,Priya Nair,Glass Carafe,Drinkware,9,35.76,321.84
+INV-10652,2024-07-19,Farid Hassan,burr grinder,Appliances,10,$326.21,3262.10
+INV-11171,2024-10-07,Aisha Rahman,Travel Tumbler,DRINKWARE,8,30.45,243.60
+INV-10431,2024/04/25,Kevin Tan,Glass Carafe,Drinkware,12,32.54,390.48
+INV-10333,2024-10-23,Arjun Menon,Filter Papers,Consumables,10,7.24,72.40
+INV-10112,2024-02-07,Arjun Menon,Espresso Machine,Appliances,10,,15903.40
+INV-10623,2024-08-24,Ryan Cheah,BEAN SAMPLER BOX,Consumables,12,56.13,673.56
+INV-11050,2024-11-19,Aisha Rahman,Travel Tumbler,Drinkware,9,30.20,271.80
+INV-11103,2024-03-23,Daniel Ong,  Espresso Machine ,Appliances,12,1434.51,17214.12
+INV-10176,27/01/2024,Siti Nurhaliza,Cotton Tote,Apparel,3,17.79,53.37
+,25 Feb 2024,Marcus Lee,House Blend 1kg,Consumables,2,$ 42.65,85.30
+INV-10098,2024-09-23,Chloe Lim,Blue Mug,Drinkware,1,13.02,13.02
+INV-10937,2024-12-13,Arjun Menon,House Blend 1kg,CONSUMABLES,10,41.36,413.60
+INV-10786,29 Apr 2024,Priya Nair,Bean Sampler Box,Consumables,10,60.23,602.30
+INV-10738,2024-05-05,Aisha Rahman,  Bean Sampler Box ,Consumables,1,55.83,55.83
+INV-10329,2024-06-27,Kevin Tan,Travel Tumbler,Drinkware,4,28.17,112.68
+INV-10675,04-15-2024,Aisha Rahman,Glass Carafe,Drinkware,4,35.71,142.84
+INV-11075,2024/09/21,Grace Wong,Glass Carafe,DRINKWARE,3,$ 33.21,99.63
+INV-10021,03-12-2024,MARCUS LEE,Filter Papers,Consumables,5,7.19,35.95
+INV-10318,2024-09-11,Ryan Cheah,Milk Frother,Appliances,1,85.94,85.94
+INV-10737,2024-04-26,  Ryan Cheah ,House Blend 1kg,Consumables,2,42.95,85.90
+INV-10492,2024-06-18,Ryan Cheah,ESPRESSO MACHINE,  Appliances ,7,1320.22,9241.54
+INV-10521,2024-06-16,Chloe Lim,House Blend 1kg,Consumables,3,$ 41.80,125.40
+INV-10032,2024-03-19,Kevin Tan,Filter Papers,Consumables,4,7.26,29.04
+INV-10733,2024-09-25,Daniel Ong,  Burr Grinder ,Appliances,5,339.65,1698.25
+INV-10243,2024-07-15,ARJUN MENON,Cotton Tote,Apparel,4,19.24,76.96
+INV-10363,2024-05-25,Ryan Cheah,Espresso Machine,Appliances,10,1586.18,15861.80
+INV-10736,2024-05-10,Daniel Ong,House Blend 1kg,Consumables,3,38.74,116.22
+INV-10031,2024-11-16,Siti Nurhaliza,Glass Carafe,Drinkware,2,$34.95,69.90
+INV-10567,18 Oct 2024,Marcus Lee,Espresso Machine,Appliances,7,1400.66,9804.62
+INV-10936,2024-02-23,Grace Wong,Wooden Tray,Homeware,3,79.44,238.32
+INV-10971,15/09/2024,Grace Wong,Filter Papers,Consumables,6,7.40,44.40
+INV-10745,2024-07-07,  Marcus Lee ,Travel Tumbler,Drinkware,1,28.30,28.30
+INV-10583,2024-02-11,Nadia Ismail,Wooden Tray,Homeware,11,71.83,790.13
+INV-10423,2024-07-07,Arjun Menon,Blue Mug,DRINKWARE,10,$ 12.15,121.50
+INV-10018,2024-04-27,Aisha Rahman,Espresso Machine,  Appliances ,1,1503.54,1503.54
+INV-10767,2024-03-30,Aisha Rahman,Blue Mug,Drinkware,5,12.94,64.70
+INV-10283,2024-01-23,Ryan Cheah,Cotton Tote,APPAREL,10,18.01,180.10
+INV-10296,2024-03-07,Chloe Lim,Travel Tumbler,Drinkware,6,29.37,176.22
+INV-11130,2024-06-09,Kevin Tan,Bean Sampler Box,Consumables,8,67.35,538.80
 INV-10212,09-12-2024,Ryan Cheah,Travel Tumbler,Drinkware,3,28.83,86.49
-INV-10442,2024-03-21,  Arjun Menon ,Cotton Tote,Apparel,1,16.46,16.46
+INV-10484,2024-05-20,Siti Nurhaliza,Burr Grinder,Appliances,12,323.87,3886.44
 INV-10052,2024-05-07,Daniel Ong,Linen Apron,Apparel,8,42.15,337.20
-INV-10525,2024-01-12,Grace Wong,Bean Sampler Box,Consumables,5,61.53,307.65
-INV-11009,2024-07-16,Siti Nurhaliza,Linen Apron,Apparel,2,48.74,97.48
-INV-10517,2024-10-02,Nadia Ismail,Wooden Tray,Homeware,8,76.75,614.00
-INV-11023,2024/10/26,Aisha Rahman,House Blend 1kg,  Consumables ,12,37.87,454.44
+INV-10795,13/04/2024,  Priya Nair ,Blue Mug,Drinkware,10,12.08,120.80
+INV-10170,2024-10-28,Chloe Lim,Espresso Machine,Appliances,5,1519.20,7596.00
+INV-10832,2024-02-01,Priya Nair,Espresso Machine,Appliances,10,1547.75,15477.50
+INV-11048,2024-03-12,Chloe Lim,,Consumables,5,38.03,190.15
+INV-11129,2024-06-24,  Daniel Ong ,Travel Tumbler,Drinkware,12,27.43,329.16
 INV-10150,2024-02-05,Chloe Lim,Bean Sampler Box,Consumables,6,61.11,366.66
 INV-10103,2024-08-03,Nadia Ismail,Milk Frother,Appliances,4,$89.97,359.88
-INV-10988,2024-01-25,Grace Wong,Wooden Tray,Homeware,11,72.77,800.47
-INV-10975,30/12/2024,Ryan Cheah,Wooden Tray,Homeware,6,76.73,460.38
-INV-10458,2024-05-23,Farid Hassan,Bean Sampler Box,Consumables,9,61.38,552.42
-INV-10627,2024-09-02,Farid Hassan,Travel Tumbler,Drinkware,10,27.71,277.10
+INV-10536,2024-04-06,Ryan Cheah,Cotton Tote,Apparel,5,17.45,87.25
+INV-10562,2024-09-11,Arjun Menon,Milk Frother,Appliances,9,84.76,762.84
+INV-10377,2024/05/11,Marcus Lee,blue mug,Drinkware,1,13.51,13.51
+INV-10501,2024-10-05,Chloe Lim,Milk Frother,Appliances,-,$88.19,970.09
+INV-10800,2024-08-11,Nadia Ismail,Glass Carafe,Drinkware,12,38.22,458.64
 INV-10248,TBC,Nadia Ismail,Espresso Machine,Appliances,6,1481.05,8886.30
 INV-10227,2024/06/22,Farid Hassan,Cotton Tote,Apparel,5,19.01,95.05
-INV-10447,19 Feb 2024,Aisha Rahman,Milk Frother,Appliances,3,88.10,264.30
-INV-10849,2024-08-30,Aisha Rahman,Filter Papers,Consumables,10,$ 7.23,72.30
-INV-10576,2024-01-04,Chloe Lim,Cotton Tote,Apparel,1,$ 18.57,18.57
+INV-11092,Feb 30 2024,Siti Nurhaliza,Milk Frother,Appliances,9,90.75,816.75
+INV-10891,2024-10-24,Farid Hassan,Blue Mug,Drinkware,10,13.42,134.20
+INV-10384,2024-12-06,Nadia Ismail,Espresso Machine,APPLIANCES,3,1470.49,4411.47
 INV-10011,2024-01-24,Nadia Ismail,House Blend 1kg,Consumables,2,38.95,77.90
-INV-10700,2024-12-22,Kevin Tan,Filter Papers,Consumables,1,7.17,7.17
-INV-10930,2024-01-05,Priya Nair,Travel Tumbler,Drinkware,1,25.73,25.73
+INV-10457,2024-02-07,Grace Wong,Espresso Machine,Appliances,5,1410.13,7050.65
+INV-10794,2024-09-26,Arjun Menon,Espresso Machine,Appliances,1,1479.48,1479.48
 INV-10075,06-24-2024,Marcus Lee,Milk Frother,Appliances,4,85.12,340.48
-INV-10368,10 Oct 2024,Daniel Ong,Blue Mug,DRINKWARE,6,12.85,77.10
-INV-10492,2024-06-18,Ryan Cheah,ESPRESSO MACHINE,  Appliances ,7,1320.22,9241.54
-INV-10417,2024-08-19,Priya Nair,Espresso Machine,Appliances,2,1340.56,2681.12
-INV-10310,01 Nov 2024,Daniel Ong,Burr Grinder,APPLIANCES,10,337.72,3377.20
-INV-11081,2024-11-01,Farid Hassan,Wooden Tray,Homeware,8,78.82,630.56
-INV-10940,2024-08-13,Aisha Rahman,Cotton Tote,Apparel,7,$ 16.61,116.27
-INV-10831,2024-08-26,Siti Nurhaliza,Cotton Tote,Apparel,8,16.36,130.88
-INV-10610,2024-07-13,Priya Nair,House Blend 1kg,Consumables,11,41.68,458.48
-INV-10911,2024-03-04,Kevin Tan,Blue Mug,Drinkware,3,12.72,38.16
+INV-11098,2024/07/22,  Marcus Lee ,HOUSE BLEND 1KG,Consumables,11,39.64,436.04
+INV-10650,2024-04-10,Arjun Menon,Bean Sampler Box,CONSUMABLES,6,,348.72
+INV-10342,03-18-2024,  Aisha Rahman ,Burr Grinder,Appliances,9,326.72,1470.24
+INV-10640,2024-02-19,Arjun Menon,BEAN SAMPLER BOX,Consumables,8,61.79,494.32
+INV-10525,2024-01-12,Grace Wong,Bean Sampler Box,Consumables,5,61.53,307.65
+INV-10587,09-27-2024,Aisha Rahman,Burr Grinder,Appliances,2,324.21,648.42
+INV-10759,2024-05-19,Marcus Lee,Wooden Tray,Homeware,8,73.36,586.88
+INV-10870,2024-01-05,Marcus Lee,Glass Carafe,Drinkware,10,35.93,359.30
+INV-10636,2024-12-13,Farid Hassan,Cotton Tote,Apparel,8,17.55,140.40
+INV-10956,2024/07/05,Aisha Rahman,Filter Papers,Consumables,6,$ 7.50,45.00
 INV-10107,11/12/2024,Marcus Lee,Burr Grinder,Appliances,8,317.76,2542.08
 INV-10013,2024-07-05,Priya Nair,Linen Apron,  Apparel ,11,43.00,473.00
-INV-10519,2024-07-04,Daniel Ong,Bean Sampler Box,Consumables,12,61.34,736.08
-INV-10359,04 Dec 2024,Kevin Tan,Wooden Tray,Homeware,1,81.83,81.83
-INV-11061,2024-01-21,Nadia Ismail,Cotton Tote,Apparel,1,19.50,19.50
-INV-10609,2024-10-13,Marcus Lee,Linen Apron,Apparel,12,47.51,570.12
+INV-10540,2024-08-12,Marcus Lee,Espresso Machine,Appliances,7,1519.76,10638.32
+INV-10395,08-30-2024,Siti Nurhaliza,MILK FROTHER,  Appliances ,9,89.27,803.43
+INV-11199,2024-06-18,Daniel Ong,Cotton Tote,Apparel,1,18.71,18.71
+INV-10635,2024-10-21,Marcus Lee,Bean Sampler Box,Consumables,12,62.72,752.64
 INV-10007,02-22-2024,Daniel Ong,Espresso Machine,Appliances,6,1582.59,9495.54
 INV-10069,05-15-2024,Priya Nair,Travel Tumbler,Drinkware,9,28.21,253.89
-INV-11097,2024-10-16,Kevin Tan,Milk Frother,Appliances,7,$ 95.32,667.24
-INV-10044,2024-09-20,Marcus Lee,Blue Mug,  DRINKWARE ,2,13.40,26.80
-INV-11138,2024-05-23,Grace Wong,Milk Frother,Appliances,9,88.84,799.56
-INV-10477,15 Jun 2024,Nadia Ismail,Glass Carafe,Drinkware,9,35.03,315.27
-INV-10524,2024-10-15,  Aisha Rahman ,Glass Carafe,Drinkware,8,34.99,279.92
-INV-10945,2024-06-26,Nadia Ismail,Filter Papers,Consumables,8,7.58,60.64
-INV-10767,2024-03-30,Aisha Rahman,Blue Mug,Drinkware,5,12.94,64.70
+INV-11123,2024-10-15,Arjun Menon,Milk Frother,Appliances,7,92.46,647.22
+INV-10522,25/10/2024,Arjun Menon,Cotton Tote,Apparel,4,16.62,66.48
+INV-11091,2024-04-29,Daniel Ong,linen apron,Apparel,8,41.70,333.60
+INV-10361,25/03/2024,Ryan Cheah,Glass Carafe,Drinkware,10,37.21,372.10
+INV-11192,2024-04-03,Priya Nair,Linen Apron,Apparel,2,42.19,84.38
+INV-10973,2024-08-19,  Priya Nair ,Linen Apron,Apparel,5,$49.17,245.85
+INV-10815,2024-11-29,Nadia Ismail,TRAVEL TUMBLER,Drinkware,10,29.84,298.40
+INV-10895,2024-03-14,Kevin Tan,House Blend 1kg,Consumables,8,44.76,358.08
 INV-10155,2024/05/17,Kevin Tan,Linen Apron,Apparel,10,47.93,479.30
 INV-10249,03/12/2024,Nadia Ismail,  Espresso Machine ,Appliances,11,1485.06,16335.66
-INV-10968,2024-08-09,Farid Hassan,  Bean Sampler Box ,Consumables,9,64.93,584.37
+INV-10477,15 Jun 2024,Nadia Ismail,Glass Carafe,Drinkware,9,35.03,315.27
+INV-11095,28/07/2024,Kevin Tan,Espresso Machine,Appliances,6,1504.45,9026.70
 INV-10207,2024-08-14,Aisha Rahman,House Blend 1kg,  Consumables ,11,43.63,479.93
-INV-11046,2024-08-16,Kevin Tan,Burr Grinder,Appliances,8,344.18,2753.44
-INV-10389,2024-11-17,Daniel Ong,Burr Grinder,Appliances,11,$ 303.43,3337.73
-INV-10621,2024-07-05,Daniel Ong,burr grinder,Appliances,7,312.07,2184.49
+INV-10354,2024-12-16,Chloe Lim,Wooden Tray,Homeware,12,81.00,972.00
+INV-10575,12-07-2024,Farid Hassan,Burr Grinder,Appliances,11,291.87,3210.57
+INV-10427,2024-08-26,Nadia Ismail,Burr Grinder,  Appliances ,8,329.11,2632.88
+INV-10830,08 Jul 2024,Priya Nair,Glass Carafe,Drinkware,7,34.00,238.00
+INV-10647,2024-08-18,Farid Hassan,Wooden Tray,Homeware,4,77.73,310.92
 INV-10006,22 May 2024,Priya Nair,Glass Carafe,Drinkware,6,36.28,217.68
-INV-11076,2024-01-10,Ryan Cheah,  House Blend 1kg ,Consumables,11,45.39,499.29
-INV-10193,2024-05-19,Chloe Lim,Wooden Tray,Homeware,7,73.02,511.14
-INV-10540,2024-08-12,Marcus Lee,Espresso Machine,Appliances,7,1519.76,10638.32
+INV-10253,2024-10-03,KEVIN TAN,linen apron,Apparel,3,42.08,126.24
+INV-10429,2024-08-09,Chloe Lim,Glass Carafe,Drinkware,3,$ 36.77,110.31
+INV-10002,2024-01-17,Aisha Rahman,Bean Sampler Box,Consumables,7,56.88,398.16
 INV-10009,2024-03-04,Grace Wong,Blue Mug,Drinkware,9,13.07,117.63
-INV-10894,2024-06-24,Grace Wong,Glass Carafe,Drinkware,4,32.37,129.48
-INV-11105,n/a,Grace Wong,Wooden Tray,Homeware,1,78.81,78.81
-INV-10557,2024-06-04,Aisha Rahman,Espresso Machine,Appliances,6,1444.02,8664.12
-INV-11149,2024-05-18,Marcus Lee,Filter Papers,Consumables,2,6.86,13.72
-INV-10623,2024-08-24,Ryan Cheah,BEAN SAMPLER BOX,Consumables,12,56.13,673.56
-INV-10597,16/06/2024,Aisha Rahman,House Blend 1kg,Consumables,7,45.28,316.96
-INV-10981,2024-05-26,Grace Wong,Linen Apron,Apparel,9,$ 46.57,419.13
-INV-10550,2024-06-02,Ryan Cheah,Cotton Tote,Apparel,4,17.07,68.28
-INV-10414,2024-07-17,Chloe Lim,WOODEN TRAY,Homeware,9,71.23,641.07
-INV-10729,2024-01-07,Ryan Cheah,Filter Papers,Consumables,2,7.60,15.20
-INV-10583,2024-02-11,Nadia Ismail,Wooden Tray,Homeware,11,71.83,790.13
+INV-10938,Feb 30 2024,Aisha Rahman,Glass Carafe,Drinkware,6,35.68,214.08
+INV-10564,2024-01-24,Farid Hassan,Espresso Machine,APPLIANCES,7,1412.50,9887.50
+INV-10965,10 Dec 2024,Farid Hassan,Linen Apron,Apparel,11,40.92,450.12
+INV-10344,2024-12-28,Arjun Menon,Filter Papers,Consumables,4,6.78,27.12
+INV-10519,2024-07-04,Daniel Ong,Bean Sampler Box,Consumables,12,61.34,736.08
+INV-10627,2024-09-02,Farid Hassan,Travel Tumbler,Drinkware,10,27.71,277.10
+INV-10429,2024-08-09,Chloe Lim,Glass Carafe,Drinkware,3,$ 36.77,110.31
+INV-11198,2024-09-12,Kevin Tan,Espresso Machine,APPLIANCES,unknown,1404.15,7020.75
+INV-10533,24/04/2024,Aisha Rahman,Bean Sampler Box,Consumables,3,60.67,182.01
+INV-10742,2024-09-14,Nadia Ismail,Travel Tumbler,Drinkware,2,28.40,56.80
+INV-10617,0000-00-00,PRIYA NAIR,Burr Grinder,Appliances,11,315.56,3471.16
+INV-10606,2024-02-22,Aisha Rahman,Bean Sampler Box,Consumables,7,62.68,438.76
 INV-10319,2024-09-29,Ryan Cheah,Linen Apron,Apparel,7,42.08,294.56
 INV-10230,2024-11-12,Daniel Ong,Cotton Tote,Apparel,1,19.34,19.34
 INV-10343,2024/02/13,Chloe Lim,Cotton Tote,Apparel,6,16.57,99.42
-INV-10798,12-26-2024,Nadia Ismail,Burr Grinder,Appliances,6,349.48,2096.88
+INV-10232,2024-11-20,Ryan Cheah,Travel Tumbler,Drinkware,2,27.63,55.26
+INV-10623,2024-08-24,Ryan Cheah,BEAN SAMPLER BOX,Consumables,12,56.13,673.56
 INV-10300,2024-04-18,Priya Nair,Burr Grinder,Appliances,9,294.63,2651.67
-INV-10263,2024-06-03,NADIA ISMAIL,Filter Papers,Consumables,12,7.72,92.64
-INV-10652,2024-07-19,Farid Hassan,burr grinder,Appliances,10,$326.21,3262.10
+INV-10160,10-11-2024,Aisha Rahman,House Blend 1kg,Consumables,5,$ 43.17,215.85
+INV-10487,26/06/2024,Arjun Menon,Milk Frother,Appliances,2,97.10,194.20
+INV-10979,02-29-2024,Kevin Tan,Wooden Tray,Homeware,12,78.08,936.96
 INV-10213,2024-07-31,Arjun Menon,Milk Frother,  Appliances ,5,89.16,445.80
-INV-10695,2024-02-12,Kevin Tan,Travel Tumbler,Drinkware,5,28.87,144.35
-INV-10491,2024-04-25,Nadia Ismail,Espresso Machine,Appliances,9,1319.72,11877.48
+INV-11104,2024/10/08,Farid Hassan,Espresso Machine,Appliances,6,1452.42,8714.52
+INV-11036,2024-01-28,Chloe Lim,Glass Carafe,  Drinkware ,10,$ 36.09,360.90
 INV-10201,09/12/2024,Daniel Ong,Burr Grinder,Appliances,6,314.13,"1,884.78"
 INV-10093,10-01-2024,Kevin Tan,Filter Papers,Consumables,11,$7.26,79.86
-INV-10488,19 Apr 2024,Marcus Lee,Filter Papers,Consumables,8,6.90,55.20
-INV-11178,2024-11-01,Arjun Menon,Wooden Tray,Homeware,10,76.60,766.00
-INV-11163,2024-08-03,Nadia Ismail,Glass Carafe,Drinkware,6,35.88,215.28
+INV-10877,2024-11-23,Kevin Tan,Cotton Tote,Apparel,5,16.43,82.15
+INV-10263,2024-06-03,Nadia Ismail,Filter Papers,Consumables,12,7.72,92.64
+INV-10405,2024-11-10,Grace Wong,Blue Mug,Drinkware,6,$ 13.07,78.42
+INV-10618,2024-04-12,Arjun Menon,  Milk Frother ,Appliances,-,85.81,1029.72
 INV-10058,2024-05-31,Marcus Lee,Wooden Tray,Homeware,-,75.80,303.20
-INV-10776,2024-03-29,Kevin Tan,Blue Mug,  Drinkware ,7,12.21,85.47
-INV-10825,2024-05-30,Nadia Ismail,Burr Grinder,Appliances,2,288.24,576.48
-INV-10824,2024-03-19,Aisha Rahman,Linen Apron,Apparel,8,45.65,365.20
+INV-10857,2024-09-05,Chloe Lim,Espresso Machine,Appliances,7,1433.10,10031.70
+INV-10863,2024-01-16,Marcus Lee,Filter Papers,Consumables,11,7.86,86.46
+INV-10802,2024-07-01,Marcus Lee,Wooden Tray,Homeware,10,$ 81.92,819.20
+INV-10821,2024-06-18,Marcus Lee,Linen Apron,Apparel,2,41.91,83.82
 INV-10299,2024-11-03,  Siti Nurhaliza ,Wooden Tray,Homeware,5,69.18,345.90
-INV-10465,2024-10-30,Kevin Tan,HOUSE BLEND 1KG,Consumables,5,43.49,217.45
+INV-10509,2024-08-16,Siti Nurhaliza,  Blue Mug ,Drinkware,4,11.90,47.60
 INV-10181,07-13-2024,Arjun Menon,House Blend 1kg,Consumables,9,39.22,352.98
 INV-10129,2024/07/18,Grace Wong,  Blue Mug ,Drinkware,5,13.61,68.05
-INV-10925,2024-09-09,Priya Nair,Travel Tumbler,DRINKWARE,11,$29.88,328.68
+INV-10417,2024-08-19,Priya Nair,Espresso Machine,Appliances,2,1340.56,2681.12
+INV-10368,10 Oct 2024,Daniel Ong,Blue Mug,DRINKWARE,6,12.85,77.10
 INV-10338,2024-01-30,Kevin Tan,Milk Frother,Appliances,1,88.32,88.32
-INV-10839,2024-03-29,Priya Nair,  Glass Carafe ,Drinkware,8,32.25,258.00
-INV-10990,2024-04-13,Farid Hassan,Blue Mug,Drinkware,5,$ 11.28,56.40
-INV-10949,2024-01-26,Chloe Lim,Espresso Machine,APPLIANCES,two,1400.96,7004.80
-INV-10526,04-21-2024,Farid Hassan,Milk Frother,Appliances,12,94.63,1135.56
-INV-10755,2024-02-13,Farid Hassan,  Wooden Tray ,Homeware,8,82.01,656.08
-INV-10554,2024-04-07,Aisha Rahman,Burr Grinder,Appliances,12,293.92,3527.04
-INV-10474,2024-08-02,Priya Nair,Espresso Machine,Appliances,6,$ 1310.49,7862.94
-INV-10677,2024-05-29,Siti Nurhaliza,Glass Carafe,Drinkware,12,33.67,404.04
+INV-11005,2024-09-28,Arjun Menon,Espresso Machine,Appliances,10,1580.59,15805.90
+INV-10048,04 Aug 2024,Grace Wong,Travel Tumbler,Drinkware,6,28.89,173.34
+INV-10666,2024-03-27,Arjun Menon,Milk Frother,Appliances,5,84.10,420.50
+INV-10548,2024-12-22,Grace Wong,Linen Apron,Apparel,6,47.57,285.42
+INV-10789,2024-03-31,  Marcus Lee ,Burr Grinder,Appliances,3,347.85,1043.55
+INV-10576,2024-01-04,Chloe Lim,Cotton Tote,Apparel,1,$ 18.57,18.57
+INV-10447,19 Feb 2024,Aisha Rahman,Milk Frother,Appliances,3,88.10,264.30
+INV-10704,0000-00-00,Nadia Ismail,Linen Apron,Apparel,3,47.46,142.38
 INV-10039,06-08-2024,Grace Wong,Wooden Tray,Homeware,12,78.89,946.68
 INV-10282,2024-10-30,Daniel Ong,COTTON TOTE,Apparel,9,19.00,171.00
-INV-10829,2024-10-05,Grace Wong,filter papers,Consumables,11,6.91,76.01
-INV-10483,06-11-2024,Arjun Menon,  espresso machine ,Appliances,8,1505.17,12041.36
-INV-10536,2024-04-06,Ryan Cheah,Cotton Tote,Apparel,5,17.45,87.25
-INV-10951,2024-08-17,Daniel Ong,Travel Tumbler,Drinkware,10,27.77,277.70
-INV-10638,2024-02-29,RYAN CHEAH,Travel Tumbler,Drinkware,2,26.85,53.70
+INV-10024,2024/02/26,Priya Nair,Cotton Tote,Apparel,1,16.53,16.53
+INV-10950,25 Jul 2024,Marcus Lee,Espresso Machine,Appliances,7,1464.64,10252.48
+INV-11173,01 Dec 2024,Grace Wong,MILK FROTHER,Appliances,2,91.10,182.20
+INV-10683,2024-11-20,Daniel Ong,Linen Apron,APPAREL,2,$ 43.88,87.76
+,n/a,Priya Nair,Milk Frother,Appliances,2,88.35,176.70
 INV-10127,10-26-2024,Ryan Cheah,Espresso Machine,Appliances,7,1546.54,10825.78
-INV-10388,2024/07/01,  Daniel Ong ,Burr Grinder,APPLIANCES,1,304.23,304.23
-INV-11197,2024-01-08,Arjun Menon,Blue Mug,  Drinkware ,3,11.83,35.49
-INV-10845,02/08/2024,Daniel Ong,WOODEN TRAY,Homeware,9,77.87,700.83
-INV-11035,04-09-2024,Daniel Ong,Espresso Machine,Appliances,5,1483.90,7419.50
-INV-11082,2024-03-08,Daniel Ong,Travel Tumbler,Drinkware,7,26.49,185.43
-INV-10884,09 Dec 2024,Kevin Tan,Bean Sampler Box,Consumables,8,63.72,509.76
-INV-11072,2024-01-12,Marcus Lee,House Blend 1kg,CONSUMABLES,7,$38.69,270.83
-INV-10809,2024-12-28,Nadia Ismail,Filter Papers,Consumables,2,7.81,15.62
+INV-11152,2024-09-21,Chloe Lim,Cotton Tote,Apparel,11,16.68,183.48
+INV-10581,2024-07-22,Daniel Ong,Milk Frother,Appliances,5,94.61,473.05
+INV-10886,2024-03-06,Ryan Cheah,Glass Carafe,Drinkware,8,33.46,267.68
+INV-11061,2024-01-21,Nadia Ismail,Cotton Tote,Apparel,1,19.50,19.50
+INV-10926,2024-02-21,  Siti Nurhaliza ,Travel Tumbler,Drinkware,2,29.57,59.14
+INV-10968,2024-08-09,Farid Hassan,  Bean Sampler Box ,Consumables,9,64.93,584.37
+INV-10485,2024-07-13,Grace Wong,Travel Tumbler,Drinkware,9,28.41,255.69
+INV-11063,2024-10-18,Priya Nair,  Wooden Tray ,Homeware,9,72.40,651.60
+INV-10844,2024-08-22,Aisha Rahman,  Burr Grinder ,Appliances,9,342.82,3085.38
 ,2024-05-10,Nadia Ismail,Cotton Tote,Apparel,8,$18.50,148.00
-INV-10786,29 Apr 2024,Priya Nair,Bean Sampler Box,Consumables,10,60.23,602.30
-INV-10591,03-14-2024,Ryan Cheah,Blue Mug,Drinkware,10,13.65,136.50
-INV-10628,2024-08-02,Chloe Lim,Linen Apron,Apparel,12,45.31,543.72
-INV-11014,2024-12-09,Nadia Ismail,Blue Mug,Drinkware,4,12.82,51.28
-INV-10569,09-08-2024,Arjun Menon,Cotton Tote,Apparel,,19.68,216.48
-INV-10567,18 Oct 2024,Marcus Lee,Espresso Machine,Appliances,7,1400.66,9804.62
-INV-11191,2024-09-29,Siti Nurhaliza,Milk Frother,Appliances,12,85.17,1022.04
+INV-11146,2024-08-05,Marcus Lee,Burr Grinder,Appliances,8,311.42,"2,491.36"
+INV-11158,2024-12-13,Farid Hassan,Blue Mug,Drinkware,6,12.28,73.68
+INV-10655,2024-03-01,Marcus Lee,Travel Tumbler,Drinkware,6,28.96,173.76
+INV-10442,2024-03-21,  Arjun Menon ,Cotton Tote,Apparel,1,16.46,16.46
+INV-10451,20 Jul 2024,Chloe Lim,Milk Frother,Appliances,2,,177.90
+INV-10984,2024-02-01,Ryan Cheah,Milk Frother,Appliances,3,92.26,276.78
+INV-10035,2024-02-10,Daniel Ong,Espresso Machine,Appliances,10,1321.80,13218.00
 INV-10079,2024-03-23,Ryan Cheah,Glass Carafe,Drinkware,5,35.86,179.30
-INV-10541,12 Mar 2024,Chloe Lim,Bean Sampler Box,Consumables,1,58.49,58.49
-INV-10660,2024-06-10,Arjun Menon,Cotton Tote,  Apparel ,3,17.24,51.72
-INV-10792,2024-09-09,Chloe Lim,HOUSE BLEND 1KG,Consumables,4,38.53,154.12
-INV-10835,2024-08-02,Chloe Lim,Blue Mug,Drinkware,9,13.35,120.15
+INV-10991,2024-12-26,Ryan Cheah,Cotton Tote,Apparel,11,19.19,211.09
+INV-10870,2024-01-05,MARCUS LEE,Glass Carafe,Drinkware,10,35.93,359.30
+INV-10493,2024-01-03,Chloe Lim,Cotton Tote,Apparel,3,16.56,49.68
+INV-10874,04/01/2024,  Chloe Lim ,House Blend 1kg,Consumables,2,40.65,81.30
 INV-10346,28 Jul 2024,Kevin Tan,Burr Grinder,Appliances,7,346.75,2427.25
 INV-10237,11-13-2024,Nadia Ismail,Travel Tumbler,Drinkware,7,$28.61,200.27
-INV-10657,2024-03-11,Farid Hassan,Bean Sampler Box,Consumables,10,60.62,606.20
-INV-10727,2024-02-29,Arjun Menon,espresso machine,Appliances,7,1330.00,9310.00
-INV-10851,2024-07-21,  Kevin Tan ,Filter Papers,Consumables,1,7.53,7.53
-INV-10467,2024-07-07,Kevin Tan,House Blend 1kg,Consumables,1,39.84,39.84
-INV-10933,2024-07-23,Arjun Menon,Burr Grinder,Appliances,7,$299.70,2097.90
+INV-10684,2024-12-21,Kevin Tan,Linen Apron,Apparel,5,45.14,225.70
+INV-10470,2024-10-23,Farid Hassan,Cotton Tote,Apparel,11,17.16,188.76
+INV-10894,2024-06-24,Grace Wong,Glass Carafe,Drinkware,4,32.37,129.48
+INV-10047,2024-04-07,Daniel Ong,Espresso Machine,Appliances,7,1532.54,10727.78
+INV-10982,2024-07-14,Priya Nair,Blue Mug,Drinkware,1,12.56,12.56
 INV-10322,2024-10-21,Grace Wong,  Cotton Tote ,Apparel,6,$19.52,117.12
 INV-10222,2024/07/14,Grace Wong,Burr Grinder,Appliances,12,335.66,4027.92
-INV-10533,24/04/2024,Aisha Rahman,Bean Sampler Box,Consumables,3,60.67,182.01
-INV-10314,2024-05-25,Nadia Ismail,Travel Tumbler,Drinkware,2,27.13,54.26
-INV-10431,2024/04/25,Kevin Tan,Glass Carafe,Drinkware,12,32.54,390.48
-INV-10885,2024-12-02,Chloe Lim,Bean Sampler Box,Consumables,3,59.52,178.56
-INV-10421,2024-09-17,Marcus Lee,Wooden Tray,Homeware,6,78.09,468.54
-INV-10387,2024-11-21,Grace Wong,Linen Apron,Apparel,1,48.36,48.36
-INV-11104,2024/10/08,Farid Hassan,Espresso Machine,Appliances,6,1452.42,8714.52
-INV-10216,2024-06-23,Chloe Lim,  Milk Frother ,Appliances,7,93.85,656.95
-INV-11090,2024/10/21,Daniel Ong,House Blend 1kg,Consumables,12,$ 44.03,528.36
-INV-10688,2024-09-10,Siti Nurhaliza,Espresso Machine,Appliances,4,1585.76,6343.04
-INV-10499,2024-05-28,Aisha Rahman,Cotton Tote,Apparel,12,16.87,202.44
-INV-10861,2024-07-03,Ryan Cheah,Espresso Machine,Appliances,1,1314.59,1314.59
-INV-10907,2024-08-10,Nadia Ismail,bean sampler box,  Consumables ,6,63.19,379.14
-INV-10242,2024/12/19,SITI NURHALIZA,milk frother,Appliances,7,91.47,640.29
-INV-11127,2024-06-29,Chloe Lim,Espresso Machine,Appliances,7,1537.05,10759.35
-INV-10736,2024-05-10,Daniel Ong,House Blend 1kg,Consumables,3,38.74,116.22
-INV-10612,03/08/2024,Siti Nurhaliza,Travel Tumbler,Drinkware,5,26.14,130.70
-INV-10765,2024-03-16,Daniel Ong,Blue Mug,DRINKWARE,6,11.79,70.74
-INV-10523,2024-01-29,Arjun Menon,Travel Tumbler,Drinkware,8,30.23,241.84
-INV-10049,2024-12-10,Nadia Ismail,Cotton Tote,Apparel,1,19.31,19.31
-INV-10605,2024-08-08,  Arjun Menon ,Travel Tumbler,Drinkware,3,25.94,77.82
-INV-11175,2024/03/28,Aisha Rahman,Filter Papers,Consumables,9,6.71,60.39
-INV-11136,2024-10-04,Aisha Rahman,Filter Papers,CONSUMABLES,1,7.24,7.24
-INV-10622,04-02-2024,Nadia Ismail,  House Blend 1kg ,Consumables,unknown,39.01,351.09
-INV-10350,2024-03-13,Kevin Tan,Burr Grinder,Appliances,11,$293.22,3225.42
-INV-10158,2024-06-15,Priya Nair,Linen Apron,Apparel,8,43.53,348.24
-INV-10412,2024-07-06,Grace Wong,Travel Tumbler,Drinkware,9,28.41,255.69
-INV-10658,11-21-2024,Chloe Lim,Linen Apron,Apparel,8,44.31,354.48
-INV-11128,2024-05-07,Siti Nurhaliza,,Consumables,5,55.92,279.60
-INV-10812,2024-01-01,Aisha Rahman,Milk Frother,Appliances,12,94.11,1129.32
-INV-10879,2024-01-30,Farid Hassan,Espresso Machine,Appliances,4,1348.48,5393.92
 INV-10555,2024-11-04,Aisha Rahman,Milk Frother,Appliances,10,$86.81,868.10
-INV-10917,2024-06-03,Grace Wong,Wooden Tray,Homeware,1,78.82,78.82
-,n/a,Priya Nair,Milk Frother,Appliances,2,88.35,176.70
-INV-10724,10-01-2024,Kevin Tan,Espresso Machine,Appliances,3,$ 1587.55,4762.65
+INV-10314,2024-05-25,Nadia Ismail,Travel Tumbler,Drinkware,2,27.13,54.26
+INV-10758,2024-07-20,Ryan Cheah,Espresso Machine,Appliances,6,1389.59,8337.54
+INV-10929,06/08/2024,Ryan Cheah,burr grinder,  Appliances ,6,339.30,2035.80
+INV-10460,2024-10-12,Kevin Tan,Burr Grinder,Appliances,6,338.87,2033.22
+INV-10387,2024-11-21,Grace Wong,Linen Apron,Apparel,1,48.36,48.36
+INV-10625,2024-11-20,Siti Nurhaliza,Linen Apron,Apparel,3,46.56,139.68
+INV-10762,2024-04-16,Arjun Menon,Linen Apron,Apparel,6,41.59,249.54
+INV-10951,2024-08-17,Daniel Ong,Travel Tumbler,Drinkware,10,27.77,277.70
+INV-11135,2024/02/10,Nadia Ismail,Glass Carafe,  Drinkware ,2,36.85,73.70
+INV-10137,2024-05-22,Grace Wong,Cotton Tote,Apparel,7,17.38,121.66
+INV-10860,2024-04-12,Aisha Rahman,House Blend 1kg,Consumables,4,37.59,150.36
+INV-10896,09-06-2024,Kevin Tan,  Wooden Tray ,Homeware,2,71.14,142.28
+INV-11059,2024-07-08,Marcus Lee,Cotton Tote,Apparel,5,17.03,85.15
+INV-10228,2024/06/17,Nadia Ismail,Wooden Tray,Homeware,2,74.44,148.88
+INV-11156,2024-06-20,Siti Nurhaliza,Filter Papers,CONSUMABLES,12,6.66,79.92
+INV-10867,2024-04-19,Marcus Lee,Linen Apron,Apparel,10,40.95,409.50
+INV-10637,2024-01-13,Arjun Menon,Wooden Tray,Homeware,6,$ 76.01,456.06
+INV-10747,2024-04-10,Ryan Cheah,Cotton Tote,Apparel,8,17.53,140.24
+INV-10544,2024-09-23,Marcus Lee,  Milk Frother ,Appliances,11,95.70,1052.70
+INV-10517,2024-10-02,Nadia Ismail,Wooden Tray,Homeware,8,76.75,614.00
+INV-10631,2024-11-27,Farid Hassan,Filter Papers,Consumables,3,$7.49,22.47
+INV-11039,2024-12-01,Marcus Lee,Burr Grinder,Appliances,11,310.86,3419.46
+INV-11125,2024-02-29,  Siti Nurhaliza ,House Blend 1kg,Consumables,8,44.50,356.00
+INV-10316,2024-01-29,Aisha Rahman,Blue Mug,Drinkware,10,11.80,118.00
+INV-10350,2024-03-13,Kevin Tan,Burr Grinder,Appliances,11,$293.22,3225.42
+INV-10723,2024-02-10,Chloe Lim,Glass Carafe,Drinkware,5,33.35,166.75
+INV-10158,2024-06-15,Priya Nair,Linen Apron,Apparel,8,43.53,348.24
+INV-11077,2024-02-13,Marcus Lee,Wooden Tray,  Homeware ,5,78.46,392.30
+INV-10412,2024-07-06,Grace Wong,Travel Tumbler,Drinkware,9,28.41,255.69
+INV-10685,2024-10-24,Aisha Rahman,Cotton Tote,Apparel,6,19.62,117.72
+INV-11157,2024-05-11,Kevin Tan,Burr Grinder,Appliances,9,311.06,"2,799.54"
+INV-10692,2024-08-13,Arjun Menon,Travel Tumbler,Drinkware,3,30.40,91.20
+INV-10923,2024-12-18,Arjun Menon,blue mug,Drinkware,4,12.62,50.48
+INV-10228,2024/06/17,NADIA ISMAIL,Wooden Tray,Homeware,2,74.44,148.88
+INV-11101,2024-07-22,Ryan Cheah,House Blend 1kg,CONSUMABLES,12,40.21,482.52
+INV-10835,2024-08-02,Chloe Lim,Blue Mug,Drinkware,9,13.35,120.15
+INV-10771,2024-11-26,Daniel Ong,Linen Apron,Apparel,11,43.85,482.35
+INV-10488,19 Apr 2024,Marcus Lee,Filter Papers,Consumables,8,6.90,55.20
 INV-10385,2024-02-04,Chloe Lim,Travel Tumbler,Drinkware,6,28.13,168.78
-INV-10978,2024-09-14,Chloe Lim,Wooden Tray,Homeware,3,78.28,234.84
-INV-10578,2024-01-09,Chloe Lim,Milk Frother,Appliances,5,89.64,448.20
-INV-11198,2024-09-12,Kevin Tan,Espresso Machine,APPLIANCES,unknown,1404.15,7020.75
-INV-10965,10 Dec 2024,Farid Hassan,Linen Apron,Apparel,11,40.92,450.12
+INV-10532,2024-03-01,Priya Nair,Glass Carafe,Drinkware,6,35.97,215.82
+INV-11133,2024-05-15,  Marcus Lee ,Espresso Machine,Appliances,4,1373.11,5492.44
+INV-10912,2024-07-11,Nadia Ismail,Wooden Tray,Homeware,1,,78.29
+INV-10945,2024-06-26,Nadia Ismail,Filter Papers,Consumables,8,7.58,60.64
 INV-10198,2024-08-28,  Chloe Lim ,Blue Mug,Drinkware,3,13.16,39.48
-INV-11182,2024-06-04,Aisha Rahman,Burr Grinder,Appliances,3,$ 314.38,943.14
+INV-10629,12-25-2024,Chloe Lim,Blue Mug,Drinkware,6,13.23,79.38
 INV-10106,2024-11-06,  Nadia Ismail ,Espresso Machine,Appliances,10,1429.67,14296.70
 INV-10436,2024/06/21,Farid Hassan,Filter Papers,Consumables,10,7.43,74.30
-INV-10778,2024-11-11,Marcus Lee,Glass Carafe,Drinkware,10,31.65,316.50
-INV-10574,2024-09-15,Arjun Menon,Wooden Tray,Homeware,4,70.70,282.80
-INV-11195,2024-01-12,Priya Nair,Blue Mug,Drinkware,9,11.63,104.67
-INV-10920,28/02/2024,Daniel Ong,Wooden Tray,  HOMEWARE ,5,77.79,388.95
-INV-10394,2024-01-22,Kevin Tan,Espresso Machine,Appliances,4,1317.70,"5,270.80"
-INV-10122,2024-08-13,Daniel Ong,  Cotton Tote ,Apparel,5,18.46,92.30
-INV-11065,2024-04-24,Chloe Lim,Travel Tumbler,Drinkware,7,28.09,196.63
-INV-10923,2024-12-18,Arjun Menon,blue mug,Drinkware,4,12.62,50.48
-INV-10710,2024-05-21,Nadia Ismail,Burr Grinder,APPLIANCES,4,338.63,1354.52
-INV-10047,2024-04-07,Daniel Ong,Espresso Machine,Appliances,7,1532.54,10727.78
-INV-10747,2024-04-10,Ryan Cheah,Cotton Tote,Apparel,8,17.53,140.24
-INV-10815,2024-11-29,Nadia Ismail,TRAVEL TUMBLER,Drinkware,10,29.84,298.40
-INV-10742,2024-09-14,Nadia Ismail,Travel Tumbler,Drinkware,2,28.40,56.80
-INV-10551,2024-10-14,Grace Wong,Glass Carafe,Drinkware,1,37.03,37.03
-INV-10380,2024-11-23,Farid Hassan,Travel Tumbler,Drinkware,7,25.47,178.29
-,n/a,Priya Nair,Milk Frother,Appliances,2,88.35,176.70
-INV-10484,2024-05-20,Siti Nurhaliza,Burr Grinder,Appliances,12,323.87,3886.44
-INV-10165,2024-10-10,Chloe Lim,Filter Papers,Consumables,8,7.37,58.96
-INV-10144,28 Feb 2024,Priya Nair,  House Blend 1kg ,Consumables,12,42.39,508.68
-INV-10329,2024-06-27,Kevin Tan,Travel Tumbler,Drinkware,4,28.17,112.68
-INV-10665,2024-05-29,Aisha Rahman,house blend 1kg,Consumables,4,$ 37.61,150.44
-INV-10024,2024/02/26,Priya Nair,Cotton Tote,Apparel,1,16.53,16.53
-INV-10640,2024-02-19,Arjun Menon,BEAN SAMPLER BOX,Consumables,8,61.79,494.32
-INV-10832,2024-02-01,Priya Nair,Espresso Machine,Appliances,10,1547.75,15477.50
-INV-10066,2024-05-15,Grace Wong,Filter Papers,CONSUMABLES,4,7.56,30.24
-INV-10878,2024-11-29,Siti Nurhaliza,Milk Frother,Appliances,12,84.75,1017.00
-INV-10408,2024-12-13,Arjun Menon,Blue Mug,Drinkware,10,11.61,116.10
-INV-10651,2024-09-27,Nadia Ismail,Travel Tumbler,Drinkware,8,26.67,213.36
-INV-10375,2024-08-29,Ryan Cheah,Glass Carafe,Drinkware,5,$ 32.37,161.85
-INV-10374,2024-11-28,Kevin Tan,Blue Mug,Drinkware,2,12.05,24.10
-INV-10485,2024-07-13,Grace Wong,Travel Tumbler,Drinkware,9,28.41,255.69
-INV-10166,2024-10-08,Kevin Tan,Burr Grinder,Appliances,12,315.23,3782.76
-INV-10985,2024-01-17,  Kevin Tan ,Milk Frother,Appliances,9,83.73,753.57
-INV-10784,2024/01/14,Kevin Tan,Burr Grinder,Appliances,3,312.86,938.58
-INV-10318,2024-09-11,Ryan Cheah,Milk Frother,Appliances,1,85.94,85.94
-INV-10689,2024-10-07,Farid Hassan,Burr Grinder,Appliances,6,341.01,2046.06
-INV-10022,26/10/2024,Grace Wong,Wooden Tray,Homeware,5,76.93,384.65
-INV-10562,2024-09-11,Arjun Menon,Milk Frother,Appliances,9,84.76,762.84
-INV-10002,2024-01-17,Aisha Rahman,Bean Sampler Box,Consumables,7,56.88,398.16
-INV-10730,2024-09-11,Kevin Tan,Glass Carafe,Drinkware,3,36.31,108.93
-INV-10751,2024-06-06,Daniel Ong,Linen Apron,  Apparel ,12,48.14,577.68
-INV-10137,2024-05-22,Grace Wong,Cotton Tote,Apparel,7,17.38,121.66
-INV-10694,22/03/2024,Siti Nurhaliza,Glass Carafe,Drinkware,5,37.57,187.85
-INV-11026,2024-07-14,Grace Wong,milk frother,Appliances,8,93.72,749.76
-INV-10232,2024-11-20,Ryan Cheah,Travel Tumbler,Drinkware,2,27.63,55.26
-INV-10771,2024-11-26,Daniel Ong,Linen Apron,Apparel,11,43.85,482.35
-INV-10817,2024-02-07,Kevin Tan,Blue Mug,Drinkware,2,12.05,24.10
+INV-10780,2024-03-11,Grace Wong,Blue Mug,Drinkware,7,11.47,80.29
+INV-10597,16/06/2024,Aisha Rahman,House Blend 1kg,Consumables,7,45.28,158.48
+INV-10541,12 Mar 2024,Chloe Lim,Bean Sampler Box,Consumables,1,58.49,58.49
 INV-10602,2024-11-20,Priya Nair,Milk Frother,APPLIANCES,12,82.85,994.20
-INV-10425,2024-09-02,Chloe Lim,Linen Apron,Apparel,12,49.50,594.00
-INV-10553,10 Feb 2024,Arjun Menon,Milk Frother,Appliances,11,83.72,920.92
-INV-11058,21 Jan 2024,Marcus Lee,WOODEN TRAY,Homeware,6,79.53,477.18
-INV-10813,2024-03-26,Grace Wong,Linen Apron,  Apparel ,7,44.44,311.08
-INV-10522,25/10/2024,Arjun Menon,Cotton Tote,Apparel,4,16.62,66.48
-INV-10854,2024-02-20,MARCUS LEE,cotton tote,Apparel,-,19.29,212.19
-INV-11119,2024-08-20,Grace Wong,MILK FROTHER,Appliances,4,84.13,336.52
+INV-10394,2024-01-22,Kevin Tan,Espresso Machine,Appliances,4,1317.70,"5,270.80"
+INV-10494,2024-09-01,Nadia Ismail,Glass Carafe,Drinkware,8,34.25,274.00
+INV-10122,2024-08-13,Daniel Ong,  Cotton Tote ,Apparel,5,18.46,92.30
+INV-10605,2024-08-08,  Arjun Menon ,Travel Tumbler,Drinkware,3,25.94,77.82
+INV-10942,2024-10-22,Ryan Cheah,Filter Papers,Consumables,12,7.29,87.48
+INV-10740,2024-12-01,Grace Wong,Bean Sampler Box,Consumables,12,65.76,789.12
+INV-10094,2024-04-01,Farid Hassan,Blue Mug,Drinkware,5,$11.54,57.70
+INV-10621,2024-07-05,Daniel Ong,burr grinder,Appliances,7,312.07,2184.49
+INV-10072,2024/09/27,Aisha Rahman,House Blend 1kg,Consumables,11,45.52,500.72
+INV-10893,30/07/2024,Aisha Rahman,Filter Papers,Consumables,5,7.08,35.40
+INV-10330,2024-03-16,Marcus Lee,Wooden Tray,Homeware,11,82.96,912.56
+INV-10591,03-14-2024,Ryan Cheah,Blue Mug,Drinkware,10,13.65,136.50
+INV-10049,2024-12-10,Nadia Ismail,Cotton Tote,Apparel,1,19.31,19.31
+INV-10216,2024-06-23,Chloe Lim,  Milk Frother ,Appliances,7,93.85,656.95
+INV-11178,2024-11-01,Arjun Menon,Wooden Tray,Homeware,10,76.60,766.00
+INV-10332,0000-00-00,Priya Nair,Glass Carafe,Drinkware,11,36.72,403.92
+INV-10463,2024-09-20,Priya Nair,Bean Sampler Box,CONSUMABLES,10,61.47,614.70
+INV-10044,2024-09-20,Marcus Lee,Blue Mug,  DRINKWARE ,2,13.40,26.80
+INV-10854,2024-02-20,Marcus Lee,cotton tote,Apparel,-,19.29,212.19
+INV-11067,2024-08-13,Priya Nair,House Blend 1kg,  Consumables ,3,$ 37.40,112.20
+INV-11126,2024-12-12,  Ryan Cheah ,Travel Tumbler,Drinkware,4,$27.34,109.36
+INV-10809,2024-12-28,Nadia Ismail,Filter Papers,Consumables,2,7.81,15.62
+INV-10491,2024-04-25,Nadia Ismail,Espresso Machine,Appliances,9,1319.72,11877.48
+INV-10471,2024-09-02,Priya Nair,Espresso Machine,Appliances,10,1514.21,15142.10
+INV-11076,2024-01-10,Ryan Cheah,  House Blend 1kg ,Consumables,11,45.39,499.29
+INV-10657,2024-03-11,Farid Hassan,Bean Sampler Box,Consumables,10,60.62,606.20
+INV-10157,2024/11/08,Nadia Ismail,Espresso Machine,Appliances,10,1522.64,22839.60
+INV-10135,2024-03-10,ARJUN MENON,blue mug,Drinkware,7,$ 11.46,80.22
+INV-11148,2024-03-08,Farid Hassan,MILK FROTHER,Appliances,10,88.12,881.20
 INV-10382,2024-05-03,Ryan Cheah,  Blue Mug ,Drinkware,10,12.83,128.30
 INV-10403,2024-11-04,Ryan Cheah,Filter Papers,Consumables,8,6.95,55.60
-INV-10762,2024-04-16,Arjun Menon,Linen Apron,Apparel,6,41.59,249.54
+INV-11105,n/a,Grace Wong,Wooden Tray,Homeware,1,78.81,78.81
 INV-10291,2024-04-20,Grace Wong,filter papers,Consumables,9,7.47,67.23
-INV-11162,2024-11-19,Priya Nair,Linen Apron,Apparel,8,$ 46.02,368.16
-INV-11084,2024-08-31,Farid Hassan,glass carafe,Drinkware,3,35.64,106.92
+INV-11191,2024-09-29,Siti Nurhaliza,Milk Frother,Appliances,12,85.17,1022.04
+INV-11128,2024-05-07,Siti Nurhaliza,,Consumables,5,55.92,279.60
 INV-10096,2024-11-06,Chloe Lim,Wooden Tray,Homeware,7,80.35,562.45
 INV-10510,2024-10-20,Aisha Rahman,Burr Grinder,Appliances,12,307.32,3687.84
-INV-11177,2024-08-15,Priya Nair,Bean Sampler Box,Consumables,9,67.39,606.51
-INV-10964,2024-06-22,Daniel Ong,Espresso Machine,Appliances,4,$1437.54,5750.16
+INV-11136,2024-10-04,Aisha Rahman,Filter Papers,CONSUMABLES,1,7.24,7.24
+INV-11094,2024/07/11,Nadia Ismail,Bean Sampler Box,Consumables,1,$ 57.26,57.26
 INV-10426,2024-02-07,Priya Nair,  Linen Apron ,Apparel,10,$47.42,474.20
-INV-10530,2024/07/14,Arjun Menon,Filter Papers,Consumables,6,7.92,47.52
+,2024-03-01,Ryan Cheah,Glass Carafe,Drinkware,11,37.38,411.18
+INV-11071,2024/09/02,  Marcus Lee ,Travel Tumbler,Drinkware,8,27.90,223.20
 INV-10004,2024-12-25,Chloe Lim,Bean Sampler Box,Consumables,11,58.27,640.97
-INV-10887,2024-04-03,Nadia Ismail,Milk Frother,Appliances,9,93.01,837.09
-INV-10896,09-06-2024,Kevin Tan,  Wooden Tray ,Homeware,2,71.14,142.28
+INV-10700,2024-12-22,Kevin Tan,Filter Papers,Consumables,1,7.17,7.17
+INV-10910,2024-04-18,Ryan Cheah,Espresso Machine,Appliances,3,1515.88,4547.64
 INV-10520,2024-09-15,Marcus Lee,House Blend 1kg,  Consumables ,9,38.28,344.52
-INV-10963,2024-03-02,Grace Wong,Milk Frother,Appliances,4,90.97,363.88
-INV-10633,2024-08-08,Daniel Ong,Linen Apron,Apparel,6,49.20,295.20
+INV-10694,22/03/2024,Siti Nurhaliza,Glass Carafe,Drinkware,5,37.57,187.85
+INV-10813,2024-03-26,Grace Wong,Linen Apron,  Apparel ,7,44.44,311.08
 INV-10290,2024-12-25,Daniel Ong,Bean Sampler Box,Consumables,2,63.31,126.62
-INV-10647,2024-08-18,Farid Hassan,Wooden Tray,Homeware,4,77.73,310.92
+INV-10903,2024-05-07,Marcus Lee,Blue Mug,Drinkware,11,12.94,142.34
 INV-10095,2024-08-10,Kevin Tan,Milk Frother,Appliances,10,80.78,807.80
 INV-10357,03-20-2024,Daniel Ong,Cotton Tote,Apparel,3,16.89,50.67
 INV-10126,2024-07-31,Aisha Rahman,linen apron,Apparel,8,43.48,347.84
-INV-10912,2024-07-11,Nadia Ismail,Wooden Tray,Homeware,1,,78.29
-INV-10794,2024-09-26,Arjun Menon,Espresso Machine,Appliances,1,1479.48,1479.48
-INV-10586,2024-08-10,Nadia Ismail,Wooden Tray,Homeware,8,$ 71.01,568.08
+INV-10966,2024-08-22,Nadia Ismail,Travel Tumbler,Drinkware,8,29.52,236.16
+INV-10829,2024-10-05,Grace Wong,filter papers,Consumables,11,6.91,76.01
+INV-10609,2024-10-13,Marcus Lee,Linen Apron,Apparel,12,47.51,570.12
 INV-10468,2024-10-25,Siti Nurhaliza,Filter Papers,Consumables,7,6.68,46.76
 INV-10496,2024-11-29,Farid Hassan,Filter Papers,Consumables,2,6.61,13.22
 INV-10365,13 Aug 2024,Arjun Menon,Espresso Machine,  Appliances ,10,1411.67,14116.70
 INV-10452,2024-10-25,Kevin Tan,Cotton Tote,  Apparel ,4,19.68,78.72
-INV-11030,2024-03-13,Daniel Ong,Blue Mug,Drinkware,9,12.63,113.67
-INV-10709,2024-06-28,Grace Wong,Travel Tumbler,Drinkware,7,28.50,199.50
+INV-11055,12-05-2024,Marcus Lee,Linen Apron,Apparel,1,43.77,43.77
+INV-10670,2024-11-30,Marcus Lee,Espresso Machine,Appliances,2,$1592.03,3184.06
 INV-10118,2024-10-31,Kevin Tan,Cotton Tote,Apparel,9,18.60,167.40
-INV-10858,2024-03-22,Daniel Ong,Burr Grinder,Appliances,9,340.55,3064.95
-INV-10929,06/08/2024,Ryan Cheah,burr grinder,  Appliances ,6,339.30,2035.80
+INV-10586,2024-08-10,Nadia Ismail,Wooden Tray,Homeware,8,$ 71.01,568.08
+INV-10977,2024-12-10,Priya Nair,Wooden Tray,Homeware,6,72.82,436.92
 INV-10167,2024-06-05,Siti Nurhaliza,Burr Grinder,Appliances,5,332.98,1664.90
-INV-10647,2024-08-18,Farid Hassan,Wooden Tray,Homeware,4,77.73,310.92
+INV-10600,2024-02-13,Farid Hassan,Filter Papers,Consumables,7,7.37,51.59
 INV-10481,2024-05-22,Chloe Lim,Cotton Tote,Apparel,4,16.89,67.56
-INV-11098,2024/07/22,  Marcus Lee ,HOUSE BLEND 1KG,Consumables,11,39.64,436.04
+INV-11124,2024-12-14,Arjun Menon,Espresso Machine,Appliances,8,1524.67,12197.36
 INV-10187,2024-05-24,Ryan Cheah,Blue Mug,  Drinkware ,12,11.83,141.96
 INV-10235,2024-09-28,Grace Wong,Burr Grinder,Appliances,4,315.56,1262.24
-INV-10774,2024-01-26,Priya Nair,Burr Grinder,Appliances,8,295.84,2366.72
-INV-11055,12-05-2024,Marcus Lee,Linen Apron,Apparel,1,43.77,43.77
-INV-10635,2024-10-21,Marcus Lee,Bean Sampler Box,Consumables,12,62.72,752.64
 INV-11116,2024-01-08,Ryan Cheah,Linen Apron,Apparel,9,45.77,411.93
-INV-10803,2024-07-12,Siti Nurhaliza,  Filter Papers ,Consumables,3,7.38,22.14
-INV-10910,2024-04-18,Ryan Cheah,Espresso Machine,Appliances,3,1515.88,4547.64
-INV-10740,2024-12-01,Grace Wong,Bean Sampler Box,Consumables,12,65.76,789.12
+INV-10806,2024-11-09,Marcus Lee,Blue Mug,Drinkware,6,11.71,70.26
+INV-10352,07 Jun 2024,Chloe Lim,Glass Carafe,Drinkware,2,35.56,71.12
+INV-11145,2024-08-29,Farid Hassan,Bean Sampler Box,Consumables,unknown,59.06,295.30
+INV-10838,2024-12-12,Farid Hassan,House Blend 1kg,Consumables,10,44.82,448.20
+INV-10569,09-08-2024,Arjun Menon,Cotton Tote,Apparel,,19.68,216.48
+INV-10955,2024-10-14,Marcus Lee,Filter Papers,Consumables,9,6.97,62.73
+INV-11051,2024-04-18,Aisha Rahman,House Blend 1kg,Consumables,10,42.15,421.50
 INV-10323,2024-08-01,Siti Nurhaliza,HOUSE BLEND 1KG,  Consumables ,11,40.71,447.81
-INV-11181,2024-08-14,Siti Nurhaliza,Bean Sampler Box,Consumables,2,58.62,117.24
-INV-10872,06-27-2024,Arjun Menon,Filter Papers,Consumables,7,6.92,48.44
-INV-10575,12-07-2024,Farid Hassan,Burr Grinder,Appliances,11,291.87,3210.57
+INV-11144,2024-05-12,  Priya Nair ,Travel Tumbler,Drinkware,10,27.02,270.20
+INV-10916,2024-03-19,Marcus Lee,  Bean Sampler Box ,Consumables,12,58.93,707.16
+INV-10853,2024-06-08,Siti Nurhaliza,Burr Grinder,Appliances,5,289.29,1446.45
 INV-10529,2024-11-24,Ryan Cheah,Milk Frother,Appliances,3,87.38,262.14
 INV-10270,2024-02-20,Nadia Ismail,Cotton Tote,Apparel,6,19.62,117.72
 INV-10269,2024-04-21,Arjun Menon,milk frother,Appliances,6,$80.68,484.08
-INV-10636,2024-12-13,Farid Hassan,Cotton Tote,Apparel,8,17.55,140.40
+INV-10663,2024-09-08,Grace Wong,Filter Papers,CONSUMABLES,11,7.24,79.64
 INV-10440,2024-06-03,Arjun Menon,Filter Papers,Consumables,11,7.32,80.52
 INV-10369,2024-05-25,Daniel Ong,Wooden Tray,  Homeware ,2,81.26,162.52
 INV-10287,2024-03-05,Siti Nurhaliza,Burr Grinder,Appliances,2,326.93,653.86
-INV-10934,01 Sep 2024,Grace Wong,Milk Frother,Appliances,12,94.98,1139.76
+INV-10983,2024-05-16,Priya Nair,Blue Mug,Drinkware,4,12.93,51.72
 INV-10130,2024/11/04,Marcus Lee,Bean Sampler Box,Consumables,9,65.07,585.63
-INV-11028,2024-05-31,Nadia Ismail,Glass Carafe,DRINKWARE,9,36.62,329.58
-INV-10818,2024-02-08,Chloe Lim,Glass Carafe,Drinkware,3,37.61,112.83
+INV-10284,2024-11-25,Aisha Rahman,Filter Papers,Consumables,8,7.28,58.24
+INV-10855,2024-08-14,Kevin Tan,Glass Carafe,Drinkware,12,33.51,402.12
 INV-10119,2024-09-15,  Grace Wong ,Cotton Tote,Apparel,12,18.41,220.92
-INV-11052,2024-08-29,Nadia Ismail,Bean Sampler Box,Consumables,9,$ 59.03,531.27
+INV-10797,2024-02-26,Chloe Lim,Glass Carafe,Drinkware,3,35.50,106.50
 INV-10145,2024-06-08,Farid Hassan,  Milk Frother ,Appliances,1,82.02,82.02
-INV-10957,2024-10-13,Farid Hassan,Espresso Machine,Appliances,6,1549.85,9299.10
-INV-10970,2024-02-23,Grace Wong,Glass Carafe,DRINKWARE,3,36.51,109.53
-INV-10746,2024-11-14,Marcus Lee,Milk Frother,Appliances,5,90.14,450.70
-INV-10745,2024-07-07,  Marcus Lee ,Travel Tumbler,Drinkware,1,28.30,28.30
-INV-10593,2024/12/12,Chloe Lim,Espresso Machine,Appliances,7,1469.34,10285.38
+INV-11109,2024-12-30,Farid Hassan,  House Blend 1kg ,Consumables,5,42.80,214.00
+INV-11132,2024-09-12,Ryan Cheah,Filter Papers,Consumables,4,7.87,31.48
+INV-11081,2024-11-01,Farid Hassan,Wooden Tray,Homeware,8,78.82,630.56
+INV-10686,11-21-2024,Nadia Ismail,Wooden Tray,Homeware,8,69.82,558.56
+INV-10617,0000-00-00,Priya Nair,Burr Grinder,Appliances,11,315.56,3471.16
 INV-10479,2024-12-12,Ryan Cheah,Bean Sampler Box,Consumables,6,60.04,360.24
-INV-11010,2024-09-21,Kevin Tan,Bean Sampler Box,Consumables,1,64.78,64.78
+INV-11137,2024-09-09,Farid Hassan,Cotton Tote,Apparel,6,$ 17.54,105.24
 INV-10504,2024-04-05,Aisha Rahman,Wooden Tray,Homeware,5,75.38,376.90
 INV-10515,2024/09/01,Priya Nair,Espresso Machine,Appliances,3,1368.55,4105.65
-INV-11043,2024-01-03,Kevin Tan,Burr Grinder,Appliances,3,349.35,1048.05
-INV-10891,2024-10-24,Farid Hassan,Blue Mug,Drinkware,10,13.42,134.20
+INV-11069,2024-11-04,Ryan Cheah,Glass Carafe,Drinkware,6,$32.71,196.26
+INV-11044,2024-11-24,Grace Wong,Espresso Machine,Appliances,12,1532.84,18394.08
 INV-10183,2024-02-20,  Marcus Lee ,House Blend 1kg,Consumables,10,42.50,425.00
+INV-10940,2024-08-13,Aisha Rahman,Cotton Tote,Apparel,7,$ 16.61,116.27
 INV-10042,2024-04-22,Aisha Rahman,House Blend 1kg,Consumables,10,41.95,419.50
 INV-10572,2024/12/08,Aisha Rahman,Blue Mug,Drinkware,2,12.56,25.12
-INV-10943,2024-06-22,CHLOE LIM,House Blend 1kg,  Consumables ,11,39.21,431.31
-INV-11084,2024-08-31,Farid Hassan,glass carafe,Drinkware,3,35.64,106.92
+INV-10135,2024-03-10,Arjun Menon,blue mug,Drinkware,7,$ 11.46,80.22
+INV-10455,2024-07-06,Grace Wong,LINEN APRON,Apparel,5,41.71,208.55
 INV-10404,2024-06-28,Arjun Menon,Linen Apron,Apparel,8,42.00,336.00
-INV-11029,2024-11-27,Kevin Tan,Glass Carafe,Drinkware,12,33.49,401.88
+INV-11010,2024-09-21,Kevin Tan,Bean Sampler Box,Consumables,1,64.78,64.78
 INV-10390,2024-03-09,Aisha Rahman,House Blend 1kg,Consumables,6,43.45,260.70
-INV-10035,2024-02-10,DANIEL ONG,Espresso Machine,Appliances,10,1321.80,13218.00
-INV-11091,2024-04-29,Daniel Ong,linen apron,Apparel,8,41.70,333.60
+INV-11009,2024-07-16,Siti Nurhaliza,Linen Apron,Apparel,2,48.74,97.48
+INV-10804,03-31-2024,Ryan Cheah,wooden tray,Homeware,3,78.87,236.61
 INV-10005,2024-05-22,Aisha Rahman,Linen Apron,Apparel,-,42.48,424.80
 INV-10046,2024-10-22,Arjun Menon,Wooden Tray,Homeware,,82.62,826.20
-INV-11086,2024/11/04,Chloe Lim,Travel Tumbler,Drinkware,3,27.90,83.70
-INV-10854,2024-02-20,Marcus Lee,cotton tote,Apparel,-,19.29,212.19
+INV-10612,03/08/2024,Siti Nurhaliza,Travel Tumbler,Drinkware,5,26.14,130.70
+INV-10812,2024-01-01,Aisha Rahman,Milk Frother,Appliances,12,94.11,1129.32
+INV-11112,2024-09-18,  Chloe Lim ,Espresso Machine,Appliances,10,1314.75,13147.50
+INV-10772,2024-01-12,Daniel Ong,House Blend 1kg,Consumables,2,42.21,84.42
 INV-10240,2024-05-27,Nadia Ismail,Blue Mug,Drinkware,8,$13.50,108.00
-INV-10737,2024-04-26,  Ryan Cheah ,House Blend 1kg,Consumables,2,42.95,85.90
-INV-10939,2024-03-07,Arjun Menon,Filter Papers,  Consumables ,12,7.80,93.60
-INV-11121,30 May 2024,Kevin Tan,Travel Tumbler,Drinkware,9,28.33,254.97
-INV-11139,2024-01-28,Chloe Lim,  Espresso Machine ,Appliances,3,1522.55,4567.65
-INV-10977,2024-12-10,Priya Nair,Wooden Tray,Homeware,6,72.82,436.92
+INV-10769,2024/03/03,Aisha Rahman,Travel Tumbler,Drinkware,3,27.79,83.37
+INV-11085,2024/09/14,Daniel Ong,House Blend 1kg,Consumables,9,37.67,339.03
+INV-11150,2024-04-10,Priya Nair,Bean Sampler Box,Consumables,7,61.16,428.12
+INV-11168,2024-01-12,Priya Nair,Cotton Tote,  Apparel ,3,17.69,53.07
+INV-11030,2024-03-13,Daniel Ong,Blue Mug,Drinkware,9,12.63,113.67
 INV-10074,2024-10-10,Priya Nair,Glass Carafe,Drinkware,2,$33.26,66.52
-INV-10889,2024-06-18,Kevin Tan,  Wooden Tray ,Homeware,7,81.65,571.55
+INV-10944,18/02/2024,Grace Wong,BEAN SAMPLER BOX,Consumables,10,$ 64.33,643.30
 INV-10611,2024-09-09,Priya Nair,Glass Carafe,  Drinkware ,5,33.29,166.45
-INV-11137,2024-09-09,Farid Hassan,Cotton Tote,Apparel,6,$ 17.54,105.24
-INV-10713,2024-09-17,MARCUS LEE,Milk Frother,Appliances,10,$ 83.76,837.60
+INV-10856,2024-11-26,Daniel Ong,Milk Frother,Appliances,10,93.07,930.70
+INV-10159,23/06/2024,SITI NURHALIZA,  Cotton Tote ,Apparel,5,16.96,84.80
 INV-10217,01/06/2024,Farid Hassan,Milk Frother,Appliances,5,94.71,473.55
-INV-11147,2024-07-05,Grace Wong,Linen Apron,Apparel,6,46.81,280.86
+INV-11176,31/08/2024,Arjun Menon,Blue Mug,Drinkware,6,12.91,77.46
 INV-10331,03-29-2024,Farid Hassan,Travel Tumbler,Drinkware,4,26.02,104.08
-INV-11146,2024-08-05,Marcus Lee,Burr Grinder,Appliances,8,311.42,"2,491.36"
-INV-11045,2024-12-13,Ryan Cheah,Milk Frother,Appliances,3,95.05,285.15
+INV-10518,01/11/2024,DANIEL ONG,  Espresso Machine ,Appliances,11,1525.94,16785.34
+INV-11071,2024/09/02,  Marcus Lee ,Travel Tumbler,Drinkware,8,27.90,223.20
 INV-10010,2024-11-12,Kevin Tan,Travel Tumbler,Drinkware,11,28.29,311.19
-INV-11071,2024/09/02,  MARCUS LEE ,Travel Tumbler,Drinkware,8,27.90,223.20
+INV-10087,06-19-2024,Grace Wong,Linen Apron,Apparel,12,40.72,488.64
 INV-10469,2024-01-14,Farid Hassan,Wooden Tray,Homeware,11,81.66,898.26
 INV-10596,2024-06-23,Farid Hassan,Travel Tumbler,DRINKWARE,2,27.65,55.30
-INV-11030,2024-03-13,Daniel Ong,Blue Mug,Drinkware,9,12.63,113.67
+INV-10409,2024-11-26,KEVIN TAN,Blue Mug,Drinkware,4,11.57,46.28
 INV-10254,2024-03-25,Siti Nurhaliza,Bean Sampler Box,Consumables,unknown,62.02,310.10
 INV-10461,2024-07-24,Chloe Lim,GLASS CARAFE,Drinkware,9,32.80,295.20
-INV-10833,2024-12-08,Kevin Tan,Wooden Tray,Homeware,2,78.55,157.10
-INV-10668,2024-10-05,Kevin Tan,Travel Tumbler,Drinkware,5,,142.05
+INV-11065,2024-04-24,Chloe Lim,Travel Tumbler,Drinkware,7,28.09,196.63
+INV-11120,2024-07-27,Chloe Lim,House Blend 1kg,Consumables,3,37.39,112.17
+INV-11041,2024-12-03,Siti Nurhaliza,Cotton Tote,Apparel,10,17.82,178.20
 INV-10297,31/02/2024,Kevin Tan,blue mug,Drinkware,9,12.72,114.48
-INV-10905,2024-03-26,Daniel Ong,Linen Apron,Apparel,5,45.03,225.15
+INV-10908,2024-07-02,Marcus Lee,Glass Carafe,Drinkware,8,33.80,270.40
 INV-10149,22/01/2024,Kevin Tan,Travel Tumbler,Drinkware,10,29.66,296.60
-INV-10802,2024-07-01,Marcus Lee,Wooden Tray,Homeware,10,$ 81.92,819.20
-INV-10026,2024-08-27,  Chloe Lim ,Travel Tumbler,Drinkware,10,27.35,273.50
+INV-10837,2024-01-18,Chloe Lim,Cotton Tote,Apparel,7,17.28,120.96
+INV-11162,2024-11-19,Priya Nair,Linen Apron,Apparel,8,$ 46.02,368.16
 INV-10428,2024-11-23,Farid Hassan,Bean Sampler Box,Consumables,9,60.07,540.63
-INV-10193,2024-05-19,Chloe Lim,Wooden Tray,Homeware,7,73.02,511.14
+INV-10193,2024-05-19,Chloe Lim,Wooden Tray,Homeware,7,73.02,766.71
 INV-10289,30 May 2024,Arjun Menon,Linen Apron,Apparel,9,$49.45,445.05
-INV-10284,2024-11-25,AISHA RAHMAN,Filter Papers,Consumables,8,7.28,58.24
-INV-10675,04-15-2024,Aisha Rahman,Glass Carafe,Drinkware,4,35.71,142.84
+INV-10220,2024-04-06,Ryan Cheah,Linen Apron,Apparel,6,44.60,267.60
+INV-11024,2024-09-14,Daniel Ong,Wooden Tray,Homeware,6,81.29,487.74
 INV-10211,28 Feb 2024,Arjun Menon,Bean Sampler Box,Consumables,4,$60.86,243.44
 INV-10441,2024-07-26,Siti Nurhaliza,Espresso Machine,Appliances,11,1538.36,16921.96
-INV-10789,2024-03-31,  Marcus Lee ,Burr Grinder,Appliances,3,347.85,1043.55
+INV-10728,2024-12-07,Ryan Cheah,House Blend 1kg,  Consumables ,5,$ 42.40,212.00
 INV-10391,30/03/2024,Nadia Ismail,Burr Grinder,Appliances,11,322.94,3552.34
-INV-11001,2024/09/26,Marcus Lee,Travel Tumbler,Drinkware,6,29.59,177.54
-INV-11005,2024-09-28,Arjun Menon,Espresso Machine,Appliances,10,1580.59,15805.90
+INV-10677,2024-05-29,Siti Nurhaliza,Glass Carafe,Drinkware,12,33.67,404.04
+INV-10294,19/03/2024,Nadia Ismail,Burr Grinder,Appliances,6,$330.57,1983.42
 INV-10272,2024-08-20,Daniel Ong,Linen Apron,Apparel,2,42.98,85.96
 INV-10195,2024-05-08,Aisha Rahman,Linen Apron,Apparel,10,47.11,471.10
-INV-11158,2024-12-13,Farid Hassan,Blue Mug,Drinkware,6,12.28,73.68
-INV-10956,2024/07/05,Aisha Rahman,Filter Papers,Consumables,6,$ 7.50,45.00
-INV-10982,2024-07-14,PRIYA NAIR,Blue Mug,Drinkware,1,12.56,12.56
+INV-11115,2024-12-08,Grace Wong,Milk Frother,Appliances,6,93.98,563.88
+INV-11078,09-03-2024,Priya Nair,Cotton Tote,Apparel,8,,147.04
+INV-10121,2024-05-21,Chloe Lim,Milk Frother,Appliances,11,93.48,1028.28
 INV-10506,2024-07-26,Grace Wong,  Espresso Machine ,APPLIANCES,11,1355.89,14914.79
-INV-10723,2024-02-10,Chloe Lim,Glass Carafe,Drinkware,5,33.35,166.75
-INV-10904,07 Mar 2024,Daniel Ong,Wooden Tray,Homeware,5,81.73,408.65
+INV-10753,2024-12-30,Siti Nurhaliza,Blue Mug,Drinkware,3,13.68,41.04
+INV-10949,2024-01-26,Chloe Lim,Espresso Machine,APPLIANCES,two,1400.96,7004.80
 INV-10538,2024-02-21,Farid Hassan,Blue Mug,Drinkware,2,11.85,23.70
 INV-10014,2024-05-16,Ryan Cheah,Burr Grinder,Appliances,11,310.74,3418.14
 INV-10120,2024-08-31,Arjun Menon,Bean Sampler Box,Consumables,3,61.33,183.99
-INV-11052,2024-08-29,Nadia Ismail,Bean Sampler Box,Consumables,9,$ 59.03,531.27
-INV-11156,2024-06-20,Siti Nurhaliza,Filter Papers,CONSUMABLES,12,6.66,79.92
-INV-10684,2024-12-21,Kevin Tan,Linen Apron,Apparel,5,45.14,225.70
-INV-11180,2024-06-26,Arjun Menon,Filter Papers,  Consumables ,5,7.45,37.25
+INV-11021,2024-01-09,Grace Wong,Filter Papers,Consumables,6,7.11,42.66
+INV-11185,2024-05-29,Farid Hassan,Milk Frother,Appliances,7,80.26,561.82
+INV-10899,2024-03-07,Farid Hassan,Glass Carafe,DRINKWARE,2,34.83,69.66
+INV-11082,2024-03-08,Daniel Ong,Travel Tumbler,Drinkware,7,26.49,185.43
 INV-10152,2024-08-23,Ryan Cheah,Linen Apron,Apparel,11,49.15,540.65
-INV-10692,2024-08-13,Arjun Menon,Travel Tumbler,Drinkware,3,30.40,91.20
-INV-10821,2024-06-18,Marcus Lee,Linen Apron,Apparel,2,41.91,83.82
+INV-10988,2024-01-25,Grace Wong,Wooden Tray,Homeware,11,72.77,800.47
+INV-10879,2024-01-30,Farid Hassan,Espresso Machine,Appliances,4,1348.48,5393.92
 INV-10439,2024-01-16,Arjun Menon,  House Blend 1kg ,Consumables,11,40.81,448.91
 INV-10632,2024-12-12,Nadia Ismail,blue mug,Drinkware,11,12.66,139.26
-INV-11066,2024-09-06,Arjun Menon,Linen Apron,  APPAREL ,6,$ 43.68,262.08
+INV-10878,2024-11-29,Siti Nurhaliza,Milk Frother,Appliances,12,84.75,1017.00
 ,2024-06-22,Daniel Ong,Filter Papers,Consumables,7,6.67,46.69
 INV-10172,08/01/2024,Ryan Cheah,Espresso Machine,Appliances,5,1409.66,7048.30
 INV-10268,2024-11-11,Grace Wong,Filter Papers,Consumables,8,6.67,53.36
-INV-10772,2024-01-12,Daniel Ong,House Blend 1kg,Consumables,2,42.21,84.42
-INV-10913,2024/01/25,Farid Hassan,,Appliances,10,$93.83,938.30
+INV-11084,2024-08-31,Farid Hassan,glass carafe,Drinkware,3,35.64,53.46
+INV-10958,2024-07-05,Ryan Cheah,House Blend 1kg,  Consumables ,11,41.28,454.08
 INV-10091,2024-04-08,Grace Wong,Espresso Machine,Appliances,11,1369.65,15066.15
-INV-11040,2024-04-09,Kevin Tan,Travel Tumbler,Drinkware,2,$26.80,53.60
-INV-10918,TBC,Farid Hassan,Filter Papers,Consumables,9,6.67,60.03
+INV-11066,2024-09-06,Arjun Menon,Linen Apron,  APPAREL ,6,$ 43.68,262.08
+INV-10963,2024-03-02,Grace Wong,Milk Frother,Appliances,4,90.97,363.88
 INV-10626,2024-08-04,Grace Wong,Espresso Machine,Appliances,3,1378.28,4134.84
-INV-10995,2024-07-12,Aisha Rahman,Glass Carafe,Drinkware,2,36.54,73.08
-INV-11131,2024-04-03,Ryan Cheah,Espresso Machine,Appliances,5,1564.35,7821.75
+INV-10914,11/01/2024,Aisha Rahman,Blue Mug,Drinkware,11,12.90,141.90
+INV-11160,2024-06-30,Kevin Tan,Glass Carafe,  Drinkware ,5,38.25,191.25
 INV-10023,2024-03-11,Chloe Lim,House Blend 1kg,Consumables,4,$ 40.67,162.68
-INV-10780,2024-03-11,Grace Wong,Blue Mug,Drinkware,7,11.47,80.29
+INV-11014,2024-12-09,Nadia Ismail,Blue Mug,Drinkware,4,12.82,51.28
 INV-10229,2024-11-16,Ryan Cheah,Bean Sampler Box,Consumables,6,60.51,363.06
-INV-11170,22/02/2024,Daniel Ong,Travel Tumbler,  Drinkware ,7,26.38,184.66
-INV-10294,19/03/2024,Nadia Ismail,Burr Grinder,Appliances,6,$330.57,1983.42
-INV-10756,2024-07-20,Daniel Ong,Travel Tumbler,Drinkware,11,28.03,308.33
+INV-10970,2024-02-23,Grace Wong,Glass Carafe,DRINKWARE,3,36.51,109.53
+INV-11196,12 Aug 2024,Ryan Cheah,Travel Tumbler,Drinkware,3,26.78,80.34
+INV-10790,2024-12-23,Kevin Tan,House Blend 1kg,Consumables,12,,479.88
 INV-10186,2024-08-28,Siti Nurhaliza,Linen Apron,APPAREL,10,44.55,445.50
-INV-10782,2024/07/02,Arjun Menon,bean sampler box,Consumables,7,65.66,459.62
-INV-10952,09-11-2024,Ryan Cheah,Cotton Tote,Apparel,2,17.81,35.62
+INV-10922,2024-05-31,Priya Nair,Espresso Machine,Appliances,7,1408.80,9861.60
+INV-11001,2024/09/26,Marcus Lee,Travel Tumbler,Drinkware,6,29.59,177.54
 INV-10086,2024-03-24,Priya Nair,glass carafe,  Drinkware ,two,37.87,151.48
-INV-11120,2024-07-27,Chloe Lim,House Blend 1kg,Consumables,3,37.39,112.17
+INV-11149,2024-05-18,Marcus Lee,Filter Papers,Consumables,2,6.86,13.72
 INV-10288,2024-12-30,Kevin Tan,House Blend 1kg,Consumables,9,42.60,383.40
 INV-10335,2024-06-10,Priya Nair,house blend 1kg,Consumables,11,40.03,440.33
 INV-10607,2024-11-01,Farid Hassan,Travel Tumbler,Drinkware,2,27.18,54.36
+INV-10932,2024-02-17,Kevin Tan,House Blend 1kg,Consumables,12,39.58,474.96
 INV-10177,2024-07-24,Arjun Menon,Cotton Tote,Apparel,2,16.61,33.22
-INV-10291,2024-04-20,GRACE WONG,filter papers,Consumables,9,7.47,67.23
+INV-10266,22/12/2024,Chloe Lim,Linen Apron,Apparel,11,$44.58,490.38
 INV-10136,2024-06-16,Marcus Lee,  Glass Carafe ,Drinkware,7,31.76,222.32
 INV-10489,2024-12-22,  Siti Nurhaliza ,Bean Sampler Box,Consumables,9,59.16,532.44
-INV-11172,2024-02-12,Daniel Ong,Blue Mug,Drinkware,9,13.18,118.62
+INV-11027,2024-09-30,Marcus Lee,Filter Papers,Consumables,3,6.57,19.71
 INV-10327,2024-06-22,Marcus Lee,Travel Tumbler,Drinkware,5,27.42,137.10
-INV-10903,2024-05-07,Marcus Lee,Blue Mug,Drinkware,11,12.94,142.34
-INV-10608,2024-05-29,Grace Wong,Burr Grinder,Appliances,1,343.28,343.28
+INV-10948,2024-09-08,Kevin Tan,Cotton Tote,Apparel,2,19.33,38.66
+INV-10702,15/02/2024,Ryan Cheah,Cotton Tote,Apparel,7,16.45,115.15
+INV-11042,2024-10-17,Kevin Tan,Wooden Tray,Homeware,10,77.28,772.80
 INV-10133,2024-11-14,Chloe Lim,Glass Carafe,Drinkware,3,$37.28,111.84
 INV-10664,03-26-2024,Daniel Ong,  Wooden Tray ,Homeware,8,81.17,649.36
-INV-10938,Feb 30 2024,Aisha Rahman,Glass Carafe,Drinkware,6,35.68,214.08
+INV-10730,2024-09-11,Kevin Tan,Glass Carafe,Drinkware,3,36.31,108.93
+INV-10987,2024/05/01,Chloe Lim,Wooden Tray,Homeware,7,78.24,547.68
 INV-10255,2024-06-22,Daniel Ong,Cotton Tote,Apparel,5,19.68,98.40
 INV-10161,2024-05-03,Ryan Cheah,Bean Sampler Box,Consumables,2,67.56,135.12
 INV-10113,09/04/2024,Ryan Cheah,Linen Apron,Apparel,10,48.48,484.80
 INV-10084,07 Dec 2024,Daniel Ong,Burr Grinder,Appliances,4,301.44,1205.76
 INV-10589,2024-12-16,Siti Nurhaliza,Milk Frother,Appliances,N/A,80.93,161.86
-INV-10848,2024-05-15,Grace Wong,Bean Sampler Box,Consumables,7,66.71,466.97
-INV-11112,2024-09-18,  Chloe Lim ,Espresso Machine,Appliances,10,1314.75,13147.50
-INV-11192,2024-04-03,Priya Nair,Linen Apron,Apparel,2,42.19,84.38
-INV-10953,2024-07-30,Aisha Rahman,Filter Papers,Consumables,7,$ 6.55,45.85
-INV-11145,2024-08-29,Farid Hassan,Bean Sampler Box,Consumables,unknown,59.06,295.30
+INV-10890,01/03/2024,Arjun Menon,Milk Frother,Appliances,8,90.52,724.16
+INV-11089,2024-07-14,Kevin Tan,Linen Apron,Apparel,8,42.57,340.56
+INV-10982,2024-07-14,Priya Nair,Blue Mug,Drinkware,1,12.56,12.56
+INV-11154,07-22-2024,Daniel Ong,Bean Sampler Box,Consumables,1,66.45,66.45
+INV-11174,2024-05-25,Arjun Menon,Milk Frother,Appliances,12,84.18,1010.16
 INV-10003,2024-11-04,Aisha Rahman,Travel Tumbler,Drinkware,9,26.42,237.78
-INV-11101,2024-07-22,Ryan Cheah,House Blend 1kg,CONSUMABLES,12,40.21,482.52
-INV-10718,2024-02-07,Aisha Rahman,Bean Sampler Box,Consumables,8,64.27,514.16
+INV-10696,27 Jan 2024,Grace Wong,Filter Papers,Consumables,3,7.84,23.52
+INV-10748,18 Mar 2024,Aisha Rahman,Bean Sampler Box,Consumables,4,65.23,260.92
 INV-10454,2024-01-05,  Daniel Ong ,Filter Papers,Consumables,9,,64.89
 INV-10645,2024-11-18,  Priya Nair ,Cotton Tote,Apparel,7,17.03,119.21
-INV-10188,2024/05/15,Nadia Ismail,Cotton Tote,Apparel,4,16.46,65.84
-INV-11049,09 Feb 2024,Ryan Cheah,Espresso Machine,Appliances,11,1381.34,15194.74
-INV-11108,2024-07-15,Grace Wong,BURR GRINDER,Appliances,1,293.12,293.12
+INV-11026,2024-07-14,Grace Wong,milk frother,Appliances,8,93.72,749.76
+INV-10749,2024-06-26,Nadia Ismail,Linen Apron,Apparel,9,40.72,366.48
+INV-11090,2024/10/21,Daniel Ong,House Blend 1kg,Consumables,12,$ 44.03,528.36
 INV-10053,2024-02-20,Aisha Rahman,COTTON TOTE,Apparel,9,19.11,171.99
-INV-10901,12/04/2024,Ryan Cheah,Linen Apron,Apparel,9,40.54,364.86
+INV-10924,2024-12-09,Daniel Ong,burr grinder,Appliances,1,303.01,303.01
 INV-10711,2024-11-03,Ryan Cheah,Travel Tumbler,  Drinkware ,10,26.59,265.90
-INV-10947,2024-09-15,Arjun Menon,Blue Mug,Drinkware,3,11.28,33.84
+INV-10996,07 Mar 2024,Priya Nair,Linen Apron,Apparel,5,43.01,215.05
 INV-10334,2024-11-25,Nadia Ismail,Filter Papers,Consumables,10,7.87,78.70
-INV-10944,18/02/2024,Grace Wong,BEAN SAMPLER BOX,Consumables,10,$ 64.33,643.30
-INV-10877,2024-11-23,Kevin Tan,Cotton Tote,Apparel,5,16.43,82.15
+INV-10755,2024-02-13,Farid Hassan,  Wooden Tray ,Homeware,8,82.01,656.08
+INV-10993,2024/04/09,  Siti Nurhaliza ,House Blend 1kg,Consumables,12,38.98,467.76
+INV-10746,2024-11-14,Marcus Lee,Milk Frother,Appliances,5,90.14,450.70
+INV-10889,2024-06-18,Kevin Tan,  Wooden Tray ,Homeware,7,81.65,571.55
 INV-10430,2024-03-19,Siti Nurhaliza,Blue Mug,Drinkware,9,13.33,119.97
 INV-10360,2024-03-19,Priya Nair,House Blend 1kg,Consumables,7,38.44,269.08
-INV-11087,2024-11-28,Grace Wong,  Blue Mug ,Drinkware,11,13.49,148.39
-INV-10238,2024-03-14,MARCUS LEE,Espresso Machine,Appliances,10,1449.32,14493.20
+INV-11113,2024-12-11,Aisha Rahman,  Wooden Tray ,Homeware,3,71.92,107.88
+INV-10518,01/11/2024,Daniel Ong,  Espresso Machine ,Appliances,11,1525.94,16785.34
 INV-10267,20 Mar 2024,Grace Wong,Linen Apron,Apparel,12,45.79,549.48
 INV-10715,2024-09-12,Nadia Ismail,Cotton Tote,Apparel,4,17.59,70.36
-INV-10749,2024-06-26,Nadia Ismail,Linen Apron,Apparel,9,40.72,366.48
-INV-11117,08/10/2024,Siti Nurhaliza,  Wooden Tray ,Homeware,2,69.44,138.88
-INV-10871,2024-12-30,Ryan Cheah,Milk Frother,Appliances,5,90.93,454.65
-INV-10982,2024-07-14,Priya Nair,Blue Mug,Drinkware,1,12.56,12.56
+INV-10782,2024/07/02,Arjun Menon,bean sampler box,Consumables,7,65.66,459.62
+INV-10102,25/07/2024,Ryan Cheah,Milk Frother,Appliances,6,91.97,551.82
+INV-10915,2024-07-13,Daniel Ong,Wooden Tray,Homeware,8,70.16,561.28
+INV-10734,2024-11-17,Daniel Ong,Milk Frother,Appliances,10,92.78,927.80
 INV-10340,2024-10-10,Ryan Cheah,BEAN SAMPLER BOX,Consumables,10,60.57,605.70
-INV-10895,2024-03-14,Kevin Tan,House Blend 1kg,Consumables,8,44.76,358.08
+INV-10939,2024-03-07,Arjun Menon,Filter Papers,  Consumables ,12,7.80,93.60
+INV-10851,2024-07-21,  Kevin Tan ,Filter Papers,Consumables,1,7.53,7.53
 INV-10482,2024-05-27,Ryan Cheah,Milk Frother,Appliances,5,84.10,420.50
 INV-10503,2024-06-18,Priya Nair,milk frother,Appliances,2,83.53,167.06
 INV-10082,2024-10-09,Priya Nair,Blue Mug,Drinkware,10,13.34,133.40
 INV-10280,2024-03-05,Ryan Cheah,Blue Mug,Drinkware,1,11.69,11.69
 INV-10034,2024-07-04,Siti Nurhaliza,Burr Grinder,Appliances,2,319.27,638.54
-INV-10844,2024-08-22,Aisha Rahman,  Burr Grinder ,Appliances,9,342.82,3085.38
-INV-10856,2024-11-26,Daniel Ong,Milk Frother,Appliances,10,93.07,930.70
-INV-11140,2024-01-17,Chloe Lim,Linen Apron,Apparel,9,44.80,403.20
+INV-10885,2024-12-02,Chloe Lim,Bean Sampler Box,Consumables,3,59.52,178.56
+INV-10242,2024/12/19,Siti Nurhaliza,milk frother,Appliances,7,91.47,640.29
+INV-10464,2024-03-24,Grace Wong,Burr Grinder,Appliances,6,347.61,2085.66
 INV-10646,07-21-2024,Aisha Rahman,Glass Carafe,Drinkware,7,35.88,251.16
 INV-10449,09 Jun 2024,Marcus Lee,Glass Carafe,Drinkware,10,37.09,370.90
-INV-10890,01/03/2024,Arjun Menon,Milk Frother,Appliances,8,90.52,724.16
-INV-11160,2024-06-30,Kevin Tan,Glass Carafe,  Drinkware ,5,38.25,191.25
-INV-10989,2024-06-09,Chloe Lim,Linen Apron,Apparel,11,44.25,486.75
-INV-11159,28/11/2024,Chloe Lim,Espresso Machine,Appliances,11,1472.29,16195.19
-INV-10959,2024-04-23,Aisha Rahman,Cotton Tote,  Apparel ,11,$ 16.61,182.71
+INV-10934,01 Sep 2024,Grace Wong,Milk Frother,Appliances,12,94.98,1139.76
+INV-11189,2024-11-16,Marcus Lee,ESPRESSO MACHINE,Appliances,7,1381.26,9668.82
+INV-10304,2024/12/02,Ryan Cheah,Filter Papers,Consumables,10,7.33,73.30
+INV-10846,2024-10-28,Farid Hassan,linen apron,Apparel,10,41.85,418.50
+INV-10774,2024-01-26,Priya Nair,Burr Grinder,Appliances,8,295.84,2366.72
+INV-10861,2024-07-03,Ryan Cheah,Espresso Machine,Appliances,1,1314.59,1314.59
 INV-10308,2024-07-11,Grace Wong,Travel Tumbler,Drinkware,4,29.38,117.52
 INV-10261,2024-11-13,Chloe Lim,Filter Papers,Consumables,1,6.86,6.86
-INV-10905,2024-03-26,DANIEL ONG,Linen Apron,Apparel,5,45.03,225.15
-INV-10342,03-18-2024,  Aisha Rahman ,Burr Grinder,Appliances,9,326.72,2940.48
+INV-10402,2024-02-10,Kevin Tan,Bean Sampler Box,Consumables,2,59.44,118.88
+INV-10266,22/12/2024,CHLOE LIM,Linen Apron,Apparel,11,$44.58,490.38
 INV-10397,2024-05-19,Daniel Ong,Blue Mug,Drinkware,6,$ 13.41,80.46
 INV-10453,2024-11-01,Nadia Ismail,Blue Mug,Drinkware,8,11.38,91.04
 INV-10242,2024/12/19,Siti Nurhaliza,milk frother,Appliances,7,91.47,640.29
 INV-10547,2024-11-25,Nadia Ismail,Bean Sampler Box,Consumables,6,61.95,371.70
 INV-10124,2024-04-28,  Grace Wong ,Bean Sampler Box,Consumables,3,56.80,170.40
-INV-10908,2024-07-02,Marcus Lee,Glass Carafe,Drinkware,8,33.80,270.40
-INV-11094,2024/07/11,Nadia Ismail,Bean Sampler Box,Consumables,1,$ 57.26,57.26
+INV-10953,2024-07-30,Aisha Rahman,Filter Papers,Consumables,7,$ 6.55,45.85
+INV-11166,2024-07-21,Siti Nurhaliza,Wooden Tray,Homeware,11,72.47,797.17
 INV-10717,2024-08-03,Kevin Tan,Glass Carafe,Drinkware,10,$ 34.11,341.10
 INV-10654,2024-11-10,Farid Hassan,Filter Papers,Consumables,5,7.55,37.75
 INV-10316,2024-01-29,Aisha Rahman,Blue Mug,Drinkware,10,11.80,118.00
@@ -771,145 +805,156 @@ INV-10393,2024-01-19,Siti Nurhaliza,  Glass Carafe ,Drinkware,8,31.85,254.80
 INV-10565,2024-05-13,Chloe Lim,Espresso Machine,  Appliances ,1,1519.96,1519.96
 INV-10259,10 Dec 2024,Siti Nurhaliza,Travel Tumbler,Drinkware,11,27.75,305.25
 INV-10245,2024/01/12,Nadia Ismail,Milk Frother,  Appliances ,5,97.77,488.85
-INV-10842,12/06/2024,Ryan Cheah,GLASS CARAFE,Drinkware,5,37.23,186.15
-INV-11103,2024-03-23,Daniel Ong,  Espresso Machine ,Appliances,12,1434.51,17214.12
-INV-11057,2024-12-03,Priya Nair,GLASS CARAFE,Drinkware,10,$ 32.66,326.60
+INV-10986,2024-10-14,Marcus Lee,Cotton Tote,Apparel,11,$16.57,182.27
+INV-10707,2024-11-11,Nadia Ismail,Wooden Tray,Homeware,7,70.70,494.90
+INV-10991,2024-12-26,RYAN CHEAH,Cotton Tote,Apparel,11,19.19,211.09
 INV-10678,2024/12/13,Daniel Ong,House Blend 1kg,Consumables,9,39.57,356.13
 INV-10757,05/12/2024,Priya Nair,House Blend 1kg,Consumables,,42.06,294.42
 INV-10035,2024-02-10,Daniel Ong,Espresso Machine,Appliances,10,1321.80,13218.00
-INV-11085,2024/09/14,Daniel Ong,House Blend 1kg,Consumables,9,37.67,339.03
-INV-11024,2024-09-14,Daniel Ong,Wooden Tray,Homeware,6,81.29,487.74
-INV-10233,06-02-2024,AISHA RAHMAN,travel tumbler,Drinkware,12,$ 27.68,332.16
+INV-11111,2024-09-22,Siti Nurhaliza,Cotton Tote,  Apparel ,11,$16.24,178.64
+INV-11049,09 Feb 2024,Ryan Cheah,Espresso Machine,Appliances,11,1381.34,15194.74
+INV-10021,03-12-2024,Marcus Lee,Filter Papers,Consumables,5,7.19,35.95
 INV-10315,12-07-2024,Siti Nurhaliza,Filter Papers,  Consumables ,N/A,$ 7.39,66.51
 INV-10376,2024-08-17,Farid Hassan,Glass Carafe,DRINKWARE,8,36.71,293.68
 INV-10732,2024-03-01,Aisha Rahman,Burr Grinder,Appliances,5,296.12,1480.60
-INV-10790,2024-12-23,Kevin Tan,House Blend 1kg,Consumables,12,,479.88
+INV-10849,2024-08-30,Aisha Rahman,Filter Papers,Consumables,10,$ 7.23,72.30
 INV-10371,2024-08-18,Kevin Tan,  Travel Tumbler ,Drinkware,4,30.50,122.00
 INV-10148,2024-12-16,Farid Hassan,Travel Tumbler,Drinkware,5,29.10,145.50
-INV-10996,07 Mar 2024,Priya Nair,Linen Apron,Apparel,5,43.01,215.05
+INV-10803,2024-07-12,Siti Nurhaliza,  Filter Papers ,Consumables,3,7.38,22.14
+INV-10904,07 Mar 2024,Daniel Ong,Wooden Tray,Homeware,5,81.73,408.65
 INV-10252,2024-06-16,Ryan Cheah,Wooden Tray,Homeware,5,70.40,352.00
 INV-10699,2024-04-25,Chloe Lim,cotton tote,Apparel,10,$16.48,164.80
-INV-10969,2024/12/20,Farid Hassan,Cotton Tote,Apparel,3,19.53,58.59
-INV-10810,2024-08-16,  Aisha Rahman ,Filter Papers,CONSUMABLES,6,7.58,45.48
+INV-11153,2024-06-02,Siti Nurhaliza,Wooden Tray,  Homeware ,8,73.20,585.60
+INV-10845,02/08/2024,Daniel Ong,WOODEN TRAY,Homeware,9,77.87,700.83
 INV-10558,01 Mar 2024,Ryan Cheah,Espresso Machine,Appliances,12,1576.78,"18,921.36"
 INV-10324,2024-03-28,Farid Hassan,Travel Tumbler,  Drinkware ,6,27.47,164.82
-INV-11048,2024-03-12,Chloe Lim,,Consumables,5,38.03,190.15
+INV-11074,2024-03-16,Aisha Rahman,Filter Papers,Consumables,10,7.27,72.70
 INV-10716,2024-07-03,Kevin Tan,House Blend 1kg,Consumables,1,37.94,37.94
 INV-10383,2024-11-10,Kevin Tan,Glass Carafe,Drinkware,1,33.44,33.44
-INV-11031,2024-07-20,Chloe Lim,Blue Mug,Drinkware,10,11.26,112.60
+INV-11056,2024-03-12,Arjun Menon,House Blend 1kg,Consumables,9,43.03,387.27
 INV-10502,15/09/2024,Arjun Menon,Cotton Tote,Apparel,3,19.40,58.20
-INV-11062,2024-11-20,Siti Nurhaliza,Burr Grinder,APPLIANCES,9,294.61,2651.49
+INV-11088,2024/12/23,  Chloe Lim ,Bean Sampler Box,Consumables,1,61.02,61.02
 INV-10603,02-24-2024,Daniel Ong,  Wooden Tray ,Homeware,6,74.32,445.92
 INV-10260,2024-07-09,Daniel Ong,House Blend 1kg,Consumables,11,$40.51,445.61
 INV-10418,2024-12-15,Kevin Tan,WOODEN TRAY,Homeware,2,75.17,150.34
 INV-10450,2024-08-27,Arjun Menon,Glass Carafe,Drinkware,9,34.89,314.01
 INV-10281,02 Feb 2024,Arjun Menon,linen apron,Apparel,12,45.23,542.76
-INV-10993,2024/04/09,  Siti Nurhaliza ,House Blend 1kg,Consumables,12,38.98,467.76
+INV-10058,2024-05-31,Marcus Lee,Wooden Tray,Homeware,-,75.80,303.20
 INV-10179,2024-02-13,Marcus Lee,glass carafe,Drinkware,5,37.07,185.35
 INV-10109,2024-11-20,Farid Hassan,Travel Tumbler,Drinkware,11,26.79,294.69
 INV-10147,11-17-2024,Marcus Lee,Espresso Machine,Appliances,12,1327.04,15924.48
 INV-10223,2024-03-18,Arjun Menon,Filter Papers,CONSUMABLES,11,7.67,84.37
 INV-10433,05 Mar 2024,Nadia Ismail,Filter Papers,Consumables,5,7.91,39.55
-INV-10836,2024-10-20,Marcus Lee,FILTER PAPERS,Consumables,8,7.78,62.24
+INV-10875,2024-10-14,Nadia Ismail,FILTER PAPERS,Consumables,,7.93,47.58
 INV-10761,2024-08-26,  Kevin Tan ,Glass Carafe,Drinkware,8,32.15,257.20
 INV-10766,2024-07-21,Chloe Lim,Wooden Tray,Homeware,6,72.17,433.02
+INV-10825,2024-05-30,Nadia Ismail,Burr Grinder,Appliances,2,288.24,576.48
 ,2024/12/20,Arjun Menon,Burr Grinder,Appliances,8,350.32,2802.56
 INV-10754,2024-09-23,Grace Wong,Travel Tumbler,Drinkware,4,25.45,101.80
 INV-10598,2024-09-08,Marcus Lee,Filter Papers,Consumables,8,6.92,55.36
+INV-10852,2024-08-31,Siti Nurhaliza,Wooden Tray,Homeware,12,72.01,864.12
 INV-10337,2024-09-16,Daniel Ong,Milk Frother,Appliances,6,90.63,543.78
-INV-11106,03-15-2024,Arjun Menon,Filter Papers,Consumables,2,6.53,13.06
+INV-11003,2024-06-27,Marcus Lee,BEAN SAMPLER BOX,  Consumables ,2,62.46,124.92
+INV-10826,2024-02-19,Aisha Rahman,Filter Papers,Consumables,4,7.40,29.60
 INV-10791,2024-06-29,Farid Hassan,House Blend 1kg,Consumables,12,37.58,450.96
-INV-11063,2024-10-18,Priya Nair,  Wooden Tray ,Homeware,9,72.40,651.60
+INV-11089,2024-07-14,Kevin Tan,Linen Apron,Apparel,8,42.57,340.56
 INV-10614,2024-11-11,Marcus Lee,Wooden Tray,Homeware,N/A,$77.90,779.00
-INV-11095,28/07/2024,Kevin Tan,Espresso Machine,Appliances,6,1504.45,9026.70
-INV-10840,2024-01-22,Grace Wong,Espresso Machine,Appliances,3,1539.45,4618.35
-INV-11125,2024-02-29,  Siti Nurhaliza ,House Blend 1kg,Consumables,8,44.50,356.00
-INV-10950,25 Jul 2024,Marcus Lee,Espresso Machine,Appliances,7,1464.64,10252.48
+INV-11121,30 May 2024,Kevin Tan,Travel Tumbler,Drinkware,9,28.33,254.97
+INV-11122,2024-10-02,Farid Hassan,Travel Tumbler,Drinkware,5,29.70,148.50
+INV-10508,2024-06-14,Marcus Lee,Glass Carafe,Drinkware,8,38.26,306.08
+INV-10999,2024-11-11,Nadia Ismail,House Blend 1kg,  Consumables ,11,37.77,415.47
 INV-10537,2024/08/02,Farid Hassan,Travel Tumbler,Drinkware,two,25.38,279.18
 INV-10793,2024-02-16,Aisha Rahman,  Milk Frother ,APPLIANCES,1,83.22,83.22
 INV-10594,2024-03-12,Ryan Cheah,Burr Grinder,Appliances,12,312.57,3750.84
+INV-10848,2024-05-15,Grace Wong,Bean Sampler Box,Consumables,7,66.71,466.97
 INV-10680,2024-05-07,Priya Nair,Filter Papers,Consumables,3,6.71,20.13
-INV-10916,2024-03-19,Marcus Lee,  Bean Sampler Box ,Consumables,12,58.93,707.16
+INV-11058,21 Jan 2024,Marcus Lee,WOODEN TRAY,Homeware,6,79.53,477.18
 INV-10123,20 Jun 2024,Kevin Tan,Wooden Tray,Homeware,5,72.74,363.70
 INV-10512,2024-03-22,Grace Wong,FILTER PAPERS,  Consumables ,5,6.70,33.50
-INV-11164,2024-02-10,Priya Nair,House Blend 1kg,Consumables,2,42.09,84.18
+INV-11193,2024-11-12,Arjun Menon,Milk Frother,Appliances,8,82.06,656.48
 INV-10584,2024-07-26,Grace Wong,Filter Papers,Consumables,2,7.63,15.26
-INV-11071,2024/09/02,  Marcus Lee ,Travel Tumbler,Drinkware,8,27.90,223.20
-INV-10886,2024-03-06,Ryan Cheah,Glass Carafe,Drinkware,8,33.46,267.68
+INV-11097,2024-10-16,Kevin Tan,Milk Frother,Appliances,7,$ 95.32,667.24
+INV-10930,2024-01-05,Priya Nair,Travel Tumbler,Drinkware,1,25.73,25.73
 INV-10143,07-07-2024,Priya Nair,Espresso Machine,Appliances,5,1439.86,7199.30
+INV-11057,2024-12-03,Priya Nair,GLASS CARAFE,Drinkware,10,$ 32.66,326.60
 INV-10741,2024-06-12,Siti Nurhaliza,Espresso Machine,Appliances,7,1398.32,9788.24
+INV-10859,2024-03-10,Chloe Lim,Milk Frother,Appliances,7,92.73,649.11
 INV-10406,2024-02-08,Nadia Ismail,Milk Frother,  Appliances ,1,91.48,91.48
-INV-11061,2024-01-21,Nadia Ismail,Cotton Tote,Apparel,1,19.50,19.50
+INV-11087,2024-11-28,Grace Wong,  Blue Mug ,Drinkware,11,13.49,148.39
 INV-10673,2024-10-28,Ryan Cheah,Espresso Machine,Appliances,12,1365.86,16390.32
-INV-10946,2024-10-12,Farid Hassan,Filter Papers,Consumables,3,7.46,22.38
-INV-10742,2024-09-14,Nadia Ismail,Travel Tumbler,Drinkware,2,28.40,56.80
+INV-10995,2024-07-12,Aisha Rahman,Glass Carafe,Drinkware,2,36.54,73.08
+INV-10372,2024-09-14,Kevin Tan,Blue Mug,Drinkware,7,12.29,86.03
 INV-10416,2024-12-21,Arjun Menon,Espresso Machine,Appliances,5,1593.95,7969.75
-INV-10899,2024-03-07,Farid Hassan,Glass Carafe,DRINKWARE,2,34.83,69.66
+INV-11060,2024-07-03,  Grace Wong ,Blue Mug,Drinkware,9,12.92,116.28
+INV-10887,2024-04-03,Nadia Ismail,Milk Frother,Appliances,9,93.01,837.09
 INV-10305,2024/12/25,Siti Nurhaliza,Milk Frother,Appliances,5,$80.62,403.10
 INV-10616,2024-06-17,Arjun Menon,Burr Grinder,Appliances,7,341.86,2393.02
 INV-10321,2024-08-11,Aisha Rahman,linen apron,Apparel,1,48.26,48.26
 INV-10085,2024-11-13,Ryan Cheah,burr grinder,Appliances,7,337.93,2365.51
+INV-10946,2024-10-12,Farid Hassan,Filter Papers,Consumables,3,7.46,22.38
 INV-10056,2024-07-18,Siti Nurhaliza,Blue Mug,Drinkware,1,11.66,11.66
 INV-10020,2024-09-12,Grace Wong,Wooden Tray,Homeware,11,73.18,804.98
-INV-11157,2024-05-11,Kevin Tan,Burr Grinder,Appliances,9,311.06,"2,799.54"
-INV-10874,04/01/2024,  Chloe Lim ,House Blend 1kg,Consumables,2,40.65,81.30
-INV-11185,2024-05-29,Farid Hassan,Milk Frother,Appliances,7,80.26,561.82
+INV-11096,26/10/2024,Siti Nurhaliza,Travel Tumbler,Drinkware,11,26.07,286.77
+INV-10918,TBC,Farid Hassan,Filter Papers,Consumables,9,6.67,60.03
+INV-10233,06-02-2024,Aisha Rahman,travel tumbler,Drinkware,12,$ 27.68,332.16
 INV-10043,2024-04-27,  Daniel Ong ,Travel Tumbler,Drinkware,1,29.16,29.16
+INV-10872,06-27-2024,Arjun Menon,Filter Papers,Consumables,7,6.92,48.44
 INV-10659,2024-10-11,Priya Nair,  Wooden Tray ,Homeware,3,82.37,247.11
 INV-10180,2024-11-06,Farid Hassan,Travel Tumbler,DRINKWARE,7,28.33,198.31
 INV-10563,28/08/2024,Kevin Tan,  Travel Tumbler ,Drinkware,12,29.70,356.40
 INV-10674,2024-11-19,Grace Wong,Burr Grinder,APPLIANCES,10,343.11,3431.10
 INV-10284,2024-11-25,Aisha Rahman,Filter Papers,Consumables,8,7.28,58.24
 ,2024-10-03,Siti Nurhaliza,  Espresso Machine ,Appliances,9,1423.69,12813.21
-INV-11153,2024-06-02,Siti Nurhaliza,Wooden Tray,  Homeware ,8,73.20,585.60
+INV-11182,2024-06-04,Aisha Rahman,Burr Grinder,Appliances,3,$ 314.38,943.14
 INV-10264,2024-01-20,Siti Nurhaliza,Linen Apron,Apparel,1,41.55,41.55
 INV-10029,2024/03/21,Arjun Menon,Burr Grinder,Appliances,7,295.14,2065.98
-INV-11118,2024-06-27,Kevin Tan,Wooden Tray,Homeware,10,81.01,810.10
-INV-11074,2024-03-16,Aisha Rahman,Filter Papers,Consumables,10,7.27,72.70
+INV-11147,2024-07-05,Grace Wong,Linen Apron,Apparel,6,46.81,280.86
+INV-10279,2024-10-28,Kevin Tan,Glass Carafe,Drinkware,4,31.51,126.04
 INV-10163,2024-01-09,  Daniel Ong ,Filter Papers,Consumables,8,7.56,60.48
-INV-11003,2024-06-27,Marcus Lee,BEAN SAMPLER BOX,  Consumables ,2,62.46,124.92
+INV-10206,2024-09-22,Kevin Tan,Cotton Tote,Apparel,4,17.69,70.76
 INV-10037,2024-03-25,Siti Nurhaliza,GLASS CARAFE,Drinkware,9,36.02,324.18
 INV-10662,2024/10/14,Chloe Lim,  Glass Carafe ,DRINKWARE,7,32.77,229.39
 INV-10432,2024-05-08,Marcus Lee,Bean Sampler Box,Consumables,2,66.90,133.80
-INV-11076,2024-01-10,Ryan Cheah,  House Blend 1kg ,Consumables,11,45.39,499.29
+INV-10446,2024-08-26,  Daniel Ong ,Bean Sampler Box,Consumables,4,57.12,228.48
 INV-10573,2024-04-28,Daniel Ong,BLUE MUG,Drinkware,11,12.28,135.08
 INV-10497,2024/01/20,Priya Nair,Espresso Machine,  Appliances ,12,1460.19,17522.28
 INV-10475,2024-09-13,Farid Hassan,LINEN APRON,Apparel,7,46.71,326.97
 INV-10317,2024-03-11,Siti Nurhaliza,  Espresso Machine ,Appliances,4,1392.41,5569.64
 INV-10847,2024-02-21,Siti Nurhaliza,Travel Tumbler,DRINKWARE,10,30.38,303.80
 INV-10816,01-18-2024,Siti Nurhaliza,Espresso Machine,Appliances,2,1352.17,2704.34
-INV-11143,2024-07-13,Farid Hassan,  Blue Mug ,Drinkware,4,11.28,45.12
-INV-10196,2024-10-21,Farid Hassan,Travel Tumbler,Drinkware,11,26.48,291.28
+INV-11172,2024-02-12,Daniel Ong,Blue Mug,Drinkware,9,13.18,118.62
+INV-10883,2024/04/23,NADIA ISMAIL,House Blend 1kg,Consumables,6,44.12,264.72
 INV-10196,2024-10-21,Farid Hassan,Travel Tumbler,Drinkware,11,26.48,291.28
 INV-10153,2024-09-24,Nadia Ismail,Glass Carafe,Drinkware,12,34.45,413.40
 INV-10116,09-22-2024,Arjun Menon,Glass Carafe,Drinkware,12,37.02,444.24
-INV-11155,2024-05-10,Arjun Menon,Wooden Tray,Homeware,4,70.88,283.52
+INV-10087,06-19-2024,GRACE WONG,Linen Apron,Apparel,12,40.72,488.64
 INV-10415,26/12/2024,Arjun Menon,TRAVEL TUMBLER,Drinkware,5,26.67,133.35
 INV-10241,2024-06-25,Farid Hassan,Bean Sampler Box,Consumables,8,57.76,462.08
 INV-10615,2024-01-04,Grace Wong,  Cotton Tote ,Apparel,5,16.59,82.95
-INV-11099,2024-09-04,Priya Nair,Linen Apron,Apparel,9,$45.47,409.23
-INV-11060,2024-07-03,  Grace Wong ,Blue Mug,Drinkware,9,12.92,116.28
+INV-11127,2024-06-29,Chloe Lim,Espresso Machine,Appliances,7,1537.05,10759.35
+INV-11086,2024/11/04,Chloe Lim,Travel Tumbler,Drinkware,3,27.90,83.70
 INV-10164,04/05/2024,Siti Nurhaliza,Milk Frother,Appliances,12,84.04,1008.48
 INV-10661,2024-01-05,Arjun Menon,House Blend 1kg,  Consumables ,6,37.79,226.74
-INV-11154,07-22-2024,Daniel Ong,Bean Sampler Box,Consumables,1,66.45,66.45
-INV-11129,2024-06-24,  Daniel Ong ,Travel Tumbler,Drinkware,12,27.43,329.16
+INV-11183,25 Jun 2024,Siti Nurhaliza,Blue Mug,Drinkware,3,12.56,37.68
+INV-10980,2024-12-07,Ryan Cheah,Bean Sampler Box,Consumables,10,61.76,617.60
 INV-10273,2024-11-01,Aisha Rahman,Filter Papers,Consumables,11,6.83,75.13
 INV-10422,2024-05-01,Arjun Menon,Travel Tumbler,Drinkware,3,30.72,92.16
 INV-10866,2024-05-25,Aisha Rahman,Wooden Tray,Homeware,2,81.03,162.06
-INV-11151,Feb 30 2024,Grace Wong,Wooden Tray,Homeware,1,70.67,70.67
+INV-11180,2024-06-26,Arjun Menon,Filter Papers,  Consumables ,5,7.45,37.25
 INV-10649,0000-00-00,Daniel Ong,Milk Frother,Appliances,2,93.49,186.98
 INV-10065,2024-05-13,Marcus Lee,  House Blend 1kg ,Consumables,6,42.04,252.24
+INV-10933,2024-07-23,Arjun Menon,Burr Grinder,Appliances,7,$299.70,2097.90
 INV-10850,2024-11-12,Farid Hassan,Glass Carafe,  Drinkware ,3,33.33,99.99
 INV-10880,2024-03-12,Ryan Cheah,linen apron,Apparel,11,46.44,510.84
 INV-10326,2024-07-24,Chloe Lim,Travel Tumbler,Drinkware,10,26.56,265.60
-INV-11144,2024-05-12,  Priya Nair ,Travel Tumbler,Drinkware,10,27.02,270.20
+INV-10420,n/a,Ryan Cheah,Milk Frother,Appliances,3,$ 95.97,287.91
 INV-10445,2024-07-08,Chloe Lim,Burr Grinder,Appliances,3,350.42,1051.26
-INV-10979,02-29-2024,Kevin Tan,Wooden Tray,Homeware,12,78.08,936.96
-INV-10958,2024-07-05,Ryan Cheah,House Blend 1kg,  Consumables ,11,41.28,454.08
-INV-11012,2024-06-13,Chloe Lim,Milk Frother,Appliances,4,96.09,384.36
+INV-10864,2024-03-31,Arjun Menon,Burr Grinder,Appliances,8,319.28,2554.24
+INV-11007,11-24-2024,Farid Hassan,Filter Papers,Consumables,two,7.03,28.12
+INV-11143,2024-07-13,Farid Hassan,  Blue Mug ,Drinkware,4,11.28,45.12
 INV-10701,2024-12-21,Priya Nair,Travel Tumbler,Drinkware,7,30.73,215.11
 INV-10764,2024-12-22,Farid Hassan,Filter Papers,Consumables,12,6.97,83.64
-INV-10154,2024-09-04,Arjun Menon,Milk Frother,Appliances,9,91.06,819.54
+INV-11051,2024-04-18,AISHA RAHMAN,House Blend 1kg,Consumables,10,42.15,421.50
 INV-10246,2024-12-17,Ryan Cheah,Linen Apron,Apparel,10,42.97,429.70
 INV-10151,07 Sep 2024,Daniel Ong,Filter Papers,Consumables,7,7.02,49.14
 INV-10473,2024-12-24,Daniel Ong,Filter Papers,  Consumables ,10,6.88,68.80
@@ -918,25 +963,29 @@ INV-10205,2024-12-02,Chloe Lim,Bean Sampler Box,Consumables,1,66.03,66.03
 INV-10534,2024-12-10,Ryan Cheah,Blue Mug,Drinkware,8,13.70,109.60
 INV-10061,2024-02-11,Priya Nair,Bean Sampler Box,Consumables,9,$ 57.75,519.75
 INV-10641,02-04-2024,Siti Nurhaliza,Wooden Tray,Homeware,6,78.99,473.94
-INV-11148,2024-03-08,Farid Hassan,MILK FROTHER,Appliances,10,88.12,881.20
+INV-11038,2024-10-24,Arjun Menon,Travel Tumbler,Drinkware,4,26.60,106.40
 INV-10579,2024-02-24,  Daniel Ong ,Wooden Tray,Homeware,3,78.65,235.95
-INV-10555,2024-11-04,Aisha Rahman,Milk Frother,Appliances,10,$86.81,868.10
+INV-10957,2024-10-13,Farid Hassan,Espresso Machine,Appliances,6,1549.85,9299.10
+INV-10038,18/04/2024,CHLOE LIM,Bean Sampler Box,  Consumables ,7,66.62,466.34
+INV-10928,01-21-2024,Siti Nurhaliza,Blue Mug,Drinkware,3,11.50,34.50
 INV-10787,16 May 2024,Chloe Lim,Travel Tumbler,Drinkware,4,26.59,106.36
 INV-10873,2024-12-12,Chloe Lim,Milk Frother,APPLIANCES,5,83.98,419.90
-INV-11107,14/05/2024,Marcus Lee,House Blend 1kg,Consumables,2,$ 40.96,81.92
-INV-11171,2024-10-07,Aisha Rahman,Travel Tumbler,DRINKWARE,8,30.45,243.60
+INV-10629,12-25-2024,Chloe Lim,Blue Mug,Drinkware,6,13.23,79.38
+INV-11163,2024-08-03,Nadia Ismail,Glass Carafe,Drinkware,6,35.88,215.28
 INV-10545,12 Oct 2024,  Farid Hassan ,Linen Apron,Apparel,1,43.20,43.20
 INV-10653,2024-11-12,Priya Nair,Travel Tumbler,Drinkware,8,$ 27.15,217.20
+INV-10959,2024-04-23,Aisha Rahman,Cotton Tote,  Apparel ,11,$ 16.61,182.71
 INV-10274,2024-03-05,Farid Hassan,BLUE MUG,Drinkware,4,13.22,52.88
 INV-10478,03-29-2024,Arjun Menon,Cotton Tote,Apparel,6,18.09,108.54
-INV-10983,2024-05-16,Priya Nair,Blue Mug,Drinkware,4,12.93,51.72
-INV-11075,2024/09/21,Grace Wong,Glass Carafe,DRINKWARE,3,$ 33.21,99.63
+INV-10960,05-29-2024,Chloe Lim,Burr Grinder,APPLIANCES,11,310.73,3418.03
+INV-10760,2024-10-26,Daniel Ong,Travel Tumbler,  Drinkware ,3,30.48,91.44
+INV-10452,2024-10-25,Kevin Tan,Cotton Tote,  Apparel ,4,19.68,78.72
 INV-10676,2024-11-01,Chloe Lim,House Blend 1kg,Consumables,5,$ 40.26,201.30
 INV-10218,03-17-2024,Arjun Menon,House Blend 1kg,CONSUMABLES,8,45.64,365.12
 INV-10511,2024-04-30,Aisha Rahman,Milk Frother,Appliances,12,91.74,1100.88
-INV-11094,2024/07/11,Nadia Ismail,Bean Sampler Box,Consumables,1,$ 57.26,57.26
+INV-11128,2024-05-07,Siti Nurhaliza,,Consumables,5,55.92,279.60
 INV-10191,2024-10-31,Ryan Cheah,Travel Tumbler,Drinkware,5,25.53,127.65
-INV-10700,2024-12-22,KEVIN TAN,Filter Papers,Consumables,1,7.17,7.17
+INV-10883,2024/04/23,Nadia Ismail,House Blend 1kg,Consumables,6,44.12,264.72
 INV-10528,08-29-2024,Aisha Rahman,Bean Sampler Box,Consumables,2,68.13,136.26
 INV-10720,2024-09-16,Siti Nurhaliza,Blue Mug,DRINKWARE,7,13.62,95.34
 INV-10642,2024-01-12,Kevin Tan,Blue Mug,Drinkware,2,13.28,26.56
@@ -948,90 +997,67 @@ INV-10781,2024-05-07,  Nadia Ismail ,Espresso Machine,Appliances,9,1491.37,13422
 INV-10687,30 Sep 2024,Grace Wong,Wooden Tray,Homeware,2,73.84,147.68
 INV-10464,2024-03-24,Grace Wong,Burr Grinder,Appliances,6,347.61,2085.66
 INV-10527,12-24-2024,Daniel Ong,TRAVEL TUMBLER,Drinkware,6,25.45,152.70
-INV-10984,2024-02-01,Ryan Cheah,Milk Frother,Appliances,3,92.26,276.78
+INV-11186,2024/07/10,Marcus Lee,Espresso Machine,Appliances,9,1536.06,13824.54
 INV-10257,2024-10-12,  Kevin Tan ,Wooden Tray,Homeware,7,78.65,550.55
-INV-10987,2024/05/01,Chloe Lim,Wooden Tray,Homeware,7,78.24,547.68
+INV-10411,2024-07-09,Arjun Menon,Glass Carafe,Drinkware,6,36.15,216.90
 INV-10424,2024-02-03,Siti Nurhaliza,Bean Sampler Box,Consumables,2,57.41,114.82
-INV-10204,2024-02-29,Grace Wong,Travel Tumbler,Drinkware,6,26.96,161.76
-INV-11073,2024-03-23,Priya Nair,Blue Mug,  Drinkware ,10,11.57,115.70
+INV-11046,2024-08-16,Kevin Tan,Burr Grinder,Appliances,8,344.18,2753.44
+INV-11099,2024-09-04,Priya Nair,Linen Apron,Apparel,9,$45.47,409.23
 INV-10552,2024-07-17,Marcus Lee,linen apron,Apparel,3,45.52,136.56
 INV-10679,2024-01-31,Siti Nurhaliza,Glass Carafe,Drinkware,7,$38.13,266.91
 INV-10443,2024-06-23,Farid Hassan,Linen Apron,Apparel,4,44.86,179.44
 INV-10307,2024-11-20,Aisha Rahman,Filter Papers,Consumables,3,7.11,21.33
-INV-10986,2024-10-14,Marcus Lee,Cotton Tote,Apparel,11,$16.57,182.27
+INV-11028,2024-05-31,Nadia Ismail,Glass Carafe,DRINKWARE,9,36.62,329.58
 INV-10516,10 Jul 2024,Grace Wong,Cotton Tote,Apparel,10,18.89,188.90
 INV-10309,06-08-2024,Ryan Cheah,Cotton Tote,Apparel,6,17.43,104.58
-INV-11050,2024-11-19,Aisha Rahman,Travel Tumbler,Drinkware,9,30.20,271.80
-INV-11036,2024-01-28,Chloe Lim,Glass Carafe,  Drinkware ,10,$ 36.09,360.90
+INV-11076,2024-01-10,Ryan Cheah,  House Blend 1kg ,Consumables,11,45.39,499.29
+INV-11062,2024-11-20,Siti Nurhaliza,Burr Grinder,APPLIANCES,9,294.61,2651.49
 INV-10078,2024-01-02,Kevin Tan,linen apron,Apparel,1,47.96,47.96
 INV-10814,2024-10-06,Grace Wong,Cotton Tote,Apparel,6,,116.22
 INV-10355,17 Sep 2024,Kevin Tan,Travel Tumbler,Drinkware,7,28.82,201.74
 INV-10214,2024-03-15,Grace Wong,Cotton Tote,Apparel,9,17.08,153.72
 INV-10437,2024-02-11,Aisha Rahman,Blue Mug,Drinkware,1,13.31,13.31
 INV-10486,2024-05-28,Aisha Rahman,Burr Grinder,Appliances,3,$349.09,1047.27
-INV-10543,2024-06-13,Marcus Lee,House Blend 1kg,Consumables,11,42.31,465.41
-INV-11152,2024-09-21,Chloe Lim,Cotton Tote,Apparel,11,16.68,183.48
-INV-11176,31/08/2024,Arjun Menon,Blue Mug,Drinkware,6,12.91,77.46
-INV-10068,2024-10-15,Daniel Ong,Travel Tumbler,  Drinkware ,10,25.25,252.50
-INV-10279,2024-10-28,Kevin Tan,Glass Carafe,Drinkware,4,31.51,126.04
-INV-11016,2024-08-10,Nadia Ismail,Bean Sampler Box,Consumables,12,66.08,792.96
-INV-10606,2024-02-22,Aisha Rahman,Bean Sampler Box,Consumables,7,62.68,438.76
-INV-10097,2024-04-07,Siti Nurhaliza,Travel Tumbler,Drinkware,10,27.36,273.60
-INV-10592,24 Mar 2024,Farid Hassan,Linen Apron,Apparel,5,48.86,244.30
-INV-10864,2024-03-31,Arjun Menon,Burr Grinder,Appliances,8,319.28,2554.24
-INV-10734,2024-11-17,Daniel Ong,Milk Frother,Appliances,10,92.78,927.80
-INV-10094,2024-04-01,Farid Hassan,Blue Mug,Drinkware,5,$11.54,57.70
-INV-10980,2024-12-07,Ryan Cheah,Bean Sampler Box,Consumables,10,61.76,617.60
-INV-10760,2024-10-26,Daniel Ong,Travel Tumbler,  Drinkware ,3,30.48,91.44
-INV-11044,2024-11-24,Grace Wong,Espresso Machine,Appliances,12,1532.84,18394.08
-INV-11193,2024-11-12,Arjun Menon,Milk Frother,Appliances,8,82.06,656.48
-INV-10823,02-19-2024,Aisha Rahman,Filter Papers,Consumables,4,6.93,27.72
-INV-10411,2024-07-09,Arjun Menon,Glass Carafe,Drinkware,6,36.15,216.90
-INV-10587,09-27-2024,Aisha Rahman,Burr Grinder,Appliances,2,324.21,648.42
-INV-10304,2024/12/02,Ryan Cheah,Filter Papers,Consumables,10,7.33,73.30
-INV-10048,04 Aug 2024,Grace Wong,Travel Tumbler,Drinkware,6,28.89,173.34
-INV-10271,02/07/2024,Aisha Rahman,Burr Grinder,Appliances,11,$322.85,3551.35
-INV-10294,19/03/2024,Nadia Ismail,Burr Grinder,Appliances,6,$330.57,1983.42
-INV-10593,2024/12/12,Chloe Lim,Espresso Machine,Appliances,7,1469.34,10285.38
-INV-10548,2024-12-22,Grace Wong,Linen Apron,Apparel,6,47.57,285.42
-INV-10455,2024-07-06,GRACE WONG,LINEN APRON,Apparel,5,41.71,208.55
-INV-10860,2024-04-12,Aisha Rahman,House Blend 1kg,Consumables,4,37.59,150.36
-INV-10077,2024/02/17,Nadia Ismail,Milk Frother,Appliances,1,96.21,96.21
-INV-10806,2024-11-09,Marcus Lee,Blue Mug,Drinkware,6,11.71,70.26
-INV-10997,2024-06-18,Arjun Menon,House Blend 1kg,Consumables,1,44.37,44.37
-INV-10867,2024-04-19,Marcus Lee,Linen Apron,Apparel,10,40.95,409.50
-INV-10650,2024-04-10,Arjun Menon,Bean Sampler Box,CONSUMABLES,6,,348.72
-INV-11186,2024/07/10,Marcus Lee,Espresso Machine,Appliances,9,1536.06,13824.54
-INV-10206,2024-09-22,Kevin Tan,Cotton Tote,Apparel,4,17.69,70.76
+INV-11031,2024-07-20,Chloe Lim,Blue Mug,Drinkware,10,11.26,112.60
+INV-11181,2024-08-14,Siti Nurhaliza,Bean Sampler Box,Consumables,2,58.62,117.24
 INV-10446,2024-08-26,  Daniel Ong ,Bean Sampler Box,Consumables,4,57.12,228.48
-INV-11133,2024-05-15,  Marcus Lee ,Espresso Machine,Appliances,4,1373.11,5492.44
-INV-10372,2024-09-14,Kevin Tan,Blue Mug,Drinkware,7,12.29,86.03
-INV-10306,2024-03-14,Farid Hassan,Burr Grinder,Appliances,3,310.47,931.41
-INV-10629,12-25-2024,Chloe Lim,Blue Mug,Drinkware,6,13.23,79.38
-INV-10170,2024-10-28,Chloe Lim,Espresso Machine,Appliances,5,1519.20,7596.00
-INV-11038,2024-10-24,Arjun Menon,Travel Tumbler,Drinkware,4,26.60,106.40
-INV-10683,2024-11-20,Daniel Ong,Linen Apron,APPAREL,2,$ 43.88,87.76
-INV-11114,2024-03-21,Daniel Ong,Burr Grinder,Appliances,1,303.31,303.31
-INV-10830,08 Jul 2024,Priya Nair,Glass Carafe,Drinkware,7,34.00,238.00
-INV-10514,2024-07-07,Farid Hassan,Travel Tumbler,Drinkware,5,28.78,143.90
-INV-10508,2024-06-14,Marcus Lee,Glass Carafe,Drinkware,8,38.26,306.08
-INV-10344,2024-12-28,Arjun Menon,Filter Papers,Consumables,4,6.78,27.12
-INV-10210,2024-10-09,Aisha Rahman,Espresso Machine,Appliances,5,1510.84,"7,554.20"
-INV-11039,2024-12-01,Marcus Lee,Burr Grinder,Appliances,11,310.86,3419.46
-INV-10707,2024-11-11,Nadia Ismail,Wooden Tray,Homeware,7,70.70,494.90
-INV-10102,25/07/2024,Ryan Cheah,Milk Frother,Appliances,6,91.97,551.82
-INV-11132,2024-09-12,Ryan Cheah,Filter Papers,Consumables,4,7.87,31.48
-INV-11144,2024-05-12,  Priya Nair ,Travel Tumbler,Drinkware,10,27.02,270.20
+INV-10068,2024-10-15,Daniel Ong,Travel Tumbler,  Drinkware ,10,25.25,252.50
+INV-10067,2024/08/22,KEVIN TAN,Glass Carafe,Drinkware,5,36.10,180.50
+INV-10689,2024-10-07,Farid Hassan,Burr Grinder,Appliances,6,341.01,2046.06
+INV-10194,2024-11-02,Aisha Rahman,Bean Sampler Box,Consumables,2,61.92,123.84
+INV-10188,2024/05/15,Nadia Ismail,Cotton Tote,Apparel,4,16.46,65.84
+INV-10843,2024-07-22,Chloe Lim,Travel Tumbler,Drinkware,9,25.69,231.21
+INV-10823,02-19-2024,Aisha Rahman,Filter Papers,Consumables,4,6.93,27.72
+INV-10608,2024-05-29,Grace Wong,Burr Grinder,Appliances,1,343.28,343.28
+INV-10097,2024-04-07,Siti Nurhaliza,Travel Tumbler,Drinkware,10,27.36,273.60
+INV-10543,2024-06-13,Marcus Lee,House Blend 1kg,Consumables,11,42.31,465.41
+INV-10588,2024-10-17,Arjun Menon,Espresso Machine,Appliances,12,1366.31,16395.72
+INV-10905,2024-03-26,Daniel Ong,Linen Apron,Apparel,5,45.03,225.15
+INV-10154,2024-09-04,Arjun Menon,Milk Frother,Appliances,9,91.06,819.54
+INV-11043,2024-01-03,Kevin Tan,Burr Grinder,Appliances,3,349.35,1048.05
+INV-10993,2024/04/09,  Siti Nurhaliza ,House Blend 1kg,Consumables,12,38.98,467.76
+INV-10892,2024-09-13,Daniel Ong,Travel Tumbler,Drinkware,4,27.84,111.36
+INV-11177,2024-08-15,Priya Nair,Bean Sampler Box,Consumables,9,67.39,606.51
+INV-10613,2024-05-08,Marcus Lee,Cotton Tote,Apparel,6,$19.02,114.12
+INV-10341,2024-11-29,Marcus Lee,Blue Mug,  Drinkware ,10,12.37,123.70
+INV-10695,2024-02-12,Kevin Tan,Travel Tumbler,Drinkware,5,28.87,144.35
+INV-11029,2024-11-27,Kevin Tan,Glass Carafe,Drinkware,12,33.49,401.88
+INV-11017,2024-01-13,Arjun Menon,Travel Tumbler,Drinkware,3,$29.38,88.14
+INV-10688,2024-09-10,Siti Nurhaliza,Espresso Machine,Appliances,4,1585.76,6343.04
+INV-10421,2024-09-17,Marcus Lee,Wooden Tray,Homeware,6,78.09,468.54
+INV-10204,2024-02-29,Grace Wong,Travel Tumbler,Drinkware,6,26.96,161.76
+INV-11000,2024-10-08,Kevin Tan,Milk Frother,Appliances,10,88.83,888.30
 INV-10200,2024/02/16,Arjun Menon,Linen Apron,Apparel,8,46.21,369.68
 INV-10660,2024-06-10,Arjun Menon,Cotton Tote,  Apparel ,3,17.24,51.72
 INV-10799,03/06/2024,Kevin Tan,Linen Apron,Apparel,6,45.77,274.62
-INV-11067,2024-08-13,Priya Nair,House Blend 1kg,  Consumables ,3,$ 37.40,112.20
+INV-11093,2024/01/04,  Farid Hassan ,Espresso Machine,Appliances,12,1306.59,15679.08
 INV-10648,2024-04-19,Marcus Lee,  Linen Apron ,Apparel,12,44.00,528.00
 INV-10045,2024-10-03,Priya Nair,Milk Frother,Appliances,4,92.01,368.04
 INV-10961,2024-01-24,Priya Nair,Bean Sampler Box,Consumables,2,60.44,120.88
 INV-10041,2024-06-22,Aisha Rahman,Travel Tumbler,Drinkware,2,26.59,53.18
 INV-10546,12-13-2024,Grace Wong,wooden tray,Homeware,11,82.26,904.86
 INV-10862,09-15-2024,Grace Wong,Espresso Machine,Appliances,8,1384.45,11075.60
+INV-11054,2024-09-18,Daniel Ong,Milk Frother,Appliances,9,82.48,742.32
 INV-10865,2024-03-24,Siti Nurhaliza,House Blend 1kg,CONSUMABLES,6,41.93,251.58
 INV-10943,2024-06-22,Chloe Lim,House Blend 1kg,  Consumables ,11,39.21,431.31
 INV-10076,2024-09-15,Arjun Menon,Filter Papers,Consumables,5,$ 7.44,37.20
@@ -1043,22 +1069,22 @@ INV-10234,2024-05-30,Kevin Tan,Blue Mug,Drinkware,1,$12.06,12.06
 INV-10624,2024-12-20,Daniel Ong,ESPRESSO MACHINE,Appliances,5,1432.15,7160.75
 INV-10134,2024-10-15,Nadia Ismail,Blue Mug,Drinkware,10,13.52,135.20
 INV-10173,28/01/2024,Chloe Lim,Bean Sampler Box,Consumables,1,57.37,57.37
-INV-11080,15 May 2024,Priya Nair,Glass Carafe,Drinkware,9,35.76,321.84
+INV-11106,03-15-2024,Arjun Menon,Filter Papers,Consumables,2,6.53,13.06
 INV-10480,2024-05-15,Farid Hassan,Filter Papers,Consumables,12,7.46,89.52
 INV-10507,2024-12-08,Daniel Ong,Bean Sampler Box,Consumables,7,59.87,419.09
 INV-10500,2024-02-24,Kevin Tan,Blue Mug,Drinkware,10,12.00,120.00
 INV-10115,2024-08-05,Marcus Lee,Filter Papers,Consumables,2,7.52,15.04
-INV-10316,2024-01-29,Aisha Rahman,Blue Mug,Drinkware,10,11.80,118.00
+INV-10420,n/a,RYAN CHEAH,Milk Frother,Appliances,3,$ 95.97,287.91
 INV-10843,2024-07-22,Chloe Lim,Travel Tumbler,Drinkware,9,25.69,231.21
 INV-10731,2024-05-12,Priya Nair,Bean Sampler Box,Consumables,,62.21,746.52
 INV-10706,2024/04/19,Nadia Ismail,Filter Papers,Consumables,6,6.76,40.56
-INV-11168,2024-01-12,Priya Nair,Cotton Tote,  Apparel ,3,17.69,53.07
+INV-11197,2024-01-08,Arjun Menon,Blue Mug,  Drinkware ,3,11.83,35.49
 INV-10199,04-02-2024,Farid Hassan,Filter Papers,Consumables,5,7.17,35.85
 INV-10779,2024-10-08,Arjun Menon,Filter Papers,CONSUMABLES,7,6.95,48.65
 INV-10698,2024-01-01,Marcus Lee,Filter Papers,Consumables,2,6.66,13.32
 INV-10055,04-19-2024,Grace Wong,Glass Carafe,Drinkware,8,34.25,274.00
 INV-10714,2024-01-28,Marcus Lee,Wooden Tray,Homeware,11,74.35,817.85
-INV-10157,2024/11/08,Nadia Ismail,Espresso Machine,Appliances,10,1522.64,15226.40
+INV-10291,2024-04-20,Grace Wong,filter papers,Consumables,9,7.47,67.23
 INV-10262,2024-11-27,Daniel Ong,Burr Grinder,Appliances,4,346.58,1386.32
 INV-10092,2024-05-22,Kevin Tan,Burr Grinder,Appliances,2,305.83,611.66
 INV-10057,2024-10-11,Nadia Ismail,Cotton Tote,Apparel,12,17.23,206.76
@@ -1073,20 +1099,20 @@ INV-10801,12-28-2024,Chloe Lim,Cotton Tote,Apparel,3,18.54,55.62
 INV-10114,04/05/2024,  Priya Nair ,Wooden Tray,Homeware,7,,519.68
 INV-11037,2024-05-28,Nadia Ismail,Cotton Tote,Apparel,2,18.52,37.04
 INV-10320,2024-06-30,Daniel Ong,Espresso Machine,Appliances,11,1450.08,15950.88
-INV-11135,2024/02/10,Nadia Ismail,Glass Carafe,  Drinkware ,2,36.85,73.70
+INV-11164,2024-02-10,Priya Nair,House Blend 1kg,Consumables,2,42.09,84.18
 INV-10962,2024-07-28,  Daniel Ong ,Cotton Tote,Apparel,12,16.71,200.52
-,2024-03-01,Ryan Cheah,Glass Carafe,Drinkware,11,37.38,411.18
+INV-11131,2024-04-03,Ryan Cheah,Espresso Machine,Appliances,5,1564.35,7821.75
 INV-10224,2024-06-18,Daniel Ong,Blue Mug,Drinkware,10,11.57,115.70
 INV-10998,2024-03-19,Kevin Tan,Wooden Tray,Homeware,1,82.65,82.65
 INV-10796,01-31-2024,  Aisha Rahman ,Burr Grinder,Appliances,6,333.88,2003.28
 INV-10639,21/08/2024,Marcus Lee,  glass carafe ,Drinkware,6,33.84,203.04
-INV-11122,2024-10-02,Farid Hassan,Travel Tumbler,Drinkware,5,29.70,148.50
+INV-11151,Feb 30 2024,Grace Wong,Wooden Tray,Homeware,1,70.67,70.67
 INV-10882,2024-10-25,Ryan Cheah,Linen Apron,Apparel,1,43.99,43.99
-INV-11161,16/08/2024,Daniel Ong,filter papers,Consumables,12,7.27,87.24
+INV-11190,2024-12-21,Nadia Ismail,  Bean Sampler Box ,Consumables,10,65.28,652.80
 INV-10336,2024-11-19,Siti Nurhaliza,Cotton Tote,Apparel,8,16.45,131.60
-INV-11111,2024-09-22,Siti Nurhaliza,Cotton Tote,  Apparel ,11,$16.24,178.64
+INV-11140,2024-01-17,Chloe Lim,Linen Apron,Apparel,9,44.80,403.20
 INV-10362,2024-12-12,Ryan Cheah,COTTON TOTE,Apparel,6,16.36,98.16
-INV-10742,2024-09-14,NADIA ISMAIL,Travel Tumbler,Drinkware,2,28.40,56.80
+INV-10067,2024/08/22,Kevin Tan,Glass Carafe,Drinkware,5,36.10,180.50
 INV-10073,12-05-2024,Daniel Ong,Filter Papers,Consumables,5,7.71,38.55
 INV-10941,01-07-2024,Ryan Cheah,Travel Tumbler,Drinkware,6,26.67,160.02
 INV-10906,2024-08-21,Ryan Cheah,Blue Mug,Drinkware,5,12.00,60.00
@@ -1094,22 +1120,25 @@ INV-10770,2024-03-07,Marcus Lee,Blue Mug,Drinkware,4,13.33,53.32
 INV-10644,2024-10-13,Grace Wong,Glass Carafe,  Drinkware ,6,$35.26,211.56
 INV-10921,2024-05-14,Chloe Lim,Cotton Tote,Apparel,4,16.92,67.68
 INV-10785,2024-01-30,Arjun Menon,House Blend 1kg,Consumables,5,$ 39.17,195.85
-INV-10268,2024-11-11,GRACE WONG,Filter Papers,Consumables,8,6.67,53.36
+INV-10243,2024-07-15,Arjun Menon,Cotton Tote,Apparel,4,19.24,76.96
 INV-10881,2024-05-12,  Grace Wong ,Blue Mug,Drinkware,5,12.89,64.45
 INV-10064,2024-08-02,  Nadia Ismail ,House Blend 1kg,Consumables,2,$37.68,75.36
 INV-10036,2024-09-29,Priya Nair,Wooden Tray,Homeware,2,75.79,151.58
+INV-11119,2024-08-20,Grace Wong,MILK FROTHER,Appliances,4,84.13,336.52
+INV-11107,14/05/2024,Marcus Lee,House Blend 1kg,Consumables,2,$ 40.96,81.92
 INV-10703,02/06/2024,Priya Nair,Travel Tumbler,Drinkware,6,25.78,154.68
+INV-11110,2024-11-23,Arjun Menon,blue mug,Drinkware,3,13.61,40.83
 INV-10535,27 Apr 2024,Marcus Lee,Bean Sampler Box,Consumables,7,61.06,427.42
 INV-11033,2024-04-18,Grace Wong,Wooden Tray,  Homeware ,6,82.13,492.78
 INV-11004,03 Jul 2024,Siti Nurhaliza,,Appliances,unknown,1497.37,8984.22
 INV-11019,06/02/2024,Farid Hassan,Glass Carafe,Drinkware,9,36.95,332.55
 INV-10601,2024-02-07,Daniel Ong,Milk Frother,Appliances,12,94.31,1131.72
 INV-10413,2024-02-28,Aisha Rahman,  burr grinder ,Appliances,4,$329.57,1318.28
-INV-11190,2024-12-21,Nadia Ismail,  Bean Sampler Box ,Consumables,10,65.28,652.80
+INV-10268,2024-11-11,Grace Wong,Filter Papers,Consumables,8,6.67,53.36
 INV-11008,2024-12-15,Kevin Tan,House Blend 1kg,Consumables,1,39.37,39.37
-INV-11188,2024-07-18,Grace Wong,Glass Carafe,Drinkware,11,36.40,400.40
 INV-10156,2024-05-22,Arjun Menon,Espresso Machine,Appliances,2,1545.91,3091.82
-INV-11128,2024-05-07,SITI NURHALIZA,,Consumables,5,55.92,279.60
+INV-10156,2024-05-22,Arjun Menon,Espresso Machine,Appliances,2,1545.91,3091.82
+INV-10197,2024-05-17,Farid Hassan,  Blue Mug ,Drinkware,11,13.75,151.25
 INV-10620,2024/10/21,Marcus Lee,Wooden Tray,Homeware,8,78.96,631.68
 INV-10312,2024-08-05,Arjun Menon,TRAVEL TUMBLER,Drinkware,11,26.72,293.92
 INV-10669,2024-08-13,Chloe Lim,Bean Sampler Box,Consumables,1,66.00,66.00
@@ -1117,7 +1146,7 @@ INV-10783,16/10/2024,Chloe Lim,Bean Sampler Box,Consumables,6,65.49,392.94
 INV-10366,2024-09-27,Grace Wong,  MILK FROTHER ,Appliances,9,93.95,845.55
 INV-10054,2024-02-17,Marcus Lee,Filter Papers,Consumables,two,7.97,7.97
 INV-11020,2024-07-17,Arjun Menon,Espresso Machine,Appliances,7,1569.19,10984.33
-INV-10720,2024-09-16,Siti Nurhaliza,Blue Mug,DRINKWARE,7,13.62,95.34
+INV-10220,2024-04-06,RYAN CHEAH,Linen Apron,Apparel,6,44.60,267.60
 INV-10108,2024/03/27,Nadia Ismail,Bean Sampler Box,Consumables,12,61.67,740.04
 INV-10203,2024-01-19,Arjun Menon,Filter Papers,Consumables,9,7.90,71.10
 INV-10060,2024-09-01,Chloe Lim,BURR GRINDER,Appliances,10,291.66,2916.60
@@ -1134,8 +1163,8 @@ INV-10571,2024-10-04,Nadia Ismail,Wooden Tray,Homeware,3,76.71,230.13
 ,2024-03-30,Nadia Ismail,  Milk Frother ,Appliances,2,88.77,177.54
 INV-10992,06/10/2024,Ryan Cheah,Filter Papers,Consumables,10,7.06,70.60
 INV-10828,31/02/2024,Arjun Menon,Travel Tumbler,Drinkware,7,26.93,188.51
-INV-11165,2024-11-30,Siti Nurhaliza,Burr Grinder,Appliances,6,$302.61,1815.66
-INV-10729,2024-01-07,Ryan Cheah,Filter Papers,Consumables,2,7.60,15.20
+INV-11194,2024-04-06,Kevin Tan,Milk Frother,Appliances,,92.57,740.56
+INV-10729,2024-01-07,Ryan Cheah,Filter Papers,Consumables,2,7.60,7.60
 INV-10819,2024-09-04,Ryan Cheah,Travel Tumbler,Drinkware,10,27.09,270.90
 INV-10559,2024-11-05,Ryan Cheah,Cotton Tote,Apparel,12,19.49,233.88
 INV-10570,2024-03-27,Priya Nair,Glass Carafe,Drinkware,6,36.52,219.12
@@ -1169,7 +1198,7 @@ INV-10142,2024/02/28,Farid Hassan,Espresso Machine,Appliances,11,1341.60,14757.6
 INV-10386,2024-10-10,Aisha Rahman,Bean Sampler Box,Consumables,9,62.09,558.81
 INV-10876,2024-12-16,Daniel Ong,House Blend 1kg,Consumables,5,42.41,212.05
 INV-10595,2024-06-26,Aisha Rahman,Wooden Tray,Homeware,12,69.59,835.08
-INV-11194,2024-04-06,Kevin Tan,Milk Frother,Appliances,,92.57,740.56
+INV-10638,2024-02-29,Ryan Cheah,Travel Tumbler,Drinkware,2,26.85,53.70
 INV-11134,2024-11-12,Kevin Tan,Espresso Machine,Appliances,-,1363.80,5455.20
 INV-10462,19 Jun 2024,Arjun Menon,Blue Mug,Drinkware,3,11.36,34.08
 INV-10909,2024-01-10,Marcus Lee,Glass Carafe,Drinkware,7,38.03,266.21
@@ -1190,13 +1219,13 @@ INV-10278,2024-12-04,Aisha Rahman,Milk Frother,Appliances,2,$94.31,188.62
 INV-11064,2024/10/27,Nadia Ismail,Linen Apron,Apparel,6,46.38,278.28
 INV-10225,2024-01-08,Ryan Cheah,Cotton Tote,Apparel,8,16.56,132.48
 INV-10954,2024-11-05,Farid Hassan,Bean Sampler Box,Consumables,2,62.61,125.22
-INV-11089,2024-07-14,Kevin Tan,Linen Apron,Apparel,8,42.57,340.56
+INV-10253,2024-10-03,Kevin Tan,linen apron,Apparel,3,42.08,126.24
 INV-10643,2024-05-04,Chloe Lim,Filter Papers,Consumables,3,6.68,20.04
 INV-10231,2024-04-26,Ryan Cheah,  Espresso Machine ,APPLIANCES,5,1488.04,"7,440.20"
 INV-10834,2024-04-26,Chloe Lim,Bean Sampler Box,Consumables,10,60.93,609.30
 INV-10466,2024-09-07,Ryan Cheah,Bean Sampler Box,Consumables,9,66.07,594.63
 INV-11053,2024-10-28,Ryan Cheah,Glass Carafe,Drinkware,4,33.96,135.84
-INV-10375,2024-08-29,Ryan Cheah,Glass Carafe,Drinkware,5,$ 32.37,161.85
+INV-10256,2024-04-25,Nadia Ismail,Cotton Tote,Apparel,3,19.67,59.01
 INV-10868,2024-05-17,Nadia Ismail,Filter Papers,Consumables,4,6.85,27.40
 INV-10777,2024/05/23,Arjun Menon,Espresso Machine,Appliances,5,1568.41,7842.05
 INV-10726,2024-05-02,Aisha Rahman,Travel Tumbler,Drinkware,7,26.94,188.58
@@ -1204,11 +1233,12 @@ INV-10370,16 Mar 2024,Grace Wong,Glass Carafe,Drinkware,9,33.31,299.79
 INV-10219,2024-10-09,  Chloe Lim ,Bean Sampler Box,Consumables,6,61.81,370.86
 INV-10900,2024-08-07,Arjun Menon,Linen Apron,APPAREL,7,46.20,323.40
 INV-10379,2024-05-01,Siti Nurhaliza,Linen Apron,  Apparel ,5,41.50,207.50
+INV-11030,2024-03-13,Daniel Ong,Blue Mug,Drinkware,9,12.63,113.67
 INV-10750,2024-01-01,  Nadia Ismail ,Wooden Tray,Homeware,6,81.73,490.38
 INV-10972,2024-05-07,Siti Nurhaliza,Linen Apron,Apparel,12,49.32,591.84
 INV-11032,2024-04-17,Ryan Cheah,Bean Sampler Box,Consumables,5,67.54,337.70
 INV-10438,2024-11-29,  Marcus Lee ,Filter Papers,Consumables,5,7.64,38.20
-INV-11187,07-21-2024,Marcus Lee,Linen Apron,Apparel,7,48.44,339.08
+INV-10402,2024-02-10,KEVIN TAN,Bean Sampler Box,Consumables,2,59.44,118.88
 INV-10008,2024-11-05,Siti Nurhaliza,Linen Apron,Apparel,6,41.37,248.22
 INV-11100,2024-05-09,Siti Nurhaliza,Burr Grinder,Appliances,8,323.78,2590.24
 INV-10351,2024-12-05,Grace Wong,Milk Frother,Appliances,12,97.32,1167.84
@@ -1234,33 +1264,3 @@ INV-10185,2024/03/21,Aisha Rahman,ESPRESSO MACHINE,Appliances,2,1355.41,2710.82
 INV-10059,2024-02-01,Ryan Cheah,Blue Mug,Drinkware,9,12.70,114.30
 INV-10719,2024/04/20,Aisha Rahman,House Blend 1kg,Consumables,5,$ 37.91,189.55
 INV-10378,2024/11/07,Chloe Lim,GLASS CARAFE,Drinkware,12,35.24,422.88
-INV-10409,2024-11-26,Kevin Tan,Blue Mug,Drinkware,4,11.57,46.28
-INV-10597,16/06/2024,Aisha Rahman,House Blend 1kg,Consumables,7,45.28,316.96
-INV-10420,n/a,Ryan Cheah,Milk Frother,Appliances,3,$ 95.97,287.91
-INV-10446,2024-08-26,  Daniel Ong ,Bean Sampler Box,Consumables,4,57.12,228.48
-INV-10253,2024-10-03,Kevin Tan,linen apron,Apparel,3,42.08,126.24
-INV-10197,2024-05-17,Farid Hassan,  Blue Mug ,Drinkware,11,13.75,151.25
-INV-10021,03-12-2024,Marcus Lee,Filter Papers,Consumables,5,7.19,35.95
-INV-10617,0000-00-00,Priya Nair,Burr Grinder,Appliances,11,315.56,3471.16
-INV-10135,2024-03-10,Arjun Menon,blue mug,Drinkware,7,$ 11.46,80.22
-INV-10088,2024-05-16,Priya Nair,Filter Papers,Consumables,4,7.78,31.12
-INV-10518,01/11/2024,Daniel Ong,  Espresso Machine ,Appliances,11,1525.94,16785.34
-INV-10243,2024-07-15,Arjun Menon,Cotton Tote,Apparel,4,19.24,76.96
-INV-10960,05-29-2024,Chloe Lim,Burr Grinder,APPLIANCES,11,310.73,3418.03
-INV-10121,2024-05-21,Chloe Lim,Milk Frother,Appliances,11,93.48,1028.28
-INV-10616,2024-06-17,Arjun Menon,Burr Grinder,Appliances,7,341.86,2393.02
-INV-11051,2024-04-18,Aisha Rahman,House Blend 1kg,Consumables,10,42.15,421.50
-INV-10067,2024/08/22,Kevin Tan,Glass Carafe,Drinkware,5,36.10,180.50
-INV-10220,2024-04-06,Ryan Cheah,Linen Apron,Apparel,6,44.60,267.60
-INV-10402,2024-02-10,Kevin Tan,Bean Sampler Box,Consumables,2,59.44,118.88
-INV-10087,06-19-2024,Grace Wong,Linen Apron,Apparel,12,40.72,488.64
-INV-10883,2024/04/23,Nadia Ismail,House Blend 1kg,Consumables,6,44.12,264.72
-INV-10991,2024-12-26,Ryan Cheah,Cotton Tote,Apparel,11,19.19,211.09
-INV-10038,18/04/2024,Chloe Lim,Bean Sampler Box,  Consumables ,7,66.62,466.34
-INV-10159,23/06/2024,Siti Nurhaliza,  Cotton Tote ,Apparel,5,16.96,84.80
-INV-10228,2024/06/17,Nadia Ismail,Wooden Tray,Homeware,2,74.44,148.88
-INV-10870,2024-01-05,Marcus Lee,Glass Carafe,Drinkware,10,35.93,359.30
-INV-10160,10-11-2024,Aisha Rahman,House Blend 1kg,Consumables,5,$ 43.17,215.85
-INV-10266,22/12/2024,Chloe Lim,Linen Apron,Apparel,11,$44.58,490.38
-INV-10429,2024-08-09,Chloe Lim,Glass Carafe,Drinkware,3,$ 36.77,110.31
-INV-10256,2024-04-25,Nadia Ismail,Cotton Tote,Apparel,3,19.67,59.01

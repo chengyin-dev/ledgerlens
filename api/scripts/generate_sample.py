@@ -161,6 +161,18 @@ def defect_missing_required(rng: random.Random, rows: list[dict]) -> int:
     return len(affected)
 
 
+def defect_total_mismatch(rng: random.Random, rows: list[dict]) -> int:
+    """Make some supplied totals disagree with quantity * unit price."""
+    affected = _pick(rng, rows, 0.01)
+    for row in affected:
+        total = float(row["line_total"].replace(",",""))
+        if rng.choice([True, False]):
+            row["line_total"] = f"{total * 1.5:.2f}"
+        else: 
+            row["line_total"] = f"{total * 0.5:.2f}"
+    return len(affected)
+
+
 def defect_duplicates(rng: random.Random, rows: list[dict]) -> int:
     """Append exact duplicates and near-duplicates that differ only by casing.
 
@@ -189,6 +201,7 @@ DEFECTS = [
     ("Unparseable dates", defect_broken_dates),
     ("Missing required fields", defect_missing_required),
     ("Non-numeric quantity values", defect_bad_quantity),
+    ("Total mismatches", defect_total_mismatch),
     ("Duplicate and near-duplicate rows", defect_duplicates),
 ]
 
