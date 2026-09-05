@@ -77,12 +77,19 @@ def deduplicate(frame: pd.DataFrame) -> tuple[pd.DataFrame, int, int]:
 REQUIRED_FIELDS = ["order_id", "order_date", "product", "quantity", "unit_price"]
 TOTAL_TOLERANCE = 0.01
 
+
 def validate_rows(frame: pd.DataFrame) -> tuple[pd.DataFrame, pd.DataFrame, dict]:
     """Split rows into those that can be trusted and those that cannot.
 
     Returns the valid rows, the rejected rows, and counts per rejection reason.
     """
     missing_mask = frame[REQUIRED_FIELDS].isna().any(axis=1)
+
+    text_fields = [f for f in ["order_id", "product"] if f in frame.columns]
+    for field in text_fields:
+        missing_mask = missing_mask | (
+            frame[field].astype(str).str.strip() == ""
+        )
 
     invalid_range_mask = (
         (frame["quantity"] <= 0) | (frame["unit_price"] < 0)
@@ -95,8 +102,9 @@ def validate_rows(frame: pd.DataFrame) -> tuple[pd.DataFrame, pd.DataFrame, dict
 
     return valid, rejected, {
         "missing_required": int(missing_mask.sum()),
-        "invalid_range": int(invalid_range_mask.sum()), 
+        "invalid_range": int(invalid_range_mask.sum()),
     }
+
 
 def recompute_totals(frame: pd.DataFrame) -> tuple[pd.DataFrame, pd.Series]:
     """Set line_total to quantity * unit_price, flagging supplied disagreements.
