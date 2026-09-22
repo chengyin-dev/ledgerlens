@@ -1,71 +1,110 @@
-import type { DatasetDetail, DatasetSummary } from "../types";
+import type { DatasetDetail, DatasetSummary } from '../types'
 
-const API_URL = import.meta.env.VITE_API_URL;
+const rawApiUrl = import.meta.env.VITE_API_URL
 
-if (!API_URL) {
-    throw new Error("VITE_API_URL is not configured");
+if (!rawApiUrl) {
+  throw new Error('VITE_API_URL is not configured')
 }
 
-async function request<T>(
-    path: string,
-    options: RequestInit = {}
-): Promise<T> {
-    const response = await fetch(`${API_URL}${path}`, options)
+// A trailing slash in the env var would produce "//api/datasets".
+const API_URL = rawApiUrl.replace(/\/+$/, '')
 
-    if(!response.ok) {
-        let message = `Request failed with status ${response.status}`;
+/** status is 0 when the request never got a response. */
+export class ApiError extends Error {
+  readonly status: number
 
-        try {
-            const body = await response.json();
+  constructor(message: string, status: number) {
+    super(message)
+    this.name = 'ApiError'
+    this.status = status
+  }
+}
 
-            if(typeof body.detail === "string") {
-                message = body.detail;
-            } else if (Array.isArray(body.detail)) {
-                message = body.detail
-                    .map((error: {msg?: string}) => error.msg ?? "Validation error")
-                    .join(", ");
-            }
-        } catch {
-            // Response wasn't JSON; keep the fallback message
-        }
+/** True when a GET for one resource can never succeed: missing or malformed id. */
+export function isNotFound(error: unknown): boolean {
+  return error instanceof ApiError && (error.status === 404 || error.status === 422)
+}
 
-        throw new Error(message);
+export function errorMessage(error: unknown, fallback: string): string {
+  return error instanceof Error && error.message ? error.message : fallback
+}
+
+async function readErrorMessage(response: Response): Promise<string> {
+  try {
+    const body: unknown = await response.json()
+
+    if (body && typeof body === 'object' && 'detail' in body) {
+      const detail = (body as { detail: unknown }).detail
+
+      if (typeof detail === 'string') {
+        return detail
+      }
+
+      if (Array.isArray(detail)) {
+        return detail
+          .map((item: { msg?: string }) => item.msg ?? 'Validation error')
+          .join(', ')
+      }
     }
+  } catch {
+    // Not JSON, e.g. an HTML error page from a proxy. Fall through.
+  }
 
-    // DELETE returns 204 no Content
-    if (response.status === 204) {
-        return undefined as T;
-    }
+  if (response.status >= 500) {
+    return `The server hit an error (${response.status}). Try again in a moment.`
+  }
 
-    return response.json() as Promise<T>;
+  return `Request failed with status ${response.status}.`
 }
 
-export async function listDatasets(): Promise<DatasetSummary[]> {
-    return request<DatasetSummary[]>("/api/datasets");
+async function request<T>(path: string, options: RequestInit = {}): Promise<T> {
+  let response: Response
+
+  try {
+    response = await fetch(`${API_URL}${path}`, options)
+  } catch {
+    throw new ApiError(
+      "Couldn't reach the server. Check your connection and try again.",
+      0,
+    )
+  }
+
+  if (!response.ok) {
+    throw new ApiError(await readErrorMessage(response), response.status)
+  }
+
+  // DELETE returns 204 No Content, so there is no body to parse.
+  if (response.status === 204) {
+    return undefined as T
+  }
+
+  return response.json() as Promise<T>
 }
 
-export async function getDataset(id: string): Promise<DatasetDetail> {
-    return request<DatasetDetail>(`/api/datasets/${id}`);
+export function listDatasets(): Promise<DatasetSummary[]> {
+  return request<DatasetSummary[]>('/api/datasets')
 }
 
-export async function uploadCsv(file: File): Promise<DatasetDetail> {
-    const formData = new FormData();
-    formData.append("file", file);
-
-    return request<DatasetDetail>("/api/datasets/upload", {
-        method: "POST",
-        body: formData,
-    });
+export function getDataset(id: string): Promise<DatasetDetail> {
+  return request<DatasetDetail>(`/api/datasets/${encodeURIComponent(id)}`)
 }
 
-export async function loadSample(): Promise<DatasetDetail> {
-    return request<DatasetDetail>("/api/datasets/sample", {
-        method: "POST",
-    });
+export function uploadCsv(file: File): Promise<DatasetDetail> {
+  const formData = new FormData()
+  formData.append('file', file)
+
+  return request<DatasetDetail>('/api/datasets/upload', {
+    method: 'POST',
+    body: formData,
+  })
 }
 
-export async function deleteDataset(id: string): Promise<void> {
-    return request<void>(`/api/datasets/${id}`, {
-        method: "DELETE",
-    });
+export function loadSample(): Promise<DatasetDetail> {
+  return request<DatasetDetail>('/api/datasets/sample', { method: 'POST' })
+}
+
+export function deleteDataset(id: string): Promise<void> {
+  return request<void>(`/api/datasets/${encodeURIComponent(id)}`, {
+    method: 'DELETE',
+  })
 }
