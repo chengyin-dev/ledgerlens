@@ -1,19 +1,10 @@
 import { Navigate, NavLink, Route, Routes } from 'react-router-dom'
+import HistoryPage from './pages/HistoryPage'
 import ReportPage from './pages/ReportPage'
 import UploadPage from './pages/UploadPage'
 import './App.css'
 
-function HistoryPage() {
-  return (
-    <main className="page">
-      <div className="page-placeholder">
-        <h1>Dataset history</h1>
-        <p>Your uploaded datasets will appear here.</p>
-      </div>
-    </main>
-  )
-}
-
+const navClass = ({ isActive }: { isActive: boolean }) => `nav-link${isActive ? ' active' : ''}`
 
 function App() {
   return (
@@ -24,23 +15,12 @@ function App() {
             LedgerLens
           </NavLink>
 
-          <nav className="main-nav" aria-label="Main navigation">
-            <NavLink
-              to="/"
-              end
-              className={({ isActive }) =>
-                `nav-link${isActive ? ' active' : ''}`
-              }
-            >
+          <nav className="main-nav" aria-label="Main">
+            <NavLink to="/" end className={navClass}>
               Upload
             </NavLink>
-
-            <NavLink
-              to="/datasets"
-              className={({ isActive }) =>
-                `nav-link${isActive ? ' active' : ''}`
-              }
-            >
+            {/* Not "end", so History stays highlighted on a report page. */}
+            <NavLink to="/datasets" className={navClass}>
               History
             </NavLink>
           </nav>
