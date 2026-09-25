@@ -672,10 +672,13 @@
 
 .table-card {
   overflow: hidden;
+  max-width: 100%;
 }
 
 .table-scroll {
   overflow-x: auto;
+  max-width: 100%;
+  min-width: 0;
 }
 
 .data-table {
@@ -744,6 +747,11 @@
   padding-bottom: var(--s-2);
 }
 
+.history-table td:first-child,
+.history-table th:first-child {
+  min-width: 132px;
+}
+
 .table-link {
   min-height: 44px;
   display: inline-flex;
@@ -751,7 +759,7 @@
   color: var(--primary);
   font-weight: 500;
   text-decoration: none;
-  overflow-wrap: anywhere;
+  overflow-wrap: break-word;
 }
 
 .table-link:hover {

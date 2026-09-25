@@ -142,9 +142,10 @@ function Report({ dataset }: { dataset: DatasetDetail }) {
 
       {!hasCleanRows && (
         <div className="notice" role="status">
-          None of the {formatNumber(dataset.row_count_raw)}{' '}
-          {dataset.row_count_raw === 1 ? 'row' : 'rows'} in this file could be used, so there
-          are no sales figures. The sections below show what went wrong.
+          {dataset.row_count_raw === 1
+            ? "The only row in this file couldn't be used"
+            : `None of the ${formatNumber(dataset.row_count_raw)} rows in this file could be used`}
+          , so there are no sales figures. The sections below show what went wrong.
         </div>
       )}
 
