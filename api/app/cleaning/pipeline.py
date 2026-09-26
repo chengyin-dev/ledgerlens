@@ -194,7 +194,7 @@ def clean(raw_bytes: bytes) -> tuple[pd.DataFrame, dict]:
         text_before = frame[column]
         numbers, failed = to_numeric(text_before)
         cleaned_text = strip_numeric_noise(text_before)
-        numeric_cleaned += int((text_before.str.strip() != cleaned_text).sum())
+        numeric_cleaned += int(((text_before.str.strip() != cleaned_text) & ~failed).sum())
         numeric_failures[column] = int(failed.sum())
         frame[column] = numbers
 
