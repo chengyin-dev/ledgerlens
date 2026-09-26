@@ -10,5 +10,3 @@ export const chartTheme = {
   line: '#1E40AF',
   series: ['#1E40AF', '#3B82F6', '#60A5FA', '#93C5FD', '#D97706'],
 } as const
-
-export const MAX_UPLOAD_BYTES = 5 * 1024 * 1024

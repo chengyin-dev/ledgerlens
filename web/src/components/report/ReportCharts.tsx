@@ -12,8 +12,8 @@ import {
   XAxis,
   YAxis,
 } from 'recharts'
-import { useMediaQuery } from '../../../hooks/useMediaQuery'
-import { chartTheme } from '../../../theme'
+import { useMediaQuery } from '../../hooks/useMediaQuery'
+import { chartTheme } from '../../theme'
 import type { CategoryPoint, PeriodPoint, ProductPoint } from '../../types'
 import {
   formatCompactMoney,

@@ -2,7 +2,7 @@ import { useRef, useState } from 'react'
 import type { ChangeEvent, DragEvent } from 'react'
 import { useNavigate } from 'react-router-dom'
 import { errorMessage, loadSample, uploadCsv } from '../api/client'
-import { MAX_UPLOAD_BYTES } from '../../theme'
+import { MAX_UPLOAD_BYTES } from '../config'
 import type { DatasetDetail } from '../types'
 
 type UploadAction = 'upload' | 'sample' | null

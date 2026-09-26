@@ -35,7 +35,8 @@ function CleaningReport({ report }: { report: CleaningReportData }) {
       <div className="section-heading">
         <h2 id="cleaning-heading">What happened to your data</h2>
         <p>
-          <span className="num">{formatNumber(report.row_count_raw)}</span> rows read,{' '}
+          <span className="num">{formatNumber(report.row_count_raw)}</span>{' '}
+          {report.row_count_raw === 1 ? 'row' : 'rows'} read,{' '}
           <span className="num">{formatNumber(report.row_count_clean)}</span> kept,{' '}
           <span className="num">{formatNumber(report.row_count_rejected)}</span> left out of
           the figures.

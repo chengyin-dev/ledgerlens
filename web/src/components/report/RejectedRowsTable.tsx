@@ -52,8 +52,10 @@ function RejectedRowsTable({ rows, totalExcluded }: { rows: RejectedRow[]; total
         <h2 id="rejected-heading">Rows we couldn't use</h2>
         {rows.length > 0 ? (
           <p>
-            Showing <span className="num">{formatNumber(rows.length)}</span> example
-            {rows.length === 1 ? ' row' : ' rows'} exactly as they appear in your file. Row
+            Showing <span className="num">{formatNumber(rows.length)}</span>{' '}
+            {rows.length === 1
+              ? 'example row exactly as it appears'
+              : 'example rows exactly as they appear'} in your file. Row
             numbers match your spreadsheet.
           </p>
         ) : null}
