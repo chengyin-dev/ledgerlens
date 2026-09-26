@@ -1,0 +1,14 @@
+name: Keep API warm
+
+on:
+  schedule:
+    # Every 14 minutes, 00:00–15:59 UTC = 8am–midnight Malaysia time
+    - cron: "*/14 0-15 * * *"
+  workflow_dispatch:
+
+jobs:
+  ping:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Ping health endpoint
+        run: curl --fail --silent --show-error --max-time 90 https://ledgerlens-api-ha8d.onrender.com/api/health
