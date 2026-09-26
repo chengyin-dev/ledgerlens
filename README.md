@@ -109,7 +109,7 @@ Interactive documentation is generated at `/docs` on the API.
 
 ## Running locally
 
-Requires Python 3.12 and Node.js 20 or later, plus a PostgreSQL database.
+Requires Python 3.12 and Node.js 20.19+ or 22.12, plus a PostgreSQL database.
 
 ### API
 
